@@ -6,7 +6,7 @@
 
 import numpy as np
 import tensorflow as tf
-from utils import load_w2v, batch_index, load_inputs_twitter
+from utils import load_w2v, batch_index, load_inputs_twitter, load_word_id_mapping
 
 
 FLAGS = tf.app.flags.FLAGS
@@ -45,7 +45,9 @@ class LSTM(object):
         self.word_id_mapping, self.w2v = load_w2v(FLAGS.embedding_file_path, self.embedding_dim)
         self.word_embedding = tf.constant(self.w2v, name='word_embedding')
         # self.word_embedding = tf.Variable(self.w2v, name='word_embedding')
-        # self.word_embedding = tf.Variable(tf.random_uniform([14400, self.embedding_dim], -0.1, 0.1), name='word_embedding')
+        # self.word_id_mapping = load_word_id_mapping(FLAGS.word_id_file_path)
+        # self.word_embedding = tf.Variable(
+        #     tf.random_uniform([len(self.word_id_mapping), self.embedding_dim], -0.1, 0.1), name='word_embedding')
 
         self.dropout_keep_prob = tf.placeholder(tf.float32)
         with tf.name_scope('inputs'):
