@@ -1,0 +1,62 @@
+<hr>
+<h3>$T$: {{target}}, true lable: {{ty}}, predict label: {{py}}</h3>
+<h3>{{ sentence }}</h3>
+<div id="main{{ number }}" style="width: 600px; height:400px;">
+
+ </div>
+
+        <script type="text/javascript">
+            // 基于准备好的dom，初始化echarts实例
+            var myChart = echarts.init(document.getElementById('main{{ number }}'));
+
+            var hours = [''];
+            //var days = ['The', '$T$', 'is', 'top', 'notch', 'as', 'well', '.'];
+            var days = {%raw word %};
+
+            var data = {{ weight }};
+
+            var option = {
+                tooltip: {
+                    position: 'top'
+                },
+                animation: false,
+                grid: {
+                    height: '80%',
+                    y: '0%'
+                },
+                xAxis: {
+                    type: 'category',
+                    data: hours
+                },
+                yAxis: {
+                    type: 'category',
+                    data: days
+                },
+                visualMap: {
+                    min: 0,
+                    max: 1,
+                    calculable: true,
+                    orient: 'horizontal',
+                    left: 'center',
+                    bottom: '0%'
+                },
+                series: [{
+                    name: '',
+                    type: 'heatmap',
+                    data: data,
+                    label: {
+                        normal: {
+                            show: true
+                        }
+                    },
+                    itemStyle: {
+                        emphasis: {
+                            shadowBlur: 10,
+                            shadowColor: 'rgba(0, 0, 0, 0.5)'
+                        }
+                    }
+                }]
+            };
+            // 使用刚指定的配置项和数据显示图表。
+            myChart.setOption(option);
+        </script>

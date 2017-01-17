@@ -1,0 +1,1134 @@
+bread||positive||The/1 is/1 top/2 notch/3 as/4 well/5 ./6
+delivery times||positive||I/10 have/9 to/8 say/7 they/6 have/5 one/4 of/3 the/2 fastest/1 in/1 the/2 city/3 ./4
+Food||positive||is/1 always/2 fresh/3 and/4 hot/5 -/6 ready/7 to/8 eat/9 !/10
+coffee||positive||Did/5 I/4 mention/3 that/2 the/1 is/1 OUTSTANDING/2 ?/3
+sushi||negative||Certainly/4 not/3 the/2 best/1 in/1 New/2 York/3 ,/4 however/5 ,/6 it/7 is/8 always/9 fresh/10 ,/11 and/12 the/13 place/14 is/15 very/16 clean/17 ,/18 sterile/19 ./20
+place||positive||Certainly/18 not/17 the/16 best/15 sushi/14 in/13 New/12 York/11 ,/10 however/9 ,/8 it/7 is/6 always/5 fresh/4 ,/3 and/2 the/1 is/1 very/2 clean/3 ,/4 sterile/5 ./6
+people||positive||I/3 trust/2 the/1 at/1 Go/2 Sushi/3 ,/4 it/5 never/6 disappoints/7 ./8
+Japanese food||positive||Straight-forward/7 ,/6 no/5 surprises/4 ,/3 very/2 decent/1 ./1
+asian salad||positive||BEST/6 spicy/5 tuna/4 roll/3 ,/2 great/1 ./1
+spicy tuna roll||positive||BEST/1 ,/1 great/2 asian/3 salad/4 ./5
+rose roll||positive||Try/2 the/1 (/1 not/2 on/3 menu/4 )/5 ./6
+menu||neutral||Try/7 the/6 rose/5 roll/4 (/3 not/2 on/1 )/1 ./2
+drinks||positive||I/3 love/2 the/1 ,/1 esp/2 lychee/3 martini/4 ,/5 and/6 the/7 food/8 is/9 also/10 VERY/11 good/12 ./13
+lychee martini||positive||I/6 love/5 the/4 drinks/3 ,/2 esp/1 ,/1 and/2 the/3 food/4 is/5 also/6 VERY/7 good/8 ./9
+food||positive||I/11 love/10 the/9 drinks/8 ,/7 esp/6 lychee/5 martini/4 ,/3 and/2 the/1 is/1 also/2 VERY/3 good/4 ./5
+Nicoise salad||negative||In/7 fact/6 ,/5 this/4 was/3 not/2 a/1 and/1 was/2 barely/3 eatable/4 ./5
+menu||positive||While/5 there/4 's/3 a/2 decent/1 ,/1 it/2 should/3 n't/4 take/5 ten/6 minutes/7 to/8 get/9 your/10 drinks/11 and/12 45/13 for/14 a/15 dessert/16 pizza/17 ./18
+drinks||neutral||While/16 there/15 's/14 a/13 decent/12 menu/11 ,/10 it/9 should/8 n't/7 take/6 ten/5 minutes/4 to/3 get/2 your/1 and/1 45/2 for/3 a/4 dessert/5 pizza/6 ./7
+dessert pizza||neutral||While/21 there/20 's/19 a/18 decent/17 menu/16 ,/15 it/14 should/13 n't/12 take/11 ten/10 minutes/9 to/8 get/7 your/6 drinks/5 and/4 45/3 for/2 a/1 ./1
+food||positive||Once/6 we/5 sailed/4 ,/3 the/2 top-notch/1 and/1 live/2 entertainment/3 sold/4 us/5 on/6 a/7 unforgettable/8 evening/9 ./10
+live entertainment||positive||Once/8 we/7 sailed/6 ,/5 the/4 top-notch/3 food/2 and/1 sold/1 us/2 on/3 a/4 unforgettable/5 evening/6 ./7
+waiter||negative||Our/1 was/1 horrible/2 ;/3 so/4 rude/5 and/6 disinterested/7 ./8
+sangria||negative||The/1 's/1 -/2 watered/3 down/4 ./5
+menu||negative||-/1 uneventful/2 ,/3 small/4 ./5
+sushi||positive||Anytime/17 and/16 everytime/15 I/14 find/13 myself/12 in/11 the/10 neighborhood/9 I/8 will/7 go/6 to/5 Sushi/4 Rose/3 for/2 fresh/1 and/1 great/2 portions/3 all/4 at/5 a/6 reasonable/7 price/8 ./9
+portions||positive||Anytime/20 and/19 everytime/18 I/17 find/16 myself/15 in/14 the/13 neighborhood/12 I/11 will/10 go/9 to/8 Sushi/7 Rose/6 for/5 fresh/4 sushi/3 and/2 great/1 all/1 at/2 a/3 reasonable/4 price/5 ./6
+price||positive||Anytime/25 and/24 everytime/23 I/22 find/21 myself/20 in/19 the/18 neighborhood/17 I/16 will/15 go/14 to/13 Sushi/12 Rose/11 for/10 fresh/9 sushi/8 and/7 great/6 portions/5 all/4 at/3 a/2 reasonable/1 ./1
+food||positive||Great/1 but/1 the/2 service/3 was/4 dreadful/5 !/6
+service||negative||Great/4 food/3 but/2 the/1 was/1 dreadful/2 !/3
+portions of the food||neutral||The/1 that/1 came/2 out/3 were/4 mediocre/5 ./6
+waitress 's||negative||the/2 two/1 looked/1 like/2 they/3 had/4 been/5 sucking/6 on/7 lemons/8 ./9
+staff memebers||positive||From/9 the/8 beginning/7 ,/6 we/5 were/4 met/3 by/2 friendly/1 ,/1 and/2 the/3 convienent/4 parking/5 at/6 Chelsea/7 Piers/8 made/9 it/10 easy/11 for/12 us/13 to/14 get/15 to/16 the/17 boat/18 ./19
+parking||positive||From/15 the/14 beginning/13 ,/12 we/11 were/10 met/9 by/8 friendly/7 staff/6 memebers/5 ,/4 and/3 the/2 convienent/1 at/1 Chelsea/2 Piers/3 made/4 it/5 easy/6 for/7 us/8 to/9 get/10 to/11 the/12 boat/13 ./14
+desserts||positive||We/11 enjoyed/10 ourselves/9 thoroughly/8 and/7 will/6 be/5 going/4 back/3 for/2 the/1 .../1
+Desserts||positive||are/1 almost/2 incredible/3 :/4 my/5 personal/6 favorite/7 is/8 their/9 Tart/10 of/11 the/12 Day/13 ./14
+Tart of the Day||positive||Desserts/10 are/9 almost/8 incredible/7 :/6 my/5 personal/4 favorite/3 is/2 their/1 ./1
+food||positive||The/1 was/1 extremely/2 tasty/3 ,/4 creatively/5 presented/6 and/7 the/8 wine/9 excellent/10 ./11
+wine||positive||The/10 food/9 was/8 extremely/7 tasty/6 ,/5 creatively/4 presented/3 and/2 the/1 excellent/1 ./2
+LASAGNA||positive||THE/1 WAS/1 PROBABLY/2 THE/3 BEST/4 I/5 HAVE/6 TASTED/7 ./8
+array of sushi||positive||Harumi/8 Sushi/7 has/6 the/5 freshest/4 and/3 most/2 delicious/1 in/1 NYC/2 ./3
+cuisine||positive||I/9 highly/8 recommend/7 it/6 for/5 not/4 just/3 its/2 superb/1 ,/1 but/2 also/3 for/4 its/5 friendly/6 owners/7 and/8 staff/9 ./10
+owners||positive||I/16 highly/15 recommend/14 it/13 for/12 not/11 just/10 its/9 superb/8 cuisine/7 ,/6 but/5 also/4 for/3 its/2 friendly/1 and/1 staff/2 ./3
+staff||positive||I/18 highly/17 recommend/16 it/15 for/14 not/13 just/12 its/11 superb/10 cuisine/9 ,/8 but/7 also/6 for/5 its/4 friendly/3 owners/2 and/1 ./1
+indian food||positive||If/6 you/5 're/4 craving/3 some/2 serious/1 and/1 desire/2 a/3 cozy/4 ambiance/5 ,/6 this/7 is/8 quite/9 and/10 exquisite/11 choice/12 ./13
+ambiance||positive||If/12 you/11 're/10 craving/9 some/8 serious/7 indian/6 food/5 and/4 desire/3 a/2 cozy/1 ,/1 this/2 is/3 quite/4 and/5 exquisite/6 choice/7 ./8
+food||positive||I/4 definitely/3 enjoyed/2 the/1 as/1 well/2 ./3
+service||positive||It/6 was/5 pleasantly/4 uncrowded/3 ,/2 the/1 was/1 delightful/2 ,/3 the/4 garden/5 adorable/6 ,/7 the/8 food/9 (/10 from/11 appetizers/12 to/13 entrees/14 )/15 was/16 delectable/17 ./18
+garden||positive||It/11 was/10 pleasantly/9 uncrowded/8 ,/7 the/6 service/5 was/4 delightful/3 ,/2 the/1 adorable/1 ,/2 the/3 food/4 (/5 from/6 appetizers/7 to/8 entrees/9 )/10 was/11 delectable/12 ./13
+food||positive||It/15 was/14 pleasantly/13 uncrowded/12 ,/11 the/10 service/9 was/8 delightful/7 ,/6 the/5 garden/4 adorable/3 ,/2 the/1 (/1 from/2 appetizers/3 to/4 entrees/5 )/6 was/7 delectable/8 ./9
+appetizers||positive||It/18 was/17 pleasantly/16 uncrowded/15 ,/14 the/13 service/12 was/11 delightful/10 ,/9 the/8 garden/7 adorable/6 ,/5 the/4 food/3 (/2 from/1 to/1 entrees/2 )/3 was/4 delectable/5 ./6
+entrees||positive||It/20 was/19 pleasantly/18 uncrowded/17 ,/16 the/15 service/14 was/13 delightful/12 ,/11 the/10 garden/9 adorable/8 ,/7 the/6 food/5 (/4 from/3 appetizers/2 to/1 )/1 was/2 delectable/3 ./4
+food||positive||The/1 is/1 surprisingly/2 good/3 ,/4 and/5 the/6 decor/7 is/8 nice/9 ./10
+decor||positive||The/8 food/7 is/6 surprisingly/5 good/4 ,/3 and/2 the/1 is/1 nice/2 ./3
+lunch||negative||How/13 pretentious/12 and/11 inappropriate/10 for/9 MJ/8 Grill/7 to/6 claim/5 that/4 it/3 provides/2 power/1 and/1 dinners/2 !/3
+dinners||negative||How/15 pretentious/14 and/13 inappropriate/12 for/11 MJ/10 Grill/9 to/8 claim/7 that/6 it/5 provides/4 power/3 lunch/2 and/1 !/1
+steaks||negative||Two/2 wasted/1 --/1 what/2 a/3 crime/4 !/5
+staff||negative||The/1 should/1 be/2 a/3 bit/4 more/5 friendly/6 ./7
+meatball parm||positive||I/3 think/2 the/1 is/1 good/2 ./3
+latin food||positive||If/8 you/7 want/6 good/5 tasting/4 ,/3 well/2 seasoned/1 eat/1 at/2 Cabana/3 and/4 you/5 ca/6 n't/7 go/8 wrong/9 ./10
+taglierini with truffles||positive||Definitely/3 try/2 the/1 -/1 it/2 was/3 incredible/4 ./5
+staff||positive||Also/3 ,/2 the/1 is/1 very/2 attentive/3 and/4 really/5 personable/6 ./7
+gnocchi||positive||The/1 literally/1 melts/2 in/3 your/4 mouth/5 !/6
+staff||positive||Had/7 a/6 great/5 experience/4 at/3 Trio/2 .../1 was/1 pleasant/2 ;/3 food/4 was/5 tasty/6 and/7 large/8 in/9 portion/10 size/11 -/12 I/13 would/14 highly/15 recommend/16 the/17 portobello/gorgonzola/sausage/18 appetizer/19 and/20 the/21 lobster/22 risotto/23 ./24
+food||positive||Had/11 a/10 great/9 experience/8 at/7 Trio/6 .../5 staff/4 was/3 pleasant/2 ;/1 was/1 tasty/2 and/3 large/4 in/5 portion/6 size/7 -/8 I/9 would/10 highly/11 recommend/12 the/13 portobello/gorgonzola/sausage/14 appetizer/15 and/16 the/17 lobster/18 risotto/19 ./20
+portion size||positive||Had/17 a/16 great/15 experience/14 at/13 Trio/12 .../11 staff/10 was/9 pleasant/8 ;/7 food/6 was/5 tasty/4 and/3 large/2 in/1 -/1 I/2 would/3 highly/4 recommend/5 the/6 portobello/gorgonzola/sausage/7 appetizer/8 and/9 the/10 lobster/11 risotto/12 ./13
+portobello/gorgonzola/sausage appetizer||positive||Had/25 a/24 great/23 experience/22 at/21 Trio/20 .../19 staff/18 was/17 pleasant/16 ;/15 food/14 was/13 tasty/12 and/11 large/10 in/9 portion/8 size/7 -/6 I/5 would/4 highly/3 recommend/2 the/1 and/1 the/2 lobster/3 risotto/4 ./5
+lobster risotto||positive||Had/29 a/28 great/27 experience/26 at/25 Trio/24 .../23 staff/22 was/21 pleasant/20 ;/19 food/18 was/17 tasty/16 and/15 large/14 in/13 portion/12 size/11 -/10 I/9 would/8 highly/7 recommend/6 the/5 portobello/gorgonzola/sausage/4 appetizer/3 and/2 the/1 ./1
+Entrees||neutral||include/1 classics/2 like/3 lasagna/4 ,/5 fettuccine/6 Alfredo/7 and/8 chicken/9 parmigiana/10 ./11
+lasagna||neutral||Entrees/4 include/3 classics/2 like/1 ,/1 fettuccine/2 Alfredo/3 and/4 chicken/5 parmigiana/6 ./7
+fettuccine Alfredo||neutral||Entrees/6 include/5 classics/4 like/3 lasagna/2 ,/1 and/1 chicken/2 parmigiana/3 ./4
+chicken parmigiana||neutral||Entrees/9 include/8 classics/7 like/6 lasagna/5 ,/4 fettuccine/3 Alfredo/2 and/1 ./1
+food||positive||The/1 is/1 good/2 ,/3 the/4 teriyaki/5 I/6 recommend/7 ./8
+teriyaki||positive||The/6 food/5 is/4 good/3 ,/2 the/1 I/1 recommend/2 ./3
+Meal||negative||was/1 very/2 expensive/3 for/4 what/5 you/6 get/7 ./8
+Peanut Butter Sorbet||positive||Try/2 the/1 and/1 the/2 pizza/3 with/4 soy/5 cheese/6 !/7
+pizza with soy cheese||positive||Try/7 the/6 Peanut/5 Butter/4 Sorbet/3 and/2 the/1 !/1
+food||positive||Good/1 at/1 the/2 right/3 price/4 ,/5 what/6 more/7 can/8 you/9 ask/10 for/11 ./12
+price||positive||Good/5 food/4 at/3 the/2 right/1 ,/1 what/2 more/3 can/4 you/5 ask/6 for/7 ./8
+food||positive||The/1 is/1 top/2 notch/3 ,/4 the/5 service/6 is/7 attentive/8 ,/9 and/10 the/11 atmosphere/12 is/13 great/14 ./15
+service||positive||The/7 food/6 is/5 top/4 notch/3 ,/2 the/1 is/1 attentive/2 ,/3 and/4 the/5 atmosphere/6 is/7 great/8 ./9
+atmosphere||positive||The/13 food/12 is/11 top/10 notch/9 ,/8 the/7 service/6 is/5 attentive/4 ,/3 and/2 the/1 is/1 great/2 ./3
+food||positive||Great/1 ,/1 great/2 waitstaff/3 ,/4 great/5 atmosphere/6 ,/7 and/8 best/9 of/10 all/11 GREAT/12 beer/13 !/14
+waitstaff||positive||Great/4 food/3 ,/2 great/1 ,/1 great/2 atmosphere/3 ,/4 and/5 best/6 of/7 all/8 GREAT/9 beer/10 !/11
+atmosphere||positive||Great/7 food/6 ,/5 great/4 waitstaff/3 ,/2 great/1 ,/1 and/2 best/3 of/4 all/5 GREAT/6 beer/7 !/8
+beer||positive||Great/14 food/13 ,/12 great/11 waitstaff/10 ,/9 great/8 atmosphere/7 ,/6 and/5 best/4 of/3 all/2 GREAT/1 !/1
+food||positive||this/13 is/12 still/11 one/10 of/9 my/8 most/7 favorite/6 restaurants/5 in/4 the/3 area/2 the/1 is/1 inexpensive/2 but/3 very/4 good/5 (/6 kimono/7 shrimp/8 special/9 was/10 excellent/11 )/12 and/13 has/14 a/15 great/16 atmosphere/17 ./18
+kimono shrimp special||positive||this/20 is/19 still/18 one/17 of/16 my/15 most/14 favorite/13 restaurants/12 in/11 the/10 area/9 the/8 food/7 is/6 inexpensive/5 but/4 very/3 good/2 (/1 was/1 excellent/2 )/3 and/4 has/5 a/6 great/7 atmosphere/8 ./9
+atmosphere||positive||this/30 is/29 still/28 one/27 of/26 my/25 most/24 favorite/23 restaurants/22 in/21 the/20 area/19 the/18 food/17 is/16 inexpensive/15 but/14 very/13 good/12 (/11 kimono/10 shrimp/9 special/8 was/7 excellent/6 )/5 and/4 has/3 a/2 great/1 ./1
+menu||positive||The/1 is/1 interesting/2 and/3 quite/4 reasonably/5 priced/6 ./7
+priced||positive||The/7 menu/6 is/5 interesting/4 and/3 quite/2 reasonably/1 ./1
+food||positive||The/1 was/1 delicious/2 and/3 clearly/4 fresh/5 ingredients/6 were/7 used/8 ./9
+ingredients||positive||The/7 food/6 was/5 delicious/4 and/3 clearly/2 fresh/1 were/1 used/2 ./3
+food||negative||This/6 made/5 it/4 obvious/3 that/2 the/1 was/1 n't/2 cooked/3 fresh/4 ;/5 it/6 was/7 obviously/8 made/9 before/10 hand/11 and/12 then/13 reheated/14 ./15
+Appetizer||positive||are/1 excellent/2 here/3 ;/4 you/5 can/6 make/7 a/8 great/9 (/10 and/11 inexpensive/12 )/13 meal/14 out/15 of/16 them/17 ./18
+meal||positive||Appetizer/14 are/13 excellent/12 here/11 ;/10 you/9 can/8 make/7 a/6 great/5 (/4 and/3 inexpensive/2 )/1 out/1 of/2 them/3 ./4
+spicy mussels||positive||The/1 are/1 a/2 highlight/3 ./4
+Onion Rings||positive||Also/3 get/2 the/1 --/1 best/2 we/3 've/4 ever/5 had/6 ./7
+food||negative||However/11 ,/10 being/9 foodies/8 ,/7 we/6 were/5 utterly/4 disappointed/3 with/2 the/1 ./1
+portions||positive||Huge/1 ,/1 great/2 and/3 attentive/4 service/5 ,/6 and/7 pretty/8 good/9 prices/10 ./11
+service||positive||Huge/6 portions/5 ,/4 great/3 and/2 attentive/1 ,/1 and/2 pretty/3 good/4 prices/5 ./6
+prices||positive||Huge/11 portions/10 ,/9 great/8 and/7 attentive/6 service/5 ,/4 and/3 pretty/2 good/1 ./1
+service||negative||I/6 was/5 highly/4 disappointed/3 by/2 their/1 and/1 food/2 ./3
+food||negative||I/8 was/7 highly/6 disappointed/5 by/4 their/3 service/2 and/1 ./1
+waiter||negative||I/4 complained/3 to/2 the/1 and/1 then/2 to/3 the/4 manager/5 ,/6 but/7 the/8 intensity/9 of/10 rudeness/11 from/12 them/13 just/14 went/15 up/16 ./17
+manager||negative||I/9 complained/8 to/7 the/6 waiter/5 and/4 then/3 to/2 the/1 ,/1 but/2 the/3 intensity/4 of/5 rudeness/6 from/7 them/8 just/9 went/10 up/11 ./12
+food||positive||The/1 is/1 great/2 and/3 the/4 milkshakes/5 are/6 even/7 better/8 !/9
+milkshakes||positive||The/6 food/5 is/4 great/3 and/2 the/1 are/1 even/2 better/3 !/4
+mushroom barley soup||positive||the/1 is/1 amazing/2 ./3
+food||positive||I/7 'm/6 glad/5 I/4 did/3 as/2 the/1 was/1 very/2 good/3 and/4 the/5 staff/6 was/7 friendly/8 ,/9 courteous/10 and/11 efficient/12 ./13
+staff||positive||I/13 'm/12 glad/11 I/10 did/9 as/8 the/7 food/6 was/5 very/4 good/3 and/2 the/1 was/1 friendly/2 ,/3 courteous/4 and/5 efficient/6 ./7
+duck||positive||Their/1 here/1 is/2 also/3 absolutely/4 delicious/5 ./6
+drinks||positive||While/10 it/9 was/8 large/7 and/6 a/5 bit/4 noisy/3 ,/2 the/1 were/1 fantastic/2 ,/3 and/4 the/5 food/6 was/7 superb/8 ./9
+food||positive||While/16 it/15 was/14 large/13 and/12 a/11 bit/10 noisy/9 ,/8 the/7 drinks/6 were/5 fantastic/4 ,/3 and/2 the/1 was/1 superb/2 ./3
+curried casseroles||negative||One/6 caveat/5 :/4 Some/3 of/2 the/1 can/1 be/2 a/3 trifle/4 harsh/5 ./6
+food||positive||The/1 was/1 almost/2 always/3 EXCELLENT/4 ./5
+taste||positive||I/6 was/5 pleasently/4 surprised/3 at/2 the/1 ./1
+seafood||positive||A/27 nice/26 space/25 ,/24 as/23 long/22 as/21 it/20 does/19 n't/18 get/17 too/16 crowded/15 and/14 a/13 singleminded/12 devotion/11 to/10 its/9 chosen/8 cuisine/7 make/6 Mare/5 a/4 great/3 choice/2 for/1 lovers/1 ./2
+space||negative||A/2 nice/1 ,/1 as/2 long/3 as/4 it/5 does/6 n't/7 get/8 too/9 crowded/10 and/11 a/12 singleminded/13 devotion/14 to/15 its/16 chosen/17 cuisine/18 make/19 Mare/20 a/21 great/22 choice/23 for/24 seafood/25 lovers/26 ./27
+cuisine||positive||A/20 nice/19 space/18 ,/17 as/16 long/15 as/14 it/13 does/12 n't/11 get/10 too/9 crowded/8 and/7 a/6 singleminded/5 devotion/4 to/3 its/2 chosen/1 make/1 Mare/2 a/3 great/4 choice/5 for/6 seafood/7 lovers/8 ./9
+orange donut||neutral||I/4 never/3 had/2 an/1 before/1 so/2 I/3 gave/4 it/5 a/6 shot/7 ./8
+atmosphere||positive||they/7 really/6 provide/5 a/4 relaxing/3 ,/2 laid-back/1 ./1
+meats||negative||This/6 particular/5 location/4 certainly/3 uses/2 substandard/1 ./1
+Management||negative||The/1 was/1 less/2 than/3 accomodating/4 ./5
+ambience||positive||The/1 is/1 also/2 more/3 laid-back/4 and/5 relaxed/6 ./7
+teas||positive||the/1 are/1 great/2 and/3 all/4 the/5 sweets/6 are/7 homemade/8 ./9
+sweets||positive||the/7 teas/6 are/5 great/4 and/3 all/2 the/1 are/1 homemade/2 ./3
+mojitos||positive||and/1 the/2 service/3 are/4 the/5 best/6 part/7 in/8 there/9
+service||positive||mojitos/3 and/2 the/1 are/1 the/2 best/3 part/4 in/5 there/6
+Sandwiches||positive||,/1 burgers/2 and/3 salads/4 ,/5 like/6 the/7 lemon-dressed/8 cobb/9 ,/10 are/11 classic/12 successes/13 ./14
+burgers||positive||Sandwiches/2 ,/1 and/1 salads/2 ,/3 like/4 the/5 lemon-dressed/6 cobb/7 ,/8 are/9 classic/10 successes/11 ./12
+salads||positive||Sandwiches/4 ,/3 burgers/2 and/1 ,/1 like/2 the/3 lemon-dressed/4 cobb/5 ,/6 are/7 classic/8 successes/9 ./10
+lemon-dressed cobb||positive||Sandwiches/8 ,/7 burgers/6 and/5 salads/4 ,/3 like/2 the/1 ,/1 are/2 classic/3 successes/4 ./5
+design||positive||The/1 is/1 very/2 intimate/3 and/4 romantic/5 ./6
+food||positive||The/1 was/1 wonderful/2 and/3 imaginative/4 ./5
+staff||positive||The/1 is/1 very/2 sharp/3 and/4 they/5 look/6 good/7 too/8 ./9
+taste||negative||The/5 worst/4 though/3 was/2 the/1 ./1
+fajita||negative||The/1 we/1 tried/2 was/3 tasteless/4 and/5 burned/6 and/7 the/8 mole/9 sauce/10 was/11 way/12 too/13 sweet/14 ./15
+mole sauce||negative||The/10 fajita/9 we/8 tried/7 was/6 tasteless/5 and/4 burned/3 and/2 the/1 was/1 way/2 too/3 sweet/4 ./5
+roasted chickens||positive||Stay/3 with/2 the/1 and/1 you/2 'll/3 be/4 fine/5 ./6
+atmosphere||positive||The/1 is/1 warm/2 ,/3 comfortable/4 ,/5 artsy/6 and/7 sexy/8 ./9
+food||positive||The/1 is/1 great/2 (/3 big/4 selection/5 ,/6 reasonable/7 prices/8 )/9 and/10 the/11 drinks/12 are/13 really/14 good/15 ./16
+selection||positive||The/6 food/5 is/4 great/3 (/2 big/1 ,/1 reasonable/2 prices/3 )/4 and/5 the/6 drinks/7 are/8 really/9 good/10 ./11
+prices||positive||The/9 food/8 is/7 great/6 (/5 big/4 selection/3 ,/2 reasonable/1 )/1 and/2 the/3 drinks/4 are/5 really/6 good/7 ./8
+drinks||positive||The/13 food/12 is/11 great/10 (/9 big/8 selection/7 ,/6 reasonable/5 prices/4 )/3 and/2 the/1 are/1 really/2 good/3 ./4
+steak||positive||The/1 melted/1 in/2 my/3 mouth/4 ./5
+waiters||positive||The/14 food/13 did/12 take/11 a/10 few/9 extra/8 minutes/7 to/6 come/5 ,/4 but/3 the/2 cute/1 '/1 jokes/2 and/3 friendliness/4 made/5 up/6 for/7 it/8 ./9
+food||neutral||The/1 did/1 take/2 a/3 few/4 extra/5 minutes/6 to/7 come/8 ,/9 but/10 the/11 cute/12 waiters/13 '/14 jokes/15 and/16 friendliness/17 made/18 up/19 for/20 it/21 ./22
+priced||positive||Most/6 importantly/5 ,/4 it/3 is/2 reasonably/1 ./1
+selection of food||positive||The/1 is/1 excellent/2 (/3 I/4 'm/5 not/6 used/7 to/8 having/9 much/10 choice/11 at/12 restaurants/13 )/14 ,/15 and/16 the/17 atmosphere/18 is/19 great/20 ./21
+atmosphere||positive||The/21 selection/20 of/19 food/18 is/17 excellent/16 (/15 I/14 'm/13 not/12 used/11 to/10 having/9 much/8 choice/7 at/6 restaurants/5 )/4 ,/3 and/2 the/1 is/1 great/2 ./3
+dessert||negative||Only/7 suggestion/6 is/5 that/4 you/3 skip/2 the/1 ,/1 it/2 was/3 overpriced/4 and/5 fell/6 short/7 on/8 taste/9 ./10
+taste||negative||Only/16 suggestion/15 is/14 that/13 you/12 skip/11 the/10 dessert/9 ,/8 it/7 was/6 overpriced/5 and/4 fell/3 short/2 on/1 ./1
+Food||positive||was/1 decent/2 ,/3 but/4 not/5 great/6 ./7
+hot dog||negative||i/10 dont/9 know/8 what/7 some/6 people/5 who/4 rave/3 about/2 this/1 are/1 talking/2 about/3 ./4
+bar||positive||it/9 is/8 a/7 hidden/6 delight/5 complete/4 with/3 a/2 quaint/1 and/1 good/2 food/3 ./4
+food||positive||it/12 is/11 a/10 hidden/9 delight/8 complete/7 with/6 a/5 quaint/4 bar/3 and/2 good/1 ./1
+waiters||negative||The/1 ALWAYS/1 look/2 angry/3 and/4 even/5 ignore/6 their/7 high-tipping/8 regulars/9 ./10
+atmosphere||positive||the/1 is/1 very/2 nice/3 ,/4 and/5 a/6 welcome/7 escape/8 from/9 the/10 rest/11 of/12 the/13 SI/14 mall/15 ./16
+food||positive||Yes/18 ,/17 they/16 're/15 a/14 bit/13 more/12 expensive/11 then/10 typical/9 ,/8 but/7 then/6 again/5 ,/4 so/3 is/2 their/1 ./1
+wraps||positive||I/5 can/4 say/3 that/2 the/1 ,/1 burgers/2 and/3 salads/4 were/5 all/6 fresh/7 ,/8 tasty/9 and/10 the/11 mango/12 margareta/13 at/14 $/15 9/16 was/17 WELL/18 WORTH/19 the/20 money/21 ./22
+burgers||positive||I/7 can/6 say/5 that/4 the/3 wraps/2 ,/1 and/1 salads/2 were/3 all/4 fresh/5 ,/6 tasty/7 and/8 the/9 mango/10 margareta/11 at/12 $/13 9/14 was/15 WELL/16 WORTH/17 the/18 money/19 ./20
+salads||positive||I/9 can/8 say/7 that/6 the/5 wraps/4 ,/3 burgers/2 and/1 were/1 all/2 fresh/3 ,/4 tasty/5 and/6 the/7 mango/8 margareta/9 at/10 $/11 9/12 was/13 WELL/14 WORTH/15 the/16 money/17 ./18
+mango margareta||positive||I/17 can/16 say/15 that/14 the/13 wraps/12 ,/11 burgers/10 and/9 salads/8 were/7 all/6 fresh/5 ,/4 tasty/3 and/2 the/1 at/1 $/2 9/3 was/4 WELL/5 WORTH/6 the/7 money/8 ./9
+prices||positive||Anywhere/4 else/3 ,/2 the/1 would/1 be/2 3x/3 as/4 high/5 !/6
+service||positive||The/1 we/1 experienced/2 was/3 friendly/4 and/5 good/6 ./7
+waiter||positive||Our/1 was/1 friendly/2 and/3 it/4 is/5 a/6 shame/7 that/8 he/9 didnt/10 have/11 a/12 supportive/13 staff/14 to/15 work/16 with/17 ./18
+staff||negative||Our/15 waiter/14 was/13 friendly/12 and/11 it/10 is/9 a/8 shame/7 that/6 he/5 didnt/4 have/3 a/2 supportive/1 to/1 work/2 with/3 ./4
+folding chair||negative||The/1 I/1 was/2 seated/3 at/4 was/5 uncomfortable/6 ./7
+Service||positive||was/1 among/2 the/3 best/4 I/5 have/6 ever/7 had/8 in/9 NYC/10 ./11
+fettucino alfredo||positive||The/1 was/1 amazing/2 ./3
+food||positive||The/1 was/1 very/2 good/3 and/4 I/5 was/6 pleasantly/7 surprised/8 to/9 see/10 so/11 many/12 vegan/13 options/14 ./15
+vegan options||positive||The/14 food/13 was/12 very/11 good/10 and/9 I/8 was/7 pleasantly/6 surprised/5 to/4 see/3 so/2 many/1 ./1
+Indian food||negative||I/3 know/2 real/1 and/1 this/2 was/3 n't/4 it/5 ./6
+Smoked Trout||positive||Be/5 sure/4 to/3 try/2 the/1 .../1 Lamb/2 Chops/3 ,/4 Veal/5 Chops/6 ,/7 Rabbit/8 ,/9 the/10 potato/11 gratin/12 ,/13 on/14 and/15 on/16 and/17 on/18 .../19
+Lamb Chops||positive||Be/8 sure/7 to/6 try/5 the/4 Smoked/3 Trout/2 .../1 ,/1 Veal/2 Chops/3 ,/4 Rabbit/5 ,/6 the/7 potato/8 gratin/9 ,/10 on/11 and/12 on/13 and/14 on/15 .../16
+Veal Chops||positive||Be/11 sure/10 to/9 try/8 the/7 Smoked/6 Trout/5 .../4 Lamb/3 Chops/2 ,/1 ,/1 Rabbit/2 ,/3 the/4 potato/5 gratin/6 ,/7 on/8 and/9 on/10 and/11 on/12 .../13
+Rabbit||positive||Be/14 sure/13 to/12 try/11 the/10 Smoked/9 Trout/8 .../7 Lamb/6 Chops/5 ,/4 Veal/3 Chops/2 ,/1 ,/1 the/2 potato/3 gratin/4 ,/5 on/6 and/7 on/8 and/9 on/10 .../11
+potato gratin||positive||Be/17 sure/16 to/15 try/14 the/13 Smoked/12 Trout/11 .../10 Lamb/9 Chops/8 ,/7 Veal/6 Chops/5 ,/4 Rabbit/3 ,/2 the/1 ,/1 on/2 and/3 on/4 and/5 on/6 .../7
+chef||neutral||Even/3 when/2 the/1 is/1 not/2 in/3 the/4 house/5 ,/6 the/7 food/8 and/9 service/10 are/11 right/12 on/13 target/14 ./15
+food||positive||Even/11 when/10 the/9 chef/8 is/7 not/6 in/5 the/4 house/3 ,/2 the/1 and/1 service/2 are/3 right/4 on/5 target/6 ./7
+service||positive||Even/13 when/12 the/11 chef/10 is/9 not/8 in/7 the/6 house/5 ,/4 the/3 food/2 and/1 are/1 right/2 on/3 target/4 ./5
+eggs benedict||positive||Everything/3 from/2 the/1 to/1 the/2 mussels/3 and/4 even/5 the/6 hamburger/7 were/8 done/9 well/10 and/11 very/12 tasty/13 ./14
+mussels||positive||Everything/7 from/6 the/5 eggs/4 benedict/3 to/2 the/1 and/1 even/2 the/3 hamburger/4 were/5 done/6 well/7 and/8 very/9 tasty/10 ./11
+hamburger||positive||Everything/11 from/10 the/9 eggs/8 benedict/7 to/6 the/5 mussels/4 and/3 even/2 the/1 were/1 done/2 well/3 and/4 very/5 tasty/6 ./7
+waiters||positive||The/1 were/1 very/2 professional/3 ,/4 courteous/5 and/6 attentive/7 ./8
+falafal||negative||The/1 was/1 rather/2 over/3 cooked/4 and/5 dried/6 but/7 the/8 chicken/9 was/10 fine/11 ./12
+chicken||positive||The/10 falafal/9 was/8 rather/7 over/6 cooked/5 and/4 dried/3 but/2 the/1 was/1 fine/2 ./3
+grand marnier shrimp||positive||I/4 highly/3 reccomend/2 the/1 ,/1 it/2 's/3 insanely/4 good/5 ./6
+food||positive||We/8 been/7 there/6 and/5 we/4 really/3 enjoy/2 the/1 ,/1 was/2 areally/3 great/4 food/5 ,/6 and/7 the/8 service/9 was/10 really/11 good/12 ./13
+food||positive||We/13 been/12 there/11 and/10 we/9 really/8 enjoy/7 the/6 food/5 ,/4 was/3 areally/2 great/1 ,/1 and/2 the/3 service/4 was/5 really/6 good/7 ./8
+service||positive||We/17 been/16 there/15 and/14 we/13 really/12 enjoy/11 the/10 food/9 ,/8 was/7 areally/6 great/5 food/4 ,/3 and/2 the/1 was/1 really/2 good/3 ./4
+Desserts||neutral||include/1 flan/2 and/3 sopaipillas/4 ./5
+flan||neutral||Desserts/2 include/1 and/1 sopaipillas/2 ./3
+sopaipillas||neutral||Desserts/4 include/3 flan/2 and/1 ./1
+portions||negative||I/6 was/5 starving/4 and/3 the/2 small/1 were/1 driving/2 me/3 crazy/4 !/5
+wait staff||negative||The/1 was/1 loud/2 and/3 inconsiderate/4 ./5
+food||negative||However/3 ,/2 the/1 and/1 service/2 and/3 dramatically/4 lacking/5 ./6
+service||negative||However/5 ,/4 the/3 food/2 and/1 and/1 dramatically/2 lacking/3 ./4
+sushi||negative||The/1 is/1 cut/2 in/3 blocks/4 bigger/5 than/6 my/7 cell/8 phone/9 ./10
+service||positive||The/1 is/1 great/2 ,/3 my/4 soup/5 always/6 arrives/7 nice/8 and/9 hot/10 ./11
+soup||positive||The/6 service/5 is/4 great/3 ,/2 my/1 always/1 arrives/2 nice/3 and/4 hot/5 ./6
+crepes||positive||It/10 had/9 been/8 awhile/7 and/6 I/5 forgot/4 just/3 how/2 delicious/1 can/1 be/2 ./3
+desserts||positive||Montparnasse/2 's/1 --/1 especially/2 the/3 silken/4 creme/5 brulee/6 and/7 paper-thin/8 apple/9 tart/10 --/11 are/12 good/13 enough/14 on/15 their/16 own/17 to/18 make/19 the/20 restaurant/21 worth/22 the/23 trip/24 ./25
+creme brulee||positive||Montparnasse/7 's/6 desserts/5 --/4 especially/3 the/2 silken/1 and/1 paper-thin/2 apple/3 tart/4 --/5 are/6 good/7 enough/8 on/9 their/10 own/11 to/12 make/13 the/14 restaurant/15 worth/16 the/17 trip/18 ./19
+apple tart||positive||Montparnasse/11 's/10 desserts/9 --/8 especially/7 the/6 silken/5 creme/4 brulee/3 and/2 paper-thin/1 --/1 are/2 good/3 enough/4 on/5 their/6 own/7 to/8 make/9 the/10 restaurant/11 worth/12 the/13 trip/14 ./15
+shrimp creole||positive||i/4 had/3 a/2 delicious/1 ./1
+chicken dinner||positive||The/1 was/1 real/2 good/3 ./4
+chili signed food items||negative||Beware/3 of/2 the/1 not/1 unless/2 you/3 want/4 to/5 call/6 the/7 fire/8 department/9 to/10 douse/11 the/12 flames/13 in/14 your/15 mouth/16 ./17
+decor||neutral||The/1 is/1 designed/2 in/3 a/4 contemporary/5 Japanese/6 style/7 restaurant/8 ./9
+food||positive||but/2 the/1 was/1 delicious/2 ./3
+coconut rice||positive||Try/10 the/9 ribs/8 ,/7 sizzling/6 beef/5 and/4 couple/3 it/2 with/1 ./1
+ribs||positive||Try/2 the/1 ,/1 sizzling/2 beef/3 and/4 couple/5 it/6 with/7 coconut/8 rice/9 ./10
+beef||positive||Try/5 the/4 ribs/3 ,/2 sizzling/1 and/1 couple/2 it/3 with/4 coconut/5 rice/6 ./7
+avocado salad||positive||The/1 is/1 a/2 personal/3 fave/4 ./5
+honey BBQ rib tips||positive||And/3 ,/2 the/1 are/1 yummy/2 !/3
+Chinese food||positive||The/2 BEST/1 Uptown/1 !/2
+Service||positive||is/1 known/2 for/3 bending/4 over/5 backwards/6 to/7 make/8 everyone/9 happy/10 ./11
+atmosphere||negative||The/1 is/1 attractive/2 ,/3 but/4 a/5 little/6 uncomfortable/7 ./8
+staff||positive||The/1 is/1 very/2 friendly/3 ./4
+Waiters||positive||are/1 very/2 friendly/3 and/4 the/5 pasta/6 is/7 out/8 of/9 this/10 world/11 ./12
+pasta||positive||Waiters/6 are/5 very/4 friendly/3 and/2 the/1 is/1 out/2 of/3 this/4 world/5 ./6
+wine list||positive||Great/1 and/1 great/2 cocktail/3 menu/4 ./5
+cocktail menu||positive||Great/5 wine/4 list/3 and/2 great/1 ./1
+crab cakes||positive||The/1 are/1 delicious/2 and/3 the/4 BBQ/5 rib/6 was/7 perfect/8 ./9
+BBQ rib||positive||The/7 crab/6 cakes/5 are/4 delicious/3 and/2 the/1 was/1 perfect/2 ./3
+food||positive||The/1 is/1 wonderful/2 ,/3 artfully/4 done/5 and/6 simply/7 delicious/8 ./9
+service||positive||Tiny/5 restaurant/4 with/3 very/2 fast/1 ./1
+sauce||negative||The/1 may/1 not/2 be/3 for/4 everyone/5 ,/6 since/7 it/8 is/9 distintive/10 ./11
+service||positive||My/19 husband/18 and/17 I/16 have/15 been/14 there/13 at/12 least/11 6/10 times/9 and/8 we/7 've/6 always/5 been/4 given/3 the/2 highest/1 and/1 often/2 free/3 desserts/4 ./5
+desserts||positive||My/23 husband/22 and/21 I/20 have/19 been/18 there/17 at/16 least/15 6/14 times/13 and/12 we/11 've/10 always/9 been/8 given/7 the/6 highest/5 service/4 and/3 often/2 free/1 ./1
+atmosphere||positive||A/2 beautiful/1 ,/1 perfect/2 for/3 drinks/4 and/or/5 appetizers/6 ./7
+drinks||neutral||A/6 beautiful/5 atmosphere/4 ,/3 perfect/2 for/1 and/or/1 appetizers/2 ./3
+appetizers||neutral||A/8 beautiful/7 atmosphere/6 ,/5 perfect/4 for/3 drinks/2 and/or/1 ./1
+pizza||positive||They/4 make/3 the/2 best/1 in/1 New/2 Jersey/3 ./4
+service||positive||What/5 a/4 difference/3 ,/2 the/1 was/1 very/2 comforting/3 and/4 the/5 food/6 was/7 better/8 than/9 average/10 ,/11 but/12 what/13 really/14 standed/15 out/16 was/17 such/18 a/19 dynamic/20 and/21 extensive/22 beer/23 list/24 ./25
+food||positive||What/11 a/10 difference/9 ,/8 the/7 service/6 was/5 very/4 comforting/3 and/2 the/1 was/1 better/2 than/3 average/4 ,/5 but/6 what/7 really/8 standed/9 out/10 was/11 such/12 a/13 dynamic/14 and/15 extensive/16 beer/17 list/18 ./19
+beer list||positive||What/28 a/27 difference/26 ,/25 the/24 service/23 was/22 very/21 comforting/20 and/19 the/18 food/17 was/16 better/15 than/14 average/13 ,/12 but/11 what/10 really/9 standed/8 out/7 was/6 such/5 a/4 dynamic/3 and/2 extensive/1 ./1
+chinese food||negative||Frankly/3 ,/2 the/1 here/1 is/2 something/3 I/4 can/5 make/6 better/7 at/8 home/9 ./10
+waiter||neutral||There/4 was/3 only/2 one/1 for/1 the/2 whole/3 restaurant/4 upstairs/5 ./6
+scallops||neutral||We/4 started/3 with/2 the/1 and/1 asparagus/2 and/3 also/4 had/5 the/6 soft/7 shell/8 crab/9 as/10 well/11 as/12 the/13 cheese/14 plate/15 ./16
+asparagus||neutral||We/6 started/5 with/4 the/3 scallops/2 and/1 and/1 also/2 had/3 the/4 soft/5 shell/6 crab/7 as/8 well/9 as/10 the/11 cheese/12 plate/13 ./14
+soft shell crab||neutral||We/11 started/10 with/9 the/8 scallops/7 and/6 asparagus/5 and/4 also/3 had/2 the/1 as/1 well/2 as/3 the/4 cheese/5 plate/6 ./7
+cheese plate||neutral||We/18 started/17 with/16 the/15 scallops/14 and/13 asparagus/12 and/11 also/10 had/9 the/8 soft/7 shell/6 crab/5 as/4 well/3 as/2 the/1 ./1
+service||positive||Not/6 to/5 be/4 overlooked/3 ,/2 the/1 is/1 excellent/2 ./3
+hotdogs||negative||this/8 without/7 question/6 is/5 one/4 of/3 the/2 worst/1 i/1 have/2 ever/3 had/4 ./5
+staff||positive||The/1 is/1 unbelievably/2 friendly/3 ,/4 and/5 I/6 dream/7 about/8 their/9 Saag/10 gosht/11 .../12 so/13 good/14 ./15
+Saag gosht||positive||The/11 staff/10 is/9 unbelievably/8 friendly/7 ,/6 and/5 I/4 dream/3 about/2 their/1 .../1 so/2 good/3 ./4
+garlic knots||positive||I/4 also/3 recommend/2 the/1 ./1
+Indian food||positive||Best/1 I/1 have/2 ever/3 eaten/4 ./5
+pizza||positive||This/5 place/4 has/3 the/2 best/1 ./1
+music||negative||The/1 which/1 is/2 sometimes/3 a/4 little/5 too/6 heavy/7 for/8 my/9 taste/10 ./11
+service||positive||The/1 is/1 excellent/2 and/3 always/4 informative/5 without/6 an/7 air/8 ./9
+owner||positive||The/1 and/1 staff/2 go/3 to/4 great/5 lengths/6 to/7 make/8 you/9 feel/10 comfortable/11 ./12
+staff||positive||The/3 owner/2 and/1 go/1 to/2 great/3 lengths/4 to/5 make/6 you/7 feel/8 comfortable/9 ./10
+sushi||positive||The/1 is/1 always/2 fresh/3 and/4 yummy/5 and/6 the/7 menu/8 is/9 pretty/10 varied/11 ./12
+menu||positive||The/9 sushi/8 is/7 always/6 fresh/5 and/4 yummy/3 and/2 the/1 is/1 pretty/2 varied/3 ./4
+food||positive||The/1 was/1 great/2 -/3 sushi/4 was/5 good/6 ,/7 but/8 the/9 cooked/10 food/11 amazed/12 us/13 ./14
+sushi||positive||The/5 food/4 was/3 great/2 -/1 was/1 good/2 ,/3 but/4 the/5 cooked/6 food/7 amazed/8 us/9 ./10
+cooked food||positive||The/11 food/10 was/9 great/8 -/7 sushi/6 was/5 good/4 ,/3 but/2 the/1 amazed/1 us/2 ./3
+dinner specials||positive||their/1 are/1 fantastic/2 ./3
+food||positive||Great/1 ,/1 great/2 drinks/3 ,/4 nice/5 dining/6 atmosphere/7 ./8
+drinks||positive||Great/4 food/3 ,/2 great/1 ,/1 nice/2 dining/3 atmosphere/4 ./5
+dining atmosphere||positive||Great/7 food/6 ,/5 great/4 drinks/3 ,/2 nice/1 ./1
+price||negative||For/2 the/1 you/1 pay/2 for/3 the/4 food/5 here/6 ,/7 you/8 'd/9 expect/10 it/11 to/12 be/13 at/14 least/15 on/16 par/17 with/18 other/19 Japanese/20 restaurants/21 ./22
+food||negative||For/7 the/6 price/5 you/4 pay/3 for/2 the/1 here/1 ,/2 you/3 'd/4 expect/5 it/6 to/7 be/8 at/9 least/10 on/11 par/12 with/13 other/14 Japanese/15 restaurants/16 ./17
+Food portion||negative||was/1 SMALL/2 and/3 below/4 average/5 ./6
+chairs||positive||Sit/7 back/6 in/5 one/4 of/3 those/2 comfortable/1 ./1
+Tacos Pastor||positive||My/5 favs/4 here/3 are/2 the/1 and/1 the/2 Tostada/3 de/4 Tinga/5 .../6
+Tostada de Tinga||positive||My/9 favs/8 here/7 are/6 the/5 Tacos/4 Pastor/3 and/2 the/1 .../1
+bartenders||positive||The/1 and/1 the/2 managers/3 are/4 really/5 nice/6 and/7 the/8 decor/9 is/10 very/11 comfy/12 and/13 laid-back/14 ,/15 all/16 the/17 while/18 being/19 trendy/20 ./21
+managers||positive||The/4 bartenders/3 and/2 the/1 are/1 really/2 nice/3 and/4 the/5 decor/6 is/7 very/8 comfy/9 and/10 laid-back/11 ,/12 all/13 the/14 while/15 being/16 trendy/17 ./18
+decor||positive||The/10 bartenders/9 and/8 the/7 managers/6 are/5 really/4 nice/3 and/2 the/1 is/1 very/2 comfy/3 and/4 laid-back/5 ,/6 all/7 the/8 while/9 being/10 trendy/11 ./12
+hot and sour soup||positive||For/13 a/12 savory/11 take/10 on/9 the/8 soup/7 and/6 sandwich/5 meal/4 ,/3 try/2 the/1 ./1
+soup and sandwich meal||positive||For/6 a/5 savory/4 take/3 on/2 the/1 ,/1 try/2 the/3 hot/4 and/5 sour/6 soup/7 ./8
+drinks||positive||This/7 bar/6 has/5 it/4 all/3 -/2 great/1 ,/1 cool/2 atmosphere/3 ,/4 excellent/5 service/6 and/7 delicious/8 food/9 ./10
+atmosphere||positive||This/10 bar/9 has/8 it/7 all/6 -/5 great/4 drinks/3 ,/2 cool/1 ,/1 excellent/2 service/3 and/4 delicious/5 food/6 ./7
+service||positive||This/13 bar/12 has/11 it/10 all/9 -/8 great/7 drinks/6 ,/5 cool/4 atmosphere/3 ,/2 excellent/1 and/1 delicious/2 food/3 ./4
+food||positive||This/16 bar/15 has/14 it/13 all/12 -/11 great/10 drinks/9 ,/8 cool/7 atmosphere/6 ,/5 excellent/4 service/3 and/2 delicious/1 ./1
+chick peas with shrimp ( appetizer )||positive||Also/3 ,/2 the/1 is/1 divine/2 ./3
+service||negative||Finally/8 ,/7 I/6 got/5 sick/4 of/3 the/2 bad/1 ,/1 obnoxious/2 smirks/3 ,/4 and/5 snotty/6 back/7 talk/8 ./9
+lamb||positive||We/2 ordered/1 which/1 was/2 perfectly/3 cooked/4 and/5 tasted/6 awesome/7 ./8
+soft shell crab sandwich with fries||positive||i/4 especially/3 like/2 their/1 ./1
+hong kong-style food||positive||if/6 you/5 're/4 looking/3 for/2 authentic/1 ,/1 look/2 no/3 further/4 ./5
+food||positive||good/1 good/1 wine/2 that/3 's/4 it/5 ./6
+wine||positive||good/3 food/2 good/1 that/1 's/2 it/3 ./4
+staff||positive||The/1 was/1 extremely/2 friendly/3 and/4 pleasant/5 ./6
+kitchen food||positive||While/2 their/1 is/1 delicious/2 ,/3 their/4 Sushi/5 is/6 out/7 of/8 this/9 world/10 ./11
+Sushi||positive||While/8 their/7 kitchen/6 food/5 is/4 delicious/3 ,/2 their/1 is/1 out/2 of/3 this/4 world/5 ./6
+service||positive||everything/7 is/6 scrumptious/5 ,/4 from/3 the/2 excellent/1 by/1 cute/2 waitresses/3 ,/4 to/5 the/6 extremely/7 lush/8 atmosphere/9 ./10
+waitresses||positive||everything/10 is/9 scrumptious/8 ,/7 from/6 the/5 excellent/4 service/3 by/2 cute/1 ,/1 to/2 the/3 extremely/4 lush/5 atmosphere/6 ./7
+atmosphere||positive||everything/16 is/15 scrumptious/14 ,/13 from/12 the/11 excellent/10 service/9 by/8 cute/7 waitresses/6 ,/5 to/4 the/3 extremely/2 lush/1 ./1
+italian food||positive||It/5 's/4 traditional/3 ,/2 simple/1 ./1
+food||positive||The/1 is/1 all-around/2 good/3 ,/4 with/5 the/6 rolls/7 usually/8 excellent/9 and/10 the/11 sushi/sashimi/12 not/13 quite/14 on/15 the/16 same/17 level/18 ./19
+rolls||positive||The/8 food/7 is/6 all-around/5 good/4 ,/3 with/2 the/1 usually/1 excellent/2 and/3 the/4 sushi/sashimi/5 not/6 quite/7 on/8 the/9 same/10 level/11 ./12
+sushi/sashimi||neutral||The/13 food/12 is/11 all-around/10 good/9 ,/8 with/7 the/6 rolls/5 usually/4 excellent/3 and/2 the/1 not/1 quite/2 on/3 the/4 same/5 level/6 ./7
+sashimi||negative||(/2 The/1 is/1 cut/2 a/3 little/4 thinly/5 ./6
+price||negative||Could/7 have/6 had/5 better/4 for/3 1/3/2 the/1 in/1 Chinatown/2 ./3
+hot dogs||positive||In/4 addition/3 to/2 great/1 ,/1 DOTP/2 has/3 wonderful/4 breakfast/5 sandwiches/6 that/7 feature/8 ,/9 in/10 addition/11 to/12 great/13 things/14 like/15 tator/16 tots/17 and/18 English/19 muffins/20 ,/21 a/22 delicious/23 NJ-based/24 pork/25 product/26 know/27 to/28 us/29 Jersey/30 girls/31 and/32 boys/33 as/34 Taylor/35 ham/36 ./37
+breakfast sandwiches||positive||In/10 addition/9 to/8 great/7 hot/6 dogs/5 ,/4 DOTP/3 has/2 wonderful/1 that/1 feature/2 ,/3 in/4 addition/5 to/6 great/7 things/8 like/9 tator/10 tots/11 and/12 English/13 muffins/14 ,/15 a/16 delicious/17 NJ-based/18 pork/19 product/20 know/21 to/22 us/23 Jersey/24 girls/25 and/26 boys/27 as/28 Taylor/29 ham/30 ./31
+tator tots||positive||In/21 addition/20 to/19 great/18 hot/17 dogs/16 ,/15 DOTP/14 has/13 wonderful/12 breakfast/11 sandwiches/10 that/9 feature/8 ,/7 in/6 addition/5 to/4 great/3 things/2 like/1 and/1 English/2 muffins/3 ,/4 a/5 delicious/6 NJ-based/7 pork/8 product/9 know/10 to/11 us/12 Jersey/13 girls/14 and/15 boys/16 as/17 Taylor/18 ham/19 ./20
+English muffins||positive||In/24 addition/23 to/22 great/21 hot/20 dogs/19 ,/18 DOTP/17 has/16 wonderful/15 breakfast/14 sandwiches/13 that/12 feature/11 ,/10 in/9 addition/8 to/7 great/6 things/5 like/4 tator/3 tots/2 and/1 ,/1 a/2 delicious/3 NJ-based/4 pork/5 product/6 know/7 to/8 us/9 Jersey/10 girls/11 and/12 boys/13 as/14 Taylor/15 ham/16 ./17
+Taylor ham||positive||In/40 addition/39 to/38 great/37 hot/36 dogs/35 ,/34 DOTP/33 has/32 wonderful/31 breakfast/30 sandwiches/29 that/28 feature/27 ,/26 in/25 addition/24 to/23 great/22 things/21 like/20 tator/19 tots/18 and/17 English/16 muffins/15 ,/14 a/13 delicious/12 NJ-based/11 pork/10 product/9 know/8 to/7 us/6 Jersey/5 girls/4 and/3 boys/2 as/1 ./1
+pork product||positive||In/30 addition/29 to/28 great/27 hot/26 dogs/25 ,/24 DOTP/23 has/22 wonderful/21 breakfast/20 sandwiches/19 that/18 feature/17 ,/16 in/15 addition/14 to/13 great/12 things/11 like/10 tator/9 tots/8 and/7 English/6 muffins/5 ,/4 a/3 delicious/2 NJ-based/1 know/1 to/2 us/3 Jersey/4 girls/5 and/6 boys/7 as/8 Taylor/9 ham/10 ./11
+manager||negative||Well/8 ,/7 it/6 happened/5 because/4 of/3 a/2 graceless/1 and/1 a/2 rude/3 bartender/4 who/5 had/6 us/7 waiting/8 20/9 minutes/10 for/11 drinks/12 ,/13 and/14 then/15 tells/16 us/17 to/18 chill/19 out/20 ./21
+bartender||negative||Well/12 ,/11 it/10 happened/9 because/8 of/7 a/6 graceless/5 manager/4 and/3 a/2 rude/1 who/1 had/2 us/3 waiting/4 20/5 minutes/6 for/7 drinks/8 ,/9 and/10 then/11 tells/12 us/13 to/14 chill/15 out/16 ./17
+drinks||neutral||Well/20 ,/19 it/18 happened/17 because/16 of/15 a/14 graceless/13 manager/12 and/11 a/10 rude/9 bartender/8 who/7 had/6 us/5 waiting/4 20/3 minutes/2 for/1 ,/1 and/2 then/3 tells/4 us/5 to/6 chill/7 out/8 ./9
+waiting||negative||Well/16 ,/15 it/14 happened/13 because/12 of/11 a/10 graceless/9 manager/8 and/7 a/6 rude/5 bartender/4 who/3 had/2 us/1 20/1 minutes/2 for/3 drinks/4 ,/5 and/6 then/7 tells/8 us/9 to/10 chill/11 out/12 ./13
+service||positive||Not/4 only/3 is/2 the/1 great/1 ,/2 but/3 forming/4 conversation/5 around/6 a/7 table/8 is/9 so/10 easy/11 beacuse/12 the/13 atmosphere/14 can/15 be/16 both/17 romantic/18 and/19 comfortable/20 ./21
+atmosphere||positive||Not/18 only/17 is/16 the/15 service/14 great/13 ,/12 but/11 forming/10 conversation/9 around/8 a/7 table/6 is/5 so/4 easy/3 beacuse/2 the/1 can/1 be/2 both/3 romantic/4 and/5 comfortable/6 ./7
+green chillis||negative||When/8 the/7 dish/6 arrived/5 it/4 was/3 blazing/2 with/1 ,/1 definitely/2 not/3 edible/4 by/5 a/6 human/7 ./8
+dish||negative||When/2 the/1 arrived/1 it/2 was/3 blazing/4 with/5 green/6 chillis/7 ,/8 definitely/9 not/10 edible/11 by/12 a/13 human/14 ./15
+service||negative||The/3 absolute/2 worst/1 I/1 've/2 ever/3 experienced/4 and/5 the/6 food/7 was/8 below/9 average/10 (/11 when/12 they/13 actually/14 gave/15 people/16 the/17 meals/18 they/19 ordered/20 )/21 ./22
+food||negative||The/10 absolute/9 worst/8 service/7 I/6 've/5 ever/4 experienced/3 and/2 the/1 was/1 below/2 average/3 (/4 when/5 they/6 actually/7 gave/8 people/9 the/10 meals/11 they/12 ordered/13 )/14 ./15
+meals||neutral||The/21 absolute/20 worst/19 service/18 I/17 've/16 ever/15 experienced/14 and/13 the/12 food/11 was/10 below/9 average/8 (/7 when/6 they/5 actually/4 gave/3 people/2 the/1 they/1 ordered/2 )/3 ./4
+lunch||neutral||It/6 's/5 about/4 $/3 7/2 for/1 and/1 they/2 have/3 take-out/4 or/5 dine-in/6 ./7
+take-out||neutral||It/10 's/9 about/8 $/7 7/6 for/5 lunch/4 and/3 they/2 have/1 or/1 dine-in/2 ./3
+dine-in||neutral||It/12 's/11 about/10 $/9 7/8 for/7 lunch/6 and/5 they/4 have/3 take-out/2 or/1 ./1
+food||neutral||Be/5 sure/4 to/3 accompany/2 your/1 with/1 one/2 of/3 their/4 fresh/5 juice/6 concoctions/7 ./8
+fresh juice concoctions||positive||Be/10 sure/9 to/8 accompany/7 your/6 food/5 with/4 one/3 of/2 their/1 ./1
+food||positive||The/1 is/1 great/2 and/3 the/4 prices/5 are/6 reasonable/7 ./8
+prices||positive||The/6 food/5 is/4 great/3 and/2 the/1 are/1 reasonable/2 ./3
+place||positive||The/1 is/1 clean/2 ,/3 and/4 if/5 you/6 like/7 soul/8 food/9 ,/10 then/11 this/12 is/13 the/14 place/15 to/16 be/17 !/18
+soul food||positive||The/9 place/8 is/7 clean/6 ,/5 and/4 if/3 you/2 like/1 ,/1 then/2 this/3 is/4 the/5 place/6 to/7 be/8 !/9
+roast chicken||neutral||I/2 had/1 and/1 a/2 salad/3 ./4
+salad||neutral||I/6 had/5 roast/4 chicken/3 and/2 a/1 ./1
+chicken with avocado||positive||They/5 have/4 a/3 very/2 good/1 and/1 good/2 tuna/3 as/4 well/5 ./6
+tuna||positive||They/10 have/9 a/8 very/7 good/6 chicken/5 with/4 avocado/3 and/2 good/1 as/1 well/2 ./3
+meals||negative||But/2 the/1 were/1 terrible/2 ./3
+chicken||negative||My/1 was/1 completely/2 dried/3 out/4 and/5 on/6 the/7 cold/8 side/9 and/10 the/11 sauce/12 was/13 not/14 very/15 flavorful/16 ./17
+sauce||negative||My/13 chicken/12 was/11 completely/10 dried/9 out/8 and/7 on/6 the/5 cold/4 side/3 and/2 the/1 was/1 not/2 very/3 flavorful/4 ./5
+Malted Milk Ball Gelato||positive||-/1 have/2 you/3 ever/4 in/5 your/6 life/7 heard/8 of/9 anything/10 so/11 ridiculously/12 wonderful/13 ?/14
+meal||negative||Way/8 too/7 much/6 money/5 for/4 such/3 a/2 terrible/1 ./1
+service||negative||However/3 ,/2 the/1 is/1 absolutely/2 horrible/3 ./4
+bar service||negative||A/5 con/4 was/3 the/2 slow/1 ./1
+Dessert||positive||was/1 also/2 to/3 die/4 for/5 !/6
+service||positive||BTW/3 ,/2 the/1 is/1 very/2 good/3 ./4
+black vinegar||neutral||It/4 's/3 eaten/2 with/1 and/1 shredded/2 ginger/3 ./4
+shredded ginger||neutral||It/7 's/6 eaten/5 with/4 black/3 vinegar/2 and/1 ./1
+lighting||negative||The/2 unattractive/1 made/1 me/2 want/3 to/4 gag/5 ,/6 the/7 food/8 was/9 overpriced/10 ,/11 there/12 was/13 the/14 most/15 awful/16 disco/17 pop/18 duo/19 performing-and/20 my/21 escargot/22 looked/23 like/24 it/25 might/26 crawl/27 off/28 the/29 plate/30 ./31
+food||negative||The/10 unattractive/9 lighting/8 made/7 me/6 want/5 to/4 gag/3 ,/2 the/1 was/1 overpriced/2 ,/3 there/4 was/5 the/6 most/7 awful/8 disco/9 pop/10 duo/11 performing-and/12 my/13 escargot/14 looked/15 like/16 it/17 might/18 crawl/19 off/20 the/21 plate/22 ./23
+disco pop duo||negative||The/19 unattractive/18 lighting/17 made/16 me/15 want/14 to/13 gag/12 ,/11 the/10 food/9 was/8 overpriced/7 ,/6 there/5 was/4 the/3 most/2 awful/1 performing-and/1 my/2 escargot/3 looked/4 like/5 it/6 might/7 crawl/8 off/9 the/10 plate/11 ./12
+escargot||negative||The/24 unattractive/23 lighting/22 made/21 me/20 want/19 to/18 gag/17 ,/16 the/15 food/14 was/13 overpriced/12 ,/11 there/10 was/9 the/8 most/7 awful/6 disco/5 pop/4 duo/3 performing-and/2 my/1 looked/1 like/2 it/3 might/4 crawl/5 off/6 the/7 plate/8 ./9
+place||positive||it/4 is/3 a/2 cozy/1 to/1 go/2 with/3 a/4 couple/5 of/6 friends/7 ./8
+service||positive||The/1 is/1 always/2 great/3 ,/4 and/5 the/6 owner/7 walks/8 around/9 to/10 make/11 sure/12 you/13 enjoy/14 ./15
+owner||positive||The/8 service/7 is/6 always/5 great/4 ,/3 and/2 the/1 walks/1 around/2 to/3 make/4 sure/5 you/6 enjoy/7 ./8
+waiters||negative||because/2 the/1 need/1 SEVERE/2 ATTITUE/3 ADJUSTMENTS/4 ./5
+food||positive||the/1 is/1 delicious/2 and/3 highly/4 recommended/5 ./6
+waiter||negative||When/9 it/8 came/7 time/6 to/5 take/4 the/3 order/2 the/1 gave/1 us/2 a/3 hard/4 time/5 ,/6 walked/7 away/8 then/9 came/10 back/11 with/12 a/13 paper/14 and/15 pen/16 for/17 us/18 to/19 write/20 down/21 what/22 we/23 wanted/24 .../25 excuse/26 me/27 but/28 is/29 n't/30 that/31 his/32 job/33 ???/34
+salads||positive||Dieters/3 stick/2 to/1 or/1 indulge/2 in/3 vegetarian/4 platters/5 ./6
+vegetarian platters||positive||Dieters/7 stick/6 to/5 salads/4 or/3 indulge/2 in/1 ./1
+meal||positive||So/6 for/5 a/4 filling/3 and/2 healthy/1 give/1 it/2 a/3 go/4 ./5
+food||neutral||Since/13 I/12 cook/11 for/10 a/9 living/8 ,/7 I/6 'm/5 very/4 fussy/3 about/2 the/1 I/1 eat/2 in/3 restaurants/4 ./5
+service||positive||The/1 was/1 outstanding/2 ./3
+pizza||neutral||My/7 friends/6 and/5 I/4 stop/3 here/2 for/1 before/1 hitting/2 the/3 Kips/4 Bay/5 movie/6 theater/7 ./8
+pizza||positive||We/4 always/3 enjoy/2 the/1 ./1
+service||positive||The/1 is/1 pretty/2 good/3 ./4
+chicken||positive||Yum/3 ,/2 the/1 is/1 great/2 here/3 ./4
+food||positive||The/1 here/1 was/2 great/3 ,/4 a/5 treat/6 from/7 beginning/8 to/9 end/10 ./11
+host ( owner )||positive||The/1 and/1 servers/2 are/3 personable/4 and/5 caring/6 ./7
+servers||positive||The/6 host/5 (/4 owner/3 )/2 and/1 are/1 personable/2 and/3 caring/4 ./5
+food||positive||It/6 's/5 just/4 everything/3 .../2 the/1 ,/1 the/2 atmosphere/3 .../4 the/5 incrediby/6 kind/7 and/8 gracious/9 hostess/10 ./11
+atmosphere||positive||It/9 's/8 just/7 everything/6 .../5 the/4 food/3 ,/2 the/1 .../1 the/2 incrediby/3 kind/4 and/5 gracious/6 hostess/7 ./8
+hostess||positive||It/16 's/15 just/14 everything/13 .../12 the/11 food/10 ,/9 the/8 atmosphere/7 .../6 the/5 incrediby/4 kind/3 and/2 gracious/1 ./1
+food||positive||The/1 is/1 very/2 good/3 and/4 the/5 service/6 is/7 great/8 ./9
+service||positive||The/7 food/6 is/5 very/4 good/3 and/2 the/1 is/1 great/2 ./3
+Vietnamese Beef Noodle Soup||neutral||I/5 usually/4 get/3 one/2 the/1 ./1
+dining experience||negative||We/10 were/9 wondering/8 why/7 they/6 were/5 there/4 to/3 make/2 our/1 miserable/1 ?/2
+Indian food||positive||This/5 place/4 has/3 the/2 best/1 in/1 New/2 York/3 ,/4 hands/5 down/6 ./7
+waiters||positive||The/1 are/1 very/2 friendly/3 and/4 helpful/5 and/6 if/7 you/8 frequent/9 they/10 will/11 remember/12 you/13 ./14
+interior||positive||Intimate/3 but/2 charming/1 with/1 extremely/2 friendly/3 and/4 attentive/5 service/6 ./7
+service||positive||Intimate/9 but/8 charming/7 interior/6 with/5 extremely/4 friendly/3 and/2 attentive/1 ./1
+food||positive||The/1 was/1 as/2 creative/3 as/4 the/5 decor/6 and/7 both/8 worked/9 ./10
+decor||positive||The/7 food/6 was/5 as/4 creative/3 as/2 the/1 and/1 both/2 worked/3 ./4
+menu||positive||The/1 is/1 great/2 ,/3 with/4 a/5 good/6 selection/7 ,/8 and/9 everything/10 that/11 I/12 have/13 tried/14 is/15 absolutely/16 delicious/17 ./18
+selection||positive||The/8 menu/7 is/6 great/5 ,/4 with/3 a/2 good/1 ,/1 and/2 everything/3 that/4 I/5 have/6 tried/7 is/8 absolutely/9 delicious/10 ./11
+sauce||positive||The/1 is/1 zesty/2 and/3 flavorful/4 and/5 the/6 crust/7 is/8 nice/9 and/10 crispy/11 ./12
+crust||positive||The/8 sauce/7 is/6 zesty/5 and/4 flavorful/3 and/2 the/1 is/1 nice/2 and/3 crispy/4 ./5
+sushi||positive||This/5 place/4 has/3 the/2 best/1 in/1 the/2 city/3 ./4
+selection||positive||They/4 have/3 an/2 excellent/1 (/1 the/2 rolls/3 with/4 crab/5 are/6 really/7 great/8 )/9 ./10
+rolls with crab||positive||They/7 have/6 an/5 excellent/4 selection/3 (/2 the/1 are/1 really/2 great/3 )/4 ./5
+host||positive||Everyone/6 who/5 works/4 there/3 (/2 the/1 ,/1 the/2 bartender/3 ,/4 the/5 servers/6 )/7 is/8 so/9 helpful/10 ./11
+bartender||positive||Everyone/9 who/8 works/7 there/6 (/5 the/4 host/3 ,/2 the/1 ,/1 the/2 servers/3 )/4 is/5 so/6 helpful/7 ./8
+servers||positive||Everyone/12 who/11 works/10 there/9 (/8 the/7 host/6 ,/5 the/4 bartender/3 ,/2 the/1 )/1 is/2 so/3 helpful/4 ./5
+food||positive||And/2 the/1 is/1 fantastic/2 ./3
+potato spinach gnocchi||positive||Favourites/3 include/2 :/1 and/1 the/2 lamb/3 ./4
+lamb||positive||Favourites/8 include/7 :/6 potato/5 spinach/4 gnocchi/3 and/2 the/1 ./1
+lunch||neutral||Unfortunately/7 ,/6 we/5 chose/4 this/3 spot/2 for/1 as/1 we/2 had/3 done/4 a/5 lot/6 of/7 walking/8 and/9 ended/10 up/11 at/12 the/13 South/14 St/15 Seaport/16 ./17
+sandwiches||positive||But/5 regulars/4 know/3 that/2 the/1 are/1 the/2 real/3 star/4 here/5 ./6
+port||positive||The/9 skillfully/8 chosen/7 Portuguese/6 cheese/5 cart/4 paired/3 with/2 quality/1 provides/1 the/2 perfect/3 Iberian/4 ending/5 ./6
+Portuguese cheese cart||positive||The/3 skillfully/2 chosen/1 paired/1 with/2 quality/3 port/4 provides/5 the/6 perfect/7 Iberian/8 ending/9 ./10
+burger||neutral||My/4 friend/3 had/2 a/1 and/1 I/2 had/3 these/4 wonderful/5 blueberry/6 pancakes/7 ./8
+blueberry pancakes||positive||My/10 friend/9 had/8 a/7 burger/6 and/5 I/4 had/3 these/2 wonderful/1 ./1
+food||positive||We/6 were/5 so/4 happy/3 with/2 our/1 and/1 were/2 even/3 more/4 thrilled/5 when/6 we/7 saw/8 the/9 bill/10 ./11
+bill||positive||We/16 were/15 so/14 happy/13 with/12 our/11 food/10 and/9 were/8 even/7 more/6 thrilled/5 when/4 we/3 saw/2 the/1 ./1
+toppings||positive||All/1 are/1 so/2 fresh/3 you/4 'd/5 think/6 they/7 had/8 their/9 own/10 vegetable/11 garden/12 and/13 the/14 crust/15 is/16 so/17 perfect/18 ,/19 that/20 one/21 actually/22 thinks/23 of/24 how/25 it/26 was/27 made/28 ./29
+crust||positive||All/16 toppings/15 are/14 so/13 fresh/12 you/11 'd/10 think/9 they/8 had/7 their/6 own/5 vegetable/4 garden/3 and/2 the/1 is/1 so/2 perfect/3 ,/4 that/5 one/6 actually/7 thinks/8 of/9 how/10 it/11 was/12 made/13 ./14
+service||positive||We/5 've/4 always/3 gotten/2 amazing/1 and/1 we/2 love/3 the/4 food/5 ./6
+food||positive||We/10 've/9 always/8 gotten/7 amazing/6 service/5 and/4 we/3 love/2 the/1 ./1
+waitstaff||positive||The/1 is/1 solicitous/2 and/3 friendly/4 and/5 always/6 seems/7 glad/8 to/9 see/10 us/11 ,/12 and/13 the/14 food/15 is/16 wonderful/17 ,/18 if/19 not/20 stunningly/21 creative/22 ./23
+food||positive||The/16 waitstaff/15 is/14 solicitous/13 and/12 friendly/11 and/10 always/9 seems/8 glad/7 to/6 see/5 us/4 ,/3 and/2 the/1 is/1 wonderful/2 ,/3 if/4 not/5 stunningly/6 creative/7 ./8
+lobster ravioli||positive||I/6 'm/5 in/4 love/3 with/2 the/1 !/1
+meal||positive||We/17 came/16 across/15 this/14 restaurant/13 by/12 accident/11 while/10 at/9 a/8 DUMBO/7 art/6 festival/5 and/4 thoroughly/3 enjoyed/2 our/1 ./1
+Service||positive||is/1 excellent/2 ,/3 no/4 wait/5 ,/6 and/7 you/8 get/9 a/10 lot/11 for/12 the/13 price/14 ./15
+price||positive||Service/14 is/13 excellent/12 ,/11 no/10 wait/9 ,/8 and/7 you/6 get/5 a/4 lot/3 for/2 the/1 ./1
+wait||positive||Service/5 is/4 excellent/3 ,/2 no/1 ,/1 and/2 you/3 get/4 a/5 lot/6 for/7 the/8 price/9 ./10
+food||negative||I/3 thought/2 the/1 is/1 n't/2 cheap/3 at/4 all/5 compared/6 to/7 Chinatown/8 ./9
+Coffee||positive||is/1 a/2 better/3 deal/4 than/5 overpriced/6 Cosi/7 sandwiches/8 ./9
+Cosi sandwiches||negative||Coffee/7 is/6 a/5 better/4 deal/3 than/2 overpriced/1 ./1
+drink||neutral||We/9 did/8 n't/7 know/6 if/5 we/4 should/3 order/2 a/1 or/1 leave/2 ?/3
+prices||positive||)/23 It/22 's/21 not/20 the/19 best/18 Japanese/17 restaurant/16 in/15 the/14 East/13 Village/12 ,/11 but/10 it/9 's/8 a/7 pretty/6 solid/5 one/4 for/3 its/2 modest/1 ,/1 and/2 worth/3 repeat/4 visits/5 ./6
+food||positive||The/1 is/1 so/2 good/3 and/4 so/5 popular/6 that/7 waiting/8 can/9 really/10 be/11 a/12 nightmare/13 ./14
+waiting||negative||The/9 food/8 is/7 so/6 good/5 and/4 so/3 popular/2 that/1 can/1 really/2 be/3 a/4 nightmare/5 ./6
+place||positive||First/4 walking/3 in/2 the/1 seemed/1 to/2 have/3 great/4 ambience/5 ./6
+ambience||positive||First/9 walking/8 in/7 the/6 place/5 seemed/4 to/3 have/2 great/1 ./1
+brunch||neutral||I/7 went/6 to/5 Kitchenette/4 this/3 weekend/2 for/1 ./1
+food||positive||Even/10 for/9 two/8 very/7 hungry/6 people/5 there/4 is/3 plenty/2 of/1 left/1 to/2 be/3 taken/4 home/5 (/6 it/7 reheats/8 really/9 well/10 also/11 )/12 ./13
+crust||negative||Then/8 they/7 somehow/6 made/5 a/4 dry/3 and/2 burnt/1 ,/1 around/2 a/3 raw/4 and/5 cold/6 inside/7 ./8
+food||positive||It/4 's/3 just/2 good/1 ,/1 nothing/2 more/3 and/4 that/5 's/6 all/7 we/8 want/9 !/10
+cake||negative||Average/1 thats/1 been/2 courted/3 by/4 a/5 LOT/6 of/7 hype/8 ./9
+dinner||neutral||My/9 wife/8 and/7 I/6 recently/5 visited/4 the/3 bistro/2 for/1 and/1 had/2 a/3 wonderful/4 experience/5 ./6
+SERVICE||positive||THE/1 IS/1 PERFECT/2 TOO/3 NOTHING/4 WRONG/5 IN/6 THIS/7 ITALIAN/FRENCH/8 RESTAURANT/9
+Delmonico steak||negative||The/3 $/2 72/1 had/1 to/2 be/3 sent/4 back/5 because/6 it/7 was/8 not/9 cooked/10 to/11 order/12 ./13
+menu||negative||Everytime/15 I/14 go/13 there/12 I/11 ca/10 n't/9 pick/8 anything/7 to/6 eat/5 and/4 not/3 because/2 the/1 is/1 filled/2 with/3 great/4 things/5 to/6 eat/7 ./8
+rice||neutral||Half/7 a/6 chicken/5 with/4 a/3 mountain/2 of/1 and/1 beans/2 for/3 $/4 6.25/5 ./6
+beans||neutral||Half/9 a/8 chicken/7 with/6 a/5 mountain/4 of/3 rice/2 and/1 for/1 $/2 6.25/3 ./4
+chicken||neutral||Half/2 a/1 with/1 a/2 mountain/3 of/4 rice/5 and/6 beans/7 for/8 $/9 6.25/10 ./11
+service||positive||The/1 is/1 really/2 fast/3 and/4 friendly/5 ,/6 and/7 the/8 value/9 is/10 great/11 ./12
+value||positive||The/10 service/9 is/8 really/7 fast/6 and/5 friendly/4 ,/3 and/2 the/1 is/1 great/2 ./3
+food||positive||We/6 were/5 very/4 impressed/3 with/2 the/1 and/1 value/2 ./3
+value||positive||We/8 were/7 very/6 impressed/5 with/4 the/3 food/2 and/1 ./1
+garlic soup||positive||You/4 must/3 try/2 the/1 !/1
+falafel||positive||Casablanca/3 servces/2 delicious/1 ,/1 tabouleh/2 ,/3 humus/4 and/5 other/6 Mediterranean/7 delights/8 ,/9 which/10 are/11 all/12 very/13 inexpensive/14 ./15
+tabouleh||positive||Casablanca/5 servces/4 delicious/3 falafel/2 ,/1 ,/1 humus/2 and/3 other/4 Mediterranean/5 delights/6 ,/7 which/8 are/9 all/10 very/11 inexpensive/12 ./13
+humus||positive||Casablanca/7 servces/6 delicious/5 falafel/4 ,/3 tabouleh/2 ,/1 and/1 other/2 Mediterranean/3 delights/4 ,/5 which/6 are/7 all/8 very/9 inexpensive/10 ./11
+Mediterranean delights||positive||Casablanca/10 servces/9 delicious/8 falafel/7 ,/6 tabouleh/5 ,/4 humus/3 and/2 other/1 ,/1 which/2 are/3 all/4 very/5 inexpensive/6 ./7
+pizza 's||positive||The/1 are/1 made/2 fresh/3 ,/4 crispy/5 ,/6 and/7 ready/8 to/9 serve/10 ./11
+Staff||positive||is/1 accomodating/2 make/3 sure/4 you/5 are/6 satified/7 ./8
+Chef||positive||Waldy/1 's/2 always/3 measures/4 up/5 ./6
+sushi||positive||Reasonably/5 priced/4 with/3 very/2 fresh/1 ./1
+priced||positive||Reasonably/1 with/1 very/2 fresh/3 sushi/4 ./5
+Seafood Paella for two||positive||Go/3 for/2 the/1 ./1
+apetizers||positive||All/3 of/2 the/1 are/1 good/2 and/3 the/4 Sangria/5 is/6 very/7 good/8 ./9
+Sangria||positive||All/8 of/7 the/6 apetizers/5 are/4 good/3 and/2 the/1 is/1 very/2 good/3 ./4
+service||positive||The/10 one/9 positive/8 thing/7 I/6 can/5 say/4 is/3 that/2 the/1 was/1 prompt/2 ,/3 we/4 got/5 seated/6 right/7 away/8 and/9 the/10 server/11 was/12 very/13 friendly/14 ./15
+server||positive||The/21 one/20 positive/19 thing/18 I/17 can/16 say/15 is/14 that/13 the/12 service/11 was/10 prompt/9 ,/8 we/7 got/6 seated/5 right/4 away/3 and/2 the/1 was/1 very/2 friendly/3 ./4
+staff||positive||The/1 greeted/1 me/2 warmly/3 at/4 the/5 door/6 and/7 I/8 was/9 seated/10 promptly/11 and/12 the/13 food/14 was/15 excellent/16 ./17
+food||positive||The/15 staff/14 greeted/13 me/12 warmly/11 at/10 the/9 door/8 and/7 I/6 was/5 seated/4 promptly/3 and/2 the/1 was/1 excellent/2 ./3
+Service||positive||is/1 usually/2 pretty/3 good/4 ./5
+Host||negative||and/1 Hostess/2 was/3 quite/4 rude/5 ./6
+Hostess||negative||Host/2 and/1 was/1 quite/2 rude/3 ./4
+wait staff||positive||the/1 is/1 very/2 friendly/3 ,/4 if/5 your/6 not/7 rude/8 or/9 picky/10 .../11 our/12 meal/13 at/14 Leon/15 last/16 weekend/17 was/18 great/19 -/20 ./21
+meal||positive||the/15 wait/14 staff/13 is/12 very/11 friendly/10 ,/9 if/8 your/7 not/6 rude/5 or/4 picky/3 .../2 our/1 at/1 Leon/2 last/3 weekend/4 was/5 great/6 -/7 ./8
+salmon dishes||positive||I/5 recommend/4 any/3 of/2 their/1 .../1
+foie gras||positive||The/1 was/1 sweet/2 and/3 luscious/4 ./5
+menu||neutral||The/1 ,/1 which/2 changes/3 seasonally/4 ,/5 shows/6 both/7 regional/8 and/9 international/10 influences/11 ./12
+mac cheese||positive||but/2 their/1 was/1 YUMMY/2 !/3
+brunch menu||positive||their/1 had/1 something/2 for/3 everyone/4 ./5
+jazz singer||positive||had/1 a/2 nice/3 voice/4 +/5 she/6 made/7 us/8 all/9 get/10 up/11 to/12 dance/13 to/14 shake/15 some/16 cals/17 to/18 eat/19 some/20 more/21 ./22
+service||positive||They/4 have/3 very/2 quick/1 which/1 is/2 great/3 when/4 you/5 do/6 n't/7 have/8 much/9 time/10 ./11
+food||neutral||The/1 is/1 average/2 :/3 breakfast/4 food/5 ,/6 soups/7 ,/8 salads/9 ,/10 sandwiches/11 ,/12 etc./13 ./14
+breakfast food||neutral||The/5 food/4 is/3 average/2 :/1 ,/1 soups/2 ,/3 salads/4 ,/5 sandwiches/6 ,/7 etc./8 ./9
+soups||neutral||The/8 food/7 is/6 average/5 :/4 breakfast/3 food/2 ,/1 ,/1 salads/2 ,/3 sandwiches/4 ,/5 etc./6 ./7
+salads||neutral||The/10 food/9 is/8 average/7 :/6 breakfast/5 food/4 ,/3 soups/2 ,/1 ,/1 sandwiches/2 ,/3 etc./4 ./5
+sandwiches||neutral||The/12 food/11 is/10 average/9 :/8 breakfast/7 food/6 ,/5 soups/4 ,/3 salads/2 ,/1 ,/1 etc./2 ./3
+FOOD||negative||I/6 WAS/5 HIGHLY/4 DISAPPOINTED/3 BY/2 THE/1 ./1
+BANANA PUDDING||negative||THE/1 THEY/1 SERVE/2 HAS/3 NEVER/4 SEEN/5 AN/6 OVEN/7 ,/8 THE/9 CRABCAKES/10 ARE/11 WAY/12 OVER/13 SALTED/14 AND/15 DO/16 N'T/17 GET/18 ME/19 STARTED/20 ON/21 THE/22 VERY/23 GREASY/24 MAC/25 AND/26 CHEESE/27 ./28
+CRABCAKES||negative||THE/12 BANANA/11 PUDDING/10 THEY/9 SERVE/8 HAS/7 NEVER/6 SEEN/5 AN/4 OVEN/3 ,/2 THE/1 ARE/1 WAY/2 OVER/3 SALTED/4 AND/5 DO/6 N'T/7 GET/8 ME/9 STARTED/10 ON/11 THE/12 VERY/13 GREASY/14 MAC/15 AND/16 CHEESE/17 ./18
+MAC AND CHEESE||negative||THE/27 BANANA/26 PUDDING/25 THEY/24 SERVE/23 HAS/22 NEVER/21 SEEN/20 AN/19 OVEN/18 ,/17 THE/16 CRABCAKES/15 ARE/14 WAY/13 OVER/12 SALTED/11 AND/10 DO/9 N'T/8 GET/7 ME/6 STARTED/5 ON/4 THE/3 VERY/2 GREASY/1 ./1
+staff||negative||The/1 is/1 arrogant/2 ,/3 the/4 prices/5 are/6 way/7 high/8 for/9 Brooklyn/10 ./11
+prices||negative||The/6 staff/5 is/4 arrogant/3 ,/2 the/1 are/1 way/2 high/3 for/4 Brooklyn/5 ./6
+service||positive||the/1 is/1 prompt/2 friendly/3 ./4
+food||positive||This/11 is/10 literally/9 a/8 hot/7 spot/6 when/5 it/4 comes/3 to/2 the/1 ./1
+downstairs bar scene||positive||The/1 is/1 very/2 cool/3 and/4 chill/5 .../6
+food||positive||The/1 was/1 definitely/2 good/3 ,/4 but/5 when/6 all/7 was/8 said/9 and/10 done/11 ,/12 I/13 just/14 could/15 n't/16 justify/17 it/18 for/19 the/20 price/21 (/22 including/23 2/24 drinks/25 ,/26 $/27 100/person/28 )/29 .../30
+price||negative||The/22 food/21 was/20 definitely/19 good/18 ,/17 but/16 when/15 all/14 was/13 said/12 and/11 done/10 ,/9 I/8 just/7 could/6 n't/5 justify/4 it/3 for/2 the/1 (/1 including/2 2/3 drinks/4 ,/5 $/6 100/person/7 )/8 .../9
+drinks||neutral||The/26 food/25 was/24 definitely/23 good/22 ,/21 but/20 when/19 all/18 was/17 said/16 and/15 done/14 ,/13 I/12 just/11 could/10 n't/9 justify/8 it/7 for/6 the/5 price/4 (/3 including/2 2/1 ,/1 $/2 100/person/3 )/4 .../5
+casual lunches||neutral||I/5 've/4 come/3 here/2 for/1 as/1 well/2 as/3 for/4 a/5 friend/6 's/7 birthday/8 and/9 I/10 always/11 enjoy/12 myself/13 ./14
+Tequila||positive||If/4 you/3 are/2 a/1 fan/1 you/2 will/3 not/4 be/5 disappointed/6 ./7
+beer selection||positive||Great/1 too/1 ,/2 something/3 like/4 50/5 beers/6 ./7
+beers||neutral||Great/8 beer/7 selection/6 too/5 ,/4 something/3 like/2 50/1 ./1
+delivary||negative||Not/10 to/9 sound/8 too/7 negative/6 but/5 be/4 wary/3 of/2 the/1 ./1
+food||positive||I/3 found/2 the/1 to/1 be/2 just/3 as/4 good/5 as/6 its/7 owner/8 ,/9 Da/10 Silvano/11 ,/12 just/13 much/14 less/15 expensive/16 ./17
+owner||positive||I/11 found/10 the/9 food/8 to/7 be/6 just/5 as/4 good/3 as/2 its/1 ,/1 Da/2 Silvano/3 ,/4 just/5 much/6 less/7 expensive/8 ./9
+homemade pastas||positive||They/2 have/1 of/1 all/2 kinds/3 --/4 I/5 recommend/6 the/7 gnocchi/8 --/9 yum/10 !/11
+gnocchi||positive||They/11 have/10 homemade/9 pastas/8 of/7 all/6 kinds/5 --/4 I/3 recommend/2 the/1 --/1 yum/2 !/3
+vegetable risotto||negative||My/1 was/1 burnt/2 ,/3 and/4 infused/5 totally/6 in/7 a/8 burnt/9 flavor/10 ./11
+flavor||negative||My/12 vegetable/11 risotto/10 was/9 burnt/8 ,/7 and/6 infused/5 totally/4 in/3 a/2 burnt/1 ./1
+price||positive||The/8 main/7 draw/6 of/5 this/4 place/3 is/2 the/1 ./1
+service||negative||How/8 can/7 hope/6 to/5 stay/4 in/3 business/2 with/1 like/1 this/2 ?/3
+dinner||positive||But/1 here/1 is/2 never/3 disappointing/4 ,/5 even/6 if/7 the/8 prices/9 are/10 a/11 bit/12 over/13 the/14 top/15 ./16
+prices||negative||But/10 dinner/9 here/8 is/7 never/6 disappointing/5 ,/4 even/3 if/2 the/1 are/1 a/2 bit/3 over/4 the/5 top/6 ./7
+sandwiches||positive||Not/7 only/6 did/5 they/4 have/3 amazing/2 ,/1 ,/1 soup/2 ,/3 pizza/4 etc/5 ,/6 but/7 their/8 homemade/9 sorbets/10 are/11 out/12 of/13 this/14 world/15 !/16
+soup||positive||Not/9 only/8 did/7 they/6 have/5 amazing/4 ,/3 sandwiches/2 ,/1 ,/1 pizza/2 etc/3 ,/4 but/5 their/6 homemade/7 sorbets/8 are/9 out/10 of/11 this/12 world/13 !/14
+pizza||positive||Not/11 only/10 did/9 they/8 have/7 amazing/6 ,/5 sandwiches/4 ,/3 soup/2 ,/1 etc/1 ,/2 but/3 their/4 homemade/5 sorbets/6 are/7 out/8 of/9 this/10 world/11 !/12
+homemade sorbets||positive||Not/16 only/15 did/14 they/13 have/12 amazing/11 ,/10 sandwiches/9 ,/8 soup/7 ,/6 pizza/5 etc/4 ,/3 but/2 their/1 are/1 out/2 of/3 this/4 world/5 !/6
+homemade Guacamole||positive||the/1 ,/1 the/2 unbelievable/3 entree/4 ,/5 and/6 thee/7 most/8 amazing/9 deserts/10 ./11
+entree||positive||the/6 homemade/5 Guacamole/4 ,/3 the/2 unbelievable/1 ,/1 and/2 thee/3 most/4 amazing/5 deserts/6 ./7
+deserts||positive||the/12 homemade/11 Guacamole/10 ,/9 the/8 unbelievable/7 entree/6 ,/5 and/4 thee/3 most/2 amazing/1 ./1
+sushi||positive||The/1 is/1 reasonably/2 priced/3 and/4 fresh/5 ./6
+priced||positive||The/4 sushi/3 is/2 reasonably/1 and/1 fresh/2 ./3
+deserts||positive||Save/3 room/2 for/1 -/1 they/2 're/3 to/4 die/5 for/6 ./7
+grill||positive||Best/7 things/6 to/5 order/4 are/3 from/2 the/1 (/1 Churrasco/2 and/3 Ribs/4 )/5 ./6
+Churrasco||positive||Best/9 things/8 to/7 order/6 are/5 from/4 the/3 grill/2 (/1 and/1 Ribs/2 )/3 ./4
+Ribs||positive||Best/11 things/10 to/9 order/8 are/7 from/6 the/5 grill/4 (/3 Churrasco/2 and/1 )/1 ./2
+traditional Italian items||positive||The/1 are/1 great/2 -/3 cheap/4 and/5 served/6 in/7 a/8 cozy/9 setting/10 ./11
+setting||positive||The/13 traditional/12 Italian/11 items/10 are/9 great/8 -/7 cheap/6 and/5 served/4 in/3 a/2 cozy/1 ./1
+served||positive||The/9 traditional/8 Italian/7 items/6 are/5 great/4 -/3 cheap/2 and/1 in/1 a/2 cozy/3 setting/4 ./5
+iced blended mocha||positive||Whether/4 your/3 choose/2 the/1 or/1 the/2 hot/3 white/4 mocha/5 you/6 are/7 sure/8 to/9 be/10 extremely/11 happy/12 ./13
+hot white mocha||positive||Whether/9 your/8 choose/7 the/6 iced/5 blended/4 mocha/3 or/2 the/1 you/1 are/2 sure/3 to/4 be/5 extremely/6 happy/7 ./8
+late lunch||neutral||last/4 Tuesday/3 for/2 a/1 with/1 a/2 friend/3 ./4
+parmesan cheese||neutral||Another/8 friend/7 had/6 to/5 ask/4 3/3 times/2 for/1 ./1
+waitress||negative||Our/1 had/1 apparently/2 never/3 tried/4 any/5 of/6 the/7 food/8 ,/9 and/10 there/11 was/12 no/13 one/14 to/15 recommend/16 any/17 wine/18 ./19
+food||neutral||Our/9 waitress/8 had/7 apparently/6 never/5 tried/4 any/3 of/2 the/1 ,/1 and/2 there/3 was/4 no/5 one/6 to/7 recommend/8 any/9 wine/10 ./11
+wine||neutral||Our/19 waitress/18 had/17 apparently/16 never/15 tried/14 any/13 of/12 the/11 food/10 ,/9 and/8 there/7 was/6 no/5 one/4 to/3 recommend/2 any/1 ./1
+service||negative||The/1 was/1 a/2 bit/3 slow/4 and/5 the/6 portions/7 are/8 a/9 bit/10 small/11 so/12 if/13 you/14 are/15 hungry/16 and/17 in/18 a/19 rush/20 ,/21 this/22 is/23 not/24 the/25 place/26 for/27 you/28 ./29
+portions||negative||The/8 service/7 was/6 a/5 bit/4 slow/3 and/2 the/1 are/1 a/2 bit/3 small/4 so/5 if/6 you/7 are/8 hungry/9 and/10 in/11 a/12 rush/13 ,/14 this/15 is/16 not/17 the/18 place/19 for/20 you/21 ./22
+ambiance||negative||The/1 was/1 pretty/2 cool/3 ,/4 but/5 not/6 worth/7 the/8 hassle/9 ./10
+salad||neutral||The/11 unfortunate/10 lady/9 next/8 to/7 us/6 thought/5 she/4 had/3 ordered/2 a/1 (/1 including/2 asking/3 for/4 salad/5 dressing/6 )/7 and/8 was/9 instead/10 given/11 a/12 quesedilla/13 ./14
+salad dressing||neutral||The/16 unfortunate/15 lady/14 next/13 to/12 us/11 thought/10 she/9 had/8 ordered/7 a/6 salad/5 (/4 including/3 asking/2 for/1 )/1 and/2 was/3 instead/4 given/5 a/6 quesedilla/7 ./8
+quesedilla||neutral||The/24 unfortunate/23 lady/22 next/21 to/20 us/19 thought/18 she/17 had/16 ordered/15 a/14 salad/13 (/12 including/11 asking/10 for/9 salad/8 dressing/7 )/6 and/5 was/4 instead/3 given/2 a/1 ./1
+pizza 's||positive||El/26 Nidos/25 one/24 of/23 the/22 best/21 restaurants/20 in/19 New/18 York/17 which/16 I/15 've/14 ever/13 been/12 to/11 ,/10 has/9 a/8 great/7 variety/6 of/5 tasty/4 ,/3 mouth/2 watering/1 ./1
+service||negative||The/1 was/1 pretty/2 poor/3 all/4 around/5 ,/6 the/7 food/8 was/9 well/10 below/11 average/12 relative/13 to/14 the/15 cost/16 ,/17 and/18 outside/19 there/20 is/21 a/22 crazy/23 bum/24 who/25 harasses/26 every/27 customer/28 who/29 leaves/30 the/31 place/32 ./33
+food||negative||The/9 service/8 was/7 pretty/6 poor/5 all/4 around/3 ,/2 the/1 was/1 well/2 below/3 average/4 relative/5 to/6 the/7 cost/8 ,/9 and/10 outside/11 there/12 is/13 a/14 crazy/15 bum/16 who/17 harasses/18 every/19 customer/20 who/21 leaves/22 the/23 place/24 ./25
+cost||negative||The/17 service/16 was/15 pretty/14 poor/13 all/12 around/11 ,/10 the/9 food/8 was/7 well/6 below/5 average/4 relative/3 to/2 the/1 ,/1 and/2 outside/3 there/4 is/5 a/6 crazy/7 bum/8 who/9 harasses/10 every/11 customer/12 who/13 leaves/14 the/15 place/16 ./17
+food||positive||Although/17 I/16 moved/15 uptown/14 I/13 try/12 to/11 stop/10 in/9 as/8 often/7 as/6 possible/5 for/4 the/3 GREAT/2 cheap/1 and/1 to/2 pay/3 the/4 friendly/5 staff/6 a/7 visit/8 ./9
+staff||positive||Although/23 I/22 moved/21 uptown/20 I/19 try/18 to/17 stop/16 in/15 as/14 often/13 as/12 possible/11 for/10 the/9 GREAT/8 cheap/7 food/6 and/5 to/4 pay/3 the/2 friendly/1 a/1 visit/2 ./3
+bar||neutral||I/9 had/8 to/7 wait/6 for/5 my/4 friend/3 at/2 the/1 for/1 a/2 few/3 minutes/4
+Chef||positive||Vincenzo/1 ,/2 always/3 there/4 if/5 you/6 need/7 him/8 ,/9 is/10 a/11 real/12 talent/13 and/14 a/15 real/16 Roman/17 ./18
+Indian food||positive||If/8 you/7 're/6 looking/5 to/4 taste/3 some/2 great/1 and/1 want/2 good/3 service/4 ,/5 definitely/6 visit/7 Curry/8 Leaf/9 ./10
+service||positive||If/13 you/12 're/11 looking/10 to/9 taste/8 some/7 great/6 Indian/5 food/4 and/3 want/2 good/1 ,/1 definitely/2 visit/3 Curry/4 Leaf/5 ./6
+Odessa stew||positive||You/3 must/2 try/1 or/1 Rabbit/2 stew/3 ;/4 salads-all/5 good/6 ;/7 and/8 kompot/9 is/10 soo/11 refreshing/12 during/13 the/14 hot/15 summer/16 day/17 (/18 they/19 make/20 it/21 the/22 way/23 my/24 mom/25 does/26 ,/27 reminds/28 me/29 of/30 home/31 a/32 lot/33 )/34 ./35
+Rabbit stew||positive||You/6 must/5 try/4 Odessa/3 stew/2 or/1 ;/1 salads-all/2 good/3 ;/4 and/5 kompot/6 is/7 soo/8 refreshing/9 during/10 the/11 hot/12 summer/13 day/14 (/15 they/16 make/17 it/18 the/19 way/20 my/21 mom/22 does/23 ,/24 reminds/25 me/26 of/27 home/28 a/29 lot/30 )/31 ./32
+salads||positive||You/9 must/8 try/7 Odessa/6 stew/5 or/4 Rabbit/3 stew/2 ;/1 -/1 all/2 good/3 ;/4 and/5 kompot/6 is/7 soo/8 refreshing/9 during/10 the/11 hot/12 summer/13 day/14 (/15 they/16 make/17 it/18 the/19 way/20 my/21 mom/22 does/23 ,/24 reminds/25 me/26 of/27 home/28 a/29 lot/30 )/31 ./32
+kompot||positive||You/13 must/12 try/11 Odessa/10 stew/9 or/8 Rabbit/7 stew/6 ;/5 salads-all/4 good/3 ;/2 and/1 is/1 soo/2 refreshing/3 during/4 the/5 hot/6 summer/7 day/8 (/9 they/10 make/11 it/12 the/13 way/14 my/15 mom/16 does/17 ,/18 reminds/19 me/20 of/21 home/22 a/23 lot/24 )/25 ./26
+lunch||positive||My/21 daughter/20 and/19 I/18 left/17 feeling/16 satisfied/15 (/14 not/13 stuffed/12 )/11 and/10 it/9 felt/8 good/7 to/6 know/5 we/4 had/3 a/2 healthy/1 ./1
+waitress||neutral||When/5 she/4 complained/3 ,/2 the/1 said/1 ,/2 Sorry/3 ./4
+quality of the meat||negative||The/1 was/1 on/2 par/3 with/4 your/5 local/6 grocery/7 store/8 ./9
+smoothies||positive||They/3 specialize/2 in/1 and/1 fresh/2 juices/3 ./4
+fresh juices||positive||They/5 specialize/4 in/3 smoothies/2 and/1 ./1
+black roasted codfish||positive||I/3 recommend/2 the/1 ,/1 it/2 was/3 the/4 best/5 dish/6 of/7 the/8 evening/9 ./10
+dish||positive||I/11 recommend/10 the/9 black/8 roasted/7 codfish/6 ,/5 it/4 was/3 the/2 best/1 of/1 the/2 evening/3 ./4
+waiter||negative||The/23 manager/22 then/21 told/20 us/19 we/18 could/17 order/16 from/15 whatever/14 menu/13 we/12 wanted/11 but/10 by/9 that/8 time/7 we/6 were/5 so/4 annoyed/3 with/2 the/1 and/1 the/2 resturant/3 that/4 we/5 let/6 and/7 went/8 some/9 place/10 else/11 ./12
+menu||neutral||The/10 manager/9 then/8 told/7 us/6 we/5 could/4 order/3 from/2 whatever/1 we/1 wanted/2 but/3 by/4 that/5 time/6 we/7 were/8 so/9 annoyed/10 with/11 the/12 waiter/13 and/14 the/15 resturant/16 that/17 we/18 let/19 and/20 went/21 some/22 place/23 else/24 ./25
+manager||neutral||The/1 then/1 told/2 us/3 we/4 could/5 order/6 from/7 whatever/8 menu/9 we/10 wanted/11 but/12 by/13 that/14 time/15 we/16 were/17 so/18 annoyed/19 with/20 the/21 waiter/22 and/23 the/24 resturant/25 that/26 we/27 let/28 and/29 went/30 some/31 place/32 else/33 ./34
+taste||negative||In/23 mi/22 burrito/21 ,/20 here/19 was/18 nothing/17 but/16 dark/15 chicken/14 that/13 had/12 that/11 cooked/10 last/9 week/8 and/7 just/6 warmed/5 up/4 in/3 a/2 microwave/1 ./1
+chicken||negative||In/9 mi/8 burrito/7 ,/6 here/5 was/4 nothing/3 but/2 dark/1 that/1 had/2 that/3 cooked/4 last/5 week/6 and/7 just/8 warmed/9 up/10 in/11 a/12 microwave/13 taste/14 ./15
+reservation||neutral||during/10 busy/9 hrs/8 ,/7 i/6 recommend/5 that/4 you/3 make/2 a/1 ./1
+brunch||neutral||I/6 went/5 to/4 Common/3 Stock/2 for/1 and/1 I/2 was/3 so/4 impressed/5 ./6
+sushi||neutral||now/5 called/4 nikki/3 sushi/2 ,/1 is/1 OK/2 ./3
+food||positive||The/1 is/1 also/2 outstanding/3 and/4 is/5 served/6 quite/7 quickly/8 ./9
+served||positive||The/7 food/6 is/5 also/4 outstanding/3 and/2 is/1 quite/1 quickly/2 ./3
+erbazzone emiliana||positive||From/2 the/1 to/1 the/2 mostarda/3 on/4 the/5 cheese/6 plate/7 ,/8 the/9 dishes/10 at/11 this/12 restaurant/13 are/14 all/15 handled/16 with/17 delicate/18 care/19 ./20
+mostarda on the cheese plate||positive||From/6 the/5 erbazzone/4 emiliana/3 to/2 the/1 ,/1 the/2 dishes/3 at/4 this/5 restaurant/6 are/7 all/8 handled/9 with/10 delicate/11 care/12 ./13
+dishes||positive||From/13 the/12 erbazzone/11 emiliana/10 to/9 the/8 mostarda/7 on/6 the/5 cheese/4 plate/3 ,/2 the/1 at/1 this/2 restaurant/3 are/4 all/5 handled/6 with/7 delicate/8 care/9 ./10
+food||positive||The/1 is/1 delicious/2 and/3 the/4 bar/5 has/6 a/7 great/8 vibe/9 ./10
+bar||positive||The/6 food/5 is/4 delicious/3 and/2 the/1 has/1 a/2 great/3 vibe/4 ./5
+vibe||positive||The/10 food/9 is/8 delicious/7 and/6 the/5 bar/4 has/3 a/2 great/1 ./1
+candlelight||neutral||There/2 's/1 and/1 music/2 ./3
+music||neutral||There/4 's/3 candlelight/2 and/1 ./1
+food||positive||Simple/3 healthy/2 unglamorous/1 cheap/1 ./2
+dining experience||positive||It/5 was/4 such/3 a/2 fantastic/1 ,/1 that/2 I/3 returned/4 again/5 the/6 same/7 week/8 ./9
+food||positive||To/5 be/4 fair/3 ,/2 the/1 still/1 is/2 good/3 and/4 the/5 service/6 is/7 quick/8 and/9 attentative/10 even/11 though/12 its/13 usually/14 very/15 busy/16 ./17
+service||positive||To/11 be/10 fair/9 ,/8 the/7 food/6 still/5 is/4 good/3 and/2 the/1 is/1 quick/2 and/3 attentative/4 even/5 though/6 its/7 usually/8 very/9 busy/10 ./11
+place||positive||The/1 is/1 absolutely/2 adorable/3 and/4 the/5 food/6 is/7 delicious/8 ./9
+food||positive||The/7 place/6 is/5 absolutely/4 adorable/3 and/2 the/1 is/1 delicious/2 ./3
+Chicken Teriyaki||neutral||I/3 ordered/2 the/1 and/1 my/2 husband/3 got/4 Garlic/5 Shrimp/6 ./7
+Garlic Shrimp||neutral||I/9 ordered/8 the/7 Chicken/6 Teriyaki/5 and/4 my/3 husband/2 got/1 ./1
+Japanese food||negative||I/4 've/3 had/2 better/1 at/1 a/2 mall/3 food/4 court/5 ./6
+staff members||positive||The/1 are/1 extremely/2 friendly/3 and/4 even/5 replaced/6 my/7 drink/8 once/9 when/10 I/11 dropped/12 it/13 outside/14 ./15
+drink||neutral||The/10 staff/9 members/8 are/7 extremely/6 friendly/5 and/4 even/3 replaced/2 my/1 once/1 when/2 I/3 dropped/4 it/5 outside/6 ./7
+atmosphere||positive||Cool/1 but/1 such/2 a/3 let/4 down/5 ./6
+Sashimi portion||positive||The/1 are/1 big/2 enough/3 to/4 appease/5 most/6 people/7 ,/8 but/9 I/10 did/11 n't/12 like/13 the/14 fact/15 they/16 used/17 artifical/18 lobster/19 meat/20 ./21
+artifical lobster meat||negative||The/20 Sashimi/19 portion/18 are/17 big/16 enough/15 to/14 appease/13 most/12 people/11 ,/10 but/9 I/8 did/7 n't/6 like/5 the/4 fact/3 they/2 used/1 ./1
+wheat crusted pizza||positive||They/2 have/1 made/1 with/2 really/3 fresh/4 and/5 yummy/6 ingredients/7 ./8
+ingredients||positive||They/11 have/10 wheat/9 crusted/8 pizza/7 made/6 with/5 really/4 fresh/3 and/2 yummy/1 ./1
+dinner||positive||Had/3 a/2 lovely/1 in/1 this/2 dedicated/3 seafood/4 joint/5 ,/6 food/7 was/8 well-prepared/9 and/10 -/11 presented/12 and/13 the/14 service/15 was/16 pleasant/17 and/18 prompt/19 ./20
+food||positive||Had/10 a/9 lovely/8 dinner/7 in/6 this/5 dedicated/4 seafood/3 joint/2 ,/1 was/1 well-prepared/2 and/3 -/4 presented/5 and/6 the/7 service/8 was/9 pleasant/10 and/11 prompt/12 ./13
+service||positive||Had/18 a/17 lovely/16 dinner/15 in/14 this/13 dedicated/12 seafood/11 joint/10 ,/9 food/8 was/7 well-prepared/6 and/5 -/4 presented/3 and/2 the/1 was/1 pleasant/2 and/3 prompt/4 ./5
+cake||positive||the/4 icing/3 MADE/2 this/1 ,/1 it/2 was/3 fluffy/4 ,/5 not/6 ultra/7 sweet/8 ,/9 creamy/10 and/11 light/12 ./13
+staff||negative||Finally/17 let/16 into/15 the/14 store/13 5/12 at/11 a/10 time/9 ,/8 to/7 buy/6 expensive/5 slices/4 from/3 a/2 harried/1 ./1
+slices||negative||Finally/13 let/12 into/11 the/10 store/9 5/8 at/7 a/6 time/5 ,/4 to/3 buy/2 expensive/1 from/1 a/2 harried/3 staff/4 ./5
+wait staff||negative||We/15 ended/14 up/13 having/12 to/11 just/10 leave/9 because/8 we/7 were/6 essentially/5 being/4 ignored/3 by/2 the/1 --/1 even/2 though/3 the/4 rest/5 of/6 the/7 restaurant/8 was/9 largely/10 empty/11 ./12
+wine list||positive||The/1 is/1 extensive/2 ,/3 well/4 priced/5 and/6 covers/7 alot/8 of/9 regions/10 ./11
+priced||positive||The/7 wine/6 list/5 is/4 extensive/3 ,/2 well/1 and/1 covers/2 alot/3 of/4 regions/5 ./6
+salads||positive||Go/8 here/7 if/6 you/5 want/4 fresh/3 and/2 tasty/1 of/1 any/2 type/3 you/4 can/5 imagine/6 ./7
+bathroom||positive||Everything/9 about/8 this/7 place/6 is/5 adorable/4 -/3 even/2 the/1 !/1
+delivers||positive||Speedy/1 ,/1 great/2 food/3 ,/4 decent/5 prices/6 ,/7 and/8 friendly/9 service/10 combine/11 to/12 ensure/13 an/14 enjoyable/15 repast/16 ./17
+food||positive||Speedy/4 delivers/3 ,/2 great/1 ,/1 decent/2 prices/3 ,/4 and/5 friendly/6 service/7 combine/8 to/9 ensure/10 an/11 enjoyable/12 repast/13 ./14
+prices||positive||Speedy/7 delivers/6 ,/5 great/4 food/3 ,/2 decent/1 ,/1 and/2 friendly/3 service/4 combine/5 to/6 ensure/7 an/8 enjoyable/9 repast/10 ./11
+service||positive||Speedy/11 delivers/10 ,/9 great/8 food/7 ,/6 decent/5 prices/4 ,/3 and/2 friendly/1 combine/1 to/2 ensure/3 an/4 enjoyable/5 repast/6 ./7
+repast||positive||Speedy/17 delivers/16 ,/15 great/14 food/13 ,/12 decent/11 prices/10 ,/9 and/8 friendly/7 service/6 combine/5 to/4 ensure/3 an/2 enjoyable/1 ./1
+WAITERS||neutral||THEY/2 HAVE/1 ON/1 THE/2 SIDEWALK/3 TRYING/4 TO/5 PULL/6 YOU/7 IN/8 WHICH/9 MADE/10 US/11 SUSPICIOUS/12 ./13
+ITALIAN MEAL||neutral||IT/11 WAS/10 OUR/9 ONLY/8 OPPORTUNITY/7 TO/6 VISIT/5 AND/4 WANTED/3 AN/2 AUTHENTIC/1 ./1
+pizza||positive||It/11 took/10 100/9 years/8 for/7 Parisi/6 to/5 get/4 around/3 to/2 making/1 (/1 at/2 least/3 I/4 do/5 n't/6 think/7 they/8 ever/9 made/10 it/11 before/12 this/13 year/14 )/15 .../16 but/17 it/18 was/19 worth/20 the/21 wait/22 ./23
+steak||neutral||I/7 asked/6 for/5 a/4 simple/3 medium/2 rare/1 ./1
+organic grilled burgers||positive||Generously/3 garnished/2 ,/1 are/1 the/2 most/3 popular/4 dish/5 ,/6 but/7 the/8 Jerusalem/9 market-style/10 falafel/11 wraps/12 and/13 Mediterranean/14 salads/15 --/16 layered/17 with/18 beets/19 ,/20 goat/21 cheese/22 and/23 walnuts/24 --/25 are/26 equally/27 scrumptious/28 ./29
+dish||positive||Generously/10 garnished/9 ,/8 organic/7 grilled/6 burgers/5 are/4 the/3 most/2 popular/1 ,/1 but/2 the/3 Jerusalem/4 market-style/5 falafel/6 wraps/7 and/8 Mediterranean/9 salads/10 --/11 layered/12 with/13 beets/14 ,/15 goat/16 cheese/17 and/18 walnuts/19 --/20 are/21 equally/22 scrumptious/23 ./24
+Jerusalem market-style falafel wraps||positive||Generously/14 garnished/13 ,/12 organic/11 grilled/10 burgers/9 are/8 the/7 most/6 popular/5 dish/4 ,/3 but/2 the/1 and/1 Mediterranean/2 salads/3 --/4 layered/5 with/6 beets/7 ,/8 goat/9 cheese/10 and/11 walnuts/12 --/13 are/14 equally/15 scrumptious/16 ./17
+Mediterranean salads -- layered with beets , goat cheese and walnuts||positive||Generously/19 garnished/18 ,/17 organic/16 grilled/15 burgers/14 are/13 the/12 most/11 popular/10 dish/9 ,/8 but/7 the/6 Jerusalem/5 market-style/4 falafel/3 wraps/2 and/1 --/1 are/2 equally/3 scrumptious/4 ./5
+dining experience||negative||Probably/3 my/2 worst/1 in/1 new/2 york/3 ,/4 and/5 I/6 'm/7 a/8 former/9 waiter/10 so/11 I/12 know/13 what/14 I/15 'm/16 talking/17 about/18 ./19
+waiter||neutral||Probably/14 my/13 worst/12 dining/11 experience/10 in/9 new/8 york/7 ,/6 and/5 I/4 'm/3 a/2 former/1 so/1 I/2 know/3 what/4 I/5 'm/6 talking/7 about/8 ./9
+texture||positive||Result/7 (/6 red/5 velvet/4 )/3 :/2 Great/1 ,/1 soft/2 and/3 velvety/4 ,/5 nice/6 hint/7 of/8 cocoa/9 ./10
+hint of cocoa||positive||Result/14 (/13 red/12 velvet/11 )/10 :/9 Great/8 texture/7 ,/6 soft/5 and/4 velvety/3 ,/2 nice/1 ./1
+round corner table next to the large window||positive||Ask/3 for/2 the/1 ./1
+flavor||positive||Their/10 twist/9 on/8 pizza/7 is/6 heatlhy/5 ,/4 but/3 full/2 of/1 ./1
+twist on pizza||positive||Their/1 is/1 heatlhy/2 ,/3 but/4 full/5 of/6 flavor/7 ./8
+AC||negative||The/3 lack/2 of/1 and/1 the/2 fact/3 that/4 there/5 are/6 a/7 million/8 swarming/9 bodies/10 (/11 although/12 everyone/13 is/14 polite/15 and/16 no/17 one/18 is/19 pushing/20 )/21 is/22 a/23 slight/24 turn/25 off/26 ./27
+service||negative||I/30 love/29 the/28 Little/27 Pie/26 Company/25 as/24 much/23 as/22 anyone/21 else/20 who/19 has/18 written/17 reviews/16 ,/15 but/14 must/13 discourage/12 anyone/11 from/10 visiting/9 the/8 Grand/7 Central/6 location/5 due/4 to/3 their/2 RUDE/1 from/1 two/2 sales/3 people/4 ./5
+sales people||negative||I/33 love/32 the/31 Little/30 Pie/29 Company/28 as/27 much/26 as/25 anyone/24 else/23 who/22 has/21 written/20 reviews/19 ,/18 but/17 must/16 discourage/15 anyone/14 from/13 visiting/12 the/11 Grand/10 Central/9 location/8 due/7 to/6 their/5 RUDE/4 service/3 from/2 two/1 ./1
+location||negative||Unfortunately/15 ,/14 unless/13 you/12 live/11 in/10 the/9 neighborhood/8 ,/7 it/6 's/5 not/4 in/3 a/2 convenient/1 but/1 is/2 more/3 like/4 a/5 hidden/6 treasure/7 ./8
+display and quality of the food||negative||Did/10 n't/9 seem/8 like/7 any/6 effort/5 was/4 made/3 to/2 the/1 ./1
+food||positive||The/1 --/1 though/2 mostly/3 deep-fried/4 --/5 is/6 simple/7 and/8 satisfying/9 ./10
+food||positive||Glechik/19 might/18 be/17 way/16 too/15 tiny/14 for/13 a/12 restaurant/11 by/10 Russian/9 standards/8 ,/7 but/6 it/5 is/4 cozy/3 and/2 the/1 is/1 simply/2 GREAT/3 ./4
+food||positive||The/1 was/1 excellent/2 -/3 authentic/4 Italian/5 cuisine/6 made/7 absolutely/8 fresh/9 ./10
+Italian cuisine||positive||The/6 food/5 was/4 excellent/3 -/2 authentic/1 made/1 absolutely/2 fresh/3 ./4
+atmoshere||positive||At/3 night/2 the/1 changes/1 turning/2 into/3 this/4 hidden/5 jewel/6 that/7 is/8 waiting/9 to/10 be/11 discovered/12 ./13
+booth by the windows||neutral||The/18 other/17 times/16 I/15 've/14 gone/13 it/12 's/11 romantic/10 date/9 heaven/8 ,/7 you/6 can/5 walk/4 in/3 get/2 a/1 ,/1 be/2 treated/3 like/4 a/5 VIP/6 in/7 a/8 not-crowded/9 place/10 ,/11 with/12 great/13 food/14 and/15 service/16 ./17
+place||positive||The/31 other/30 times/29 I/28 've/27 gone/26 it/25 's/24 romantic/23 date/22 heaven/21 ,/20 you/19 can/18 walk/17 in/16 get/15 a/14 booth/13 by/12 the/11 windows/10 ,/9 be/8 treated/7 like/6 a/5 VIP/4 in/3 a/2 not-crowded/1 ,/1 with/2 great/3 food/4 and/5 service/6 ./7
+food||positive||The/35 other/34 times/33 I/32 've/31 gone/30 it/29 's/28 romantic/27 date/26 heaven/25 ,/24 you/23 can/22 walk/21 in/20 get/19 a/18 booth/17 by/16 the/15 windows/14 ,/13 be/12 treated/11 like/10 a/9 VIP/8 in/7 a/6 not-crowded/5 place/4 ,/3 with/2 great/1 and/1 service/2 ./3
+service||positive||The/37 other/36 times/35 I/34 've/33 gone/32 it/31 's/30 romantic/29 date/28 heaven/27 ,/26 you/25 can/24 walk/23 in/22 get/21 a/20 booth/19 by/18 the/17 windows/16 ,/15 be/14 treated/13 like/12 a/11 VIP/10 in/9 a/8 not-crowded/7 place/6 ,/5 with/4 great/3 food/2 and/1 ./1
+coffee||positive||I/6 would/5 only/4 go/3 for/2 the/1 which/1 is/2 way/3 better/4 than/5 Starbucks/6 or/7 the/8 like/9 ./10
+wine list||negative||Somewhat/2 disappointing/1 (/1 only/2 new/3 vintages/4 ./5
+vintages||negative||Somewhat/7 disappointing/6 wine/5 list/4 (/3 only/2 new/1 ./1
+priced||negative||If/6 your/5 looking/4 for/3 nasty/2 high/1 food/1 with/2 a/3 dash/4 of/5 ghetto/6 scenery/7 cheap/8 BX/9 A$/10 $/11 this/12 is/13 the/14 place/15 to/16 be/17 !!/18
+food||negative||If/7 your/6 looking/5 for/4 nasty/3 high/2 priced/1 with/1 a/2 dash/3 of/4 ghetto/5 scenery/6 cheap/7 BX/8 A$/9 $/10 this/11 is/12 the/13 place/14 to/15 be/16 !!/17
+scenery||negative||If/13 your/12 looking/11 for/10 nasty/9 high/8 priced/7 food/6 with/5 a/4 dash/3 of/2 ghetto/1 cheap/1 BX/2 A$/3 $/4 this/5 is/6 the/7 place/8 to/9 be/10 !!/11
+new hamburger with special sauce||positive||is/1 ok/2 -/3 at/4 least/5 better/6 than/7 big/8 mac/9 !/10
+big mac||negative||new/12 hamburger/11 with/10 special/9 sauce/8 is/7 ok/6 -/5 at/4 least/3 better/2 than/1 !/1
+pasta||positive||Perfectly/3 al/2 dente/1 ,/1 not/2 drowned/3 in/4 sauce/5 --/6 generous/7 portions/8 ./9
+sauce||neutral||Perfectly/8 al/7 dente/6 pasta/5 ,/4 not/3 drowned/2 in/1 --/1 generous/2 portions/3 ./4
+portions||positive||Perfectly/11 al/10 dente/9 pasta/8 ,/7 not/6 drowned/5 in/4 sauce/3 --/2 generous/1 ./1
+prices||negative||I/4 can/3 understand/2 the/1 if/1 it/2 served/3 better/4 food/5 ,/6 like/7 some/8 Chinese/9 restaurants/10 in/11 midtown/uptown/12 area/13 ./14
+food||negative||I/9 can/8 understand/7 the/6 prices/5 if/4 it/3 served/2 better/1 ,/1 like/2 some/3 Chinese/4 restaurants/5 in/6 midtown/uptown/7 area/8 ./9
+Service||negative||was/1 awful/2 -/3 mostly/4 because/5 staff/6 were/7 overwhelmed/8 on/9 a/10 Saturday/11 night/12 ./13
+staff||negative||Service/6 was/5 awful/4 -/3 mostly/2 because/1 were/1 overwhelmed/2 on/3 a/4 Saturday/5 night/6 ./7
+owners||positive||To/2 the/1 ;/1 good/2 job/3 guys/4 ,/5 this/6 place/7 is/8 a/9 keeper/10 !/11
+owner||positive||and/2 the/1 is/1 simply/2 lovely/3 and/4 friendly/5 ./6
+place||positive||This/2 little/1 is/1 wonderfully/2 warm/3 welcoming/4 ./5
+meal||positive||perfect/4 for/3 a/2 quick/1 ./1
+place||positive||Has/12 the/11 warmth/10 of/9 a/8 family/7 local/6 yet/5 it/4 is/3 a/2 great/1 to/1 watch/2 sporting/3 events/4 ./5
+service||positive||The/1 was/1 great/2 ,/3 and/4 they/5 have/6 a/7 whole/8 great/9 deal/10 for/11 birthdays/12 ./13
+staff||positive||The/1 is/1 100/2 %/3 Italian/4 and/5 the/6 food/7 is/8 as/9 authentic/10 as/11 it/12 gets/13 ./14
+food||positive||The/8 staff/7 is/6 100/5 %/4 Italian/3 and/2 the/1 is/1 as/2 authentic/3 as/4 it/5 gets/6 ./7
+fortune cookies||negative||My/6 only/5 complaint/4 might/3 be/2 the/1 -/1 I/2 've/3 never/4 had/5 a/6 cookie/7 predict/8 bad/9 luck/10 for/11 me/12 before/13 I/14 visited/15 Kar/16 ./17
+cookie||negative||My/14 only/13 complaint/12 might/11 be/10 the/9 fortune/8 cookies/7 -/6 I/5 've/4 never/3 had/2 a/1 predict/1 bad/2 luck/3 for/4 me/5 before/6 I/7 visited/8 Kar/9 ./10
+sushi lunch||positive||Good/4 for/3 a/2 quick/1 ./1
+mojito||positive||Have/2 a/1 and/1 sit/2 in/3 the/4 back/5 patio/6 ./7
+back patio||positive||Have/7 a/6 mojito/5 and/4 sit/3 in/2 the/1 ./1
+service||negative||The/1 was/1 dreadfully/2 slow/3 (/4 the/5 place/6 was/7 only/8 half/9 full/10 )/11 and/12 a/13 smile/14 would/15 have/16 been/17 nice/18 .../19
+meal||positive||I/9 went/8 this/7 past/6 Saturday/5 and/4 had/3 a/2 excellent/1 of/1 consisting/2 of/3 a/4 braised/5 lamb/6 shank/7 with/8 mashed/9 potatoes/10 ./11
+braised lamb shank with mashed potatoes||positive||I/14 went/13 this/12 past/11 Saturday/10 and/9 had/8 a/7 excellent/6 meal/5 of/4 consisting/3 of/2 a/1 ./1
+waitress||negative||The/1 came/1 by/2 to/3 pick/4 up/5 the/6 soy/7 sauce/8 WHILE/9 we/10 were/11 eating/12 our/13 lunch/14 !!!!!/15
+soy sauce||neutral||The/8 waitress/7 came/6 by/5 to/4 pick/3 up/2 the/1 WHILE/1 we/2 were/3 eating/4 our/5 lunch/6 !!!!!/7
+lunch||neutral||The/15 waitress/14 came/13 by/12 to/11 pick/10 up/9 the/8 soy/7 sauce/6 WHILE/5 we/4 were/3 eating/2 our/1 !!!!!/1
+bar||neutral||So/5 we/4 sat/3 at/2 the/1 ,/1 the/2 bartender/3 did/4 n't/5 seem/6 like/7 he/8 wanted/9 to/10 be/11 there/12 ./13
+bartender||negative||So/8 we/7 sat/6 at/5 the/4 bar/3 ,/2 the/1 did/1 n't/2 seem/3 like/4 he/5 wanted/6 to/7 be/8 there/9 ./10
+fried pork dumplings||positive||I/3 reccomend/2 the/1 ,/1 the/2 orange/3 chicken/beef/4 ,/5 and/6 the/7 fried/8 rice/9 ./10
+orange chicken/beef||positive||I/8 reccomend/7 the/6 fried/5 pork/4 dumplings/3 ,/2 the/1 ,/1 and/2 the/3 fried/4 rice/5 ./6
+fried rice||positive||I/13 reccomend/12 the/11 fried/10 pork/9 dumplings/8 ,/7 the/6 orange/5 chicken/beef/4 ,/3 and/2 the/1 ./1
+menu||positive||You/12 will/11 not/10 be/9 dissapointed/8 by/7 any/6 of/5 the/4 choices/3 in/2 the/1 ./1
+french fries -- with the kalmata dip||positive||The/1 were/1 terrific/2 !/3
+wait||negative||Would/12 you/11 ever/10 believe/9 that/8 when/7 you/6 complain/5 about/4 over/3 an/2 hour/1 ,/1 when/2 they/3 tell/4 you/5 it/6 will/7 be/8 20-30/9 minutes/10 ,/11 the/12 manager/13 tells/14 the/15 bartender/16 to/17 spill/18 the/19 drinks/20 you/21 just/22 paid/23 for/24 ?/25
+manager||negative||Would/25 you/24 ever/23 believe/22 that/21 when/20 you/19 complain/18 about/17 over/16 an/15 hour/14 wait/13 ,/12 when/11 they/10 tell/9 you/8 it/7 will/6 be/5 20-30/4 minutes/3 ,/2 the/1 tells/1 the/2 bartender/3 to/4 spill/5 the/6 drinks/7 you/8 just/9 paid/10 for/11 ?/12
+bartender||neutral||Would/28 you/27 ever/26 believe/25 that/24 when/23 you/22 complain/21 about/20 over/19 an/18 hour/17 wait/16 ,/15 when/14 they/13 tell/12 you/11 it/10 will/9 be/8 20-30/7 minutes/6 ,/5 the/4 manager/3 tells/2 the/1 to/1 spill/2 the/3 drinks/4 you/5 just/6 paid/7 for/8 ?/9
+drinks||neutral||Would/32 you/31 ever/30 believe/29 that/28 when/27 you/26 complain/25 about/24 over/23 an/22 hour/21 wait/20 ,/19 when/18 they/17 tell/16 you/15 it/14 will/13 be/12 20-30/11 minutes/10 ,/9 the/8 manager/7 tells/6 the/5 bartender/4 to/3 spill/2 the/1 you/1 just/2 paid/3 for/4 ?/5
+boutique selection of wines||neutral||The/1 covers/1 a/2 wide/3 variety/4 without/5 being/6 imposeing/7 ./8
+assortment of wraps||positive||They/5 also/4 have/3 a/2 great/1 if/1 your/2 not/3 in/4 the/5 mood/6 for/7 traditional/8 Mediterranean/9 fare/10 ./11
+traditional Mediterranean fare||neutral||They/15 also/14 have/13 a/12 great/11 assortment/10 of/9 wraps/8 if/7 your/6 not/5 in/4 the/3 mood/2 for/1 ./1
+Fresh veggies||positive||,/1 all/2 sorts/3 of/4 middle/5 eastern/6 spreads/7 ,/8 cheese/9 and/10 falafel/11 ,/12 soup/13 ,/14 fish/15 ,/16 rice/17 ,/18 root/19 vegetables/20 ,/21 a/22 rice/23 medley/24 ,/25 some/26 spinach/27 thing/28 ,/29 lamb/30 kebabs/31 ,/32 cheese/33 baclava/34 .../35 soooo/36 much/37 fooood/38 ,/39 and/40 all/41 of/42 it/43 delicious/44 ./45
+middle eastern spreads||positive||Fresh/6 veggies/5 ,/4 all/3 sorts/2 of/1 ,/1 cheese/2 and/3 falafel/4 ,/5 soup/6 ,/7 fish/8 ,/9 rice/10 ,/11 root/12 vegetables/13 ,/14 a/15 rice/16 medley/17 ,/18 some/19 spinach/20 thing/21 ,/22 lamb/23 kebabs/24 ,/25 cheese/26 baclava/27 .../28 soooo/29 much/30 fooood/31 ,/32 and/33 all/34 of/35 it/36 delicious/37 ./38
+cheese||positive||Fresh/10 veggies/9 ,/8 all/7 sorts/6 of/5 middle/4 eastern/3 spreads/2 ,/1 and/1 falafel/2 ,/3 soup/4 ,/5 fish/6 ,/7 rice/8 ,/9 root/10 vegetables/11 ,/12 a/13 rice/14 medley/15 ,/16 some/17 spinach/18 thing/19 ,/20 lamb/21 kebabs/22 ,/23 cheese/24 baclava/25 .../26 soooo/27 much/28 fooood/29 ,/30 and/31 all/32 of/33 it/34 delicious/35 ./36
+falafel||positive||Fresh/12 veggies/11 ,/10 all/9 sorts/8 of/7 middle/6 eastern/5 spreads/4 ,/3 cheese/2 and/1 ,/1 soup/2 ,/3 fish/4 ,/5 rice/6 ,/7 root/8 vegetables/9 ,/10 a/11 rice/12 medley/13 ,/14 some/15 spinach/16 thing/17 ,/18 lamb/19 kebabs/20 ,/21 cheese/22 baclava/23 .../24 soooo/25 much/26 fooood/27 ,/28 and/29 all/30 of/31 it/32 delicious/33 ./34
+soup||positive||Fresh/14 veggies/13 ,/12 all/11 sorts/10 of/9 middle/8 eastern/7 spreads/6 ,/5 cheese/4 and/3 falafel/2 ,/1 ,/1 fish/2 ,/3 rice/4 ,/5 root/6 vegetables/7 ,/8 a/9 rice/10 medley/11 ,/12 some/13 spinach/14 thing/15 ,/16 lamb/17 kebabs/18 ,/19 cheese/20 baclava/21 .../22 soooo/23 much/24 fooood/25 ,/26 and/27 all/28 of/29 it/30 delicious/31 ./32
+fish||positive||Fresh/16 veggies/15 ,/14 all/13 sorts/12 of/11 middle/10 eastern/9 spreads/8 ,/7 cheese/6 and/5 falafel/4 ,/3 soup/2 ,/1 ,/1 rice/2 ,/3 root/4 vegetables/5 ,/6 a/7 rice/8 medley/9 ,/10 some/11 spinach/12 thing/13 ,/14 lamb/15 kebabs/16 ,/17 cheese/18 baclava/19 .../20 soooo/21 much/22 fooood/23 ,/24 and/25 all/26 of/27 it/28 delicious/29 ./30
+rice||positive||Fresh/18 veggies/17 ,/16 all/15 sorts/14 of/13 middle/12 eastern/11 spreads/10 ,/9 cheese/8 and/7 falafel/6 ,/5 soup/4 ,/3 fish/2 ,/1 ,/1 root/2 vegetables/3 ,/4 a/5 rice/6 medley/7 ,/8 some/9 spinach/10 thing/11 ,/12 lamb/13 kebabs/14 ,/15 cheese/16 baclava/17 .../18 soooo/19 much/20 fooood/21 ,/22 and/23 all/24 of/25 it/26 delicious/27 ./28
+root vegetables||positive||Fresh/20 veggies/19 ,/18 all/17 sorts/16 of/15 middle/14 eastern/13 spreads/12 ,/11 cheese/10 and/9 falafel/8 ,/7 soup/6 ,/5 fish/4 ,/3 rice/2 ,/1 ,/1 a/2 rice/3 medley/4 ,/5 some/6 spinach/7 thing/8 ,/9 lamb/10 kebabs/11 ,/12 cheese/13 baclava/14 .../15 soooo/16 much/17 fooood/18 ,/19 and/20 all/21 of/22 it/23 delicious/24 ./25
+rice medley||positive||Fresh/24 veggies/23 ,/22 all/21 sorts/20 of/19 middle/18 eastern/17 spreads/16 ,/15 cheese/14 and/13 falafel/12 ,/11 soup/10 ,/9 fish/8 ,/7 rice/6 ,/5 root/4 vegetables/3 ,/2 a/1 ,/1 some/2 spinach/3 thing/4 ,/5 lamb/6 kebabs/7 ,/8 cheese/9 baclava/10 .../11 soooo/12 much/13 fooood/14 ,/15 and/16 all/17 of/18 it/19 delicious/20 ./21
+spinach thing||positive||Fresh/28 veggies/27 ,/26 all/25 sorts/24 of/23 middle/22 eastern/21 spreads/20 ,/19 cheese/18 and/17 falafel/16 ,/15 soup/14 ,/13 fish/12 ,/11 rice/10 ,/9 root/8 vegetables/7 ,/6 a/5 rice/4 medley/3 ,/2 some/1 ,/1 lamb/2 kebabs/3 ,/4 cheese/5 baclava/6 .../7 soooo/8 much/9 fooood/10 ,/11 and/12 all/13 of/14 it/15 delicious/16 ./17
+lamb kebabs||positive||Fresh/31 veggies/30 ,/29 all/28 sorts/27 of/26 middle/25 eastern/24 spreads/23 ,/22 cheese/21 and/20 falafel/19 ,/18 soup/17 ,/16 fish/15 ,/14 rice/13 ,/12 root/11 vegetables/10 ,/9 a/8 rice/7 medley/6 ,/5 some/4 spinach/3 thing/2 ,/1 ,/1 cheese/2 baclava/3 .../4 soooo/5 much/6 fooood/7 ,/8 and/9 all/10 of/11 it/12 delicious/13 ./14
+cheese baclava||positive||Fresh/34 veggies/33 ,/32 all/31 sorts/30 of/29 middle/28 eastern/27 spreads/26 ,/25 cheese/24 and/23 falafel/22 ,/21 soup/20 ,/19 fish/18 ,/17 rice/16 ,/15 root/14 vegetables/13 ,/12 a/11 rice/10 medley/9 ,/8 some/7 spinach/6 thing/5 ,/4 lamb/3 kebabs/2 ,/1 .../1 soooo/2 much/3 fooood/4 ,/5 and/6 all/7 of/8 it/9 delicious/10 ./11
+fooood||positive||Fresh/39 veggies/38 ,/37 all/36 sorts/35 of/34 middle/33 eastern/32 spreads/31 ,/30 cheese/29 and/28 falafel/27 ,/26 soup/25 ,/24 fish/23 ,/22 rice/21 ,/20 root/19 vegetables/18 ,/17 a/16 rice/15 medley/14 ,/13 some/12 spinach/11 thing/10 ,/9 lamb/8 kebabs/7 ,/6 cheese/5 baclava/4 .../3 soooo/2 much/1 ,/1 and/2 all/3 of/4 it/5 delicious/6 ./7
+Saketini||positive||Disappointingly/4 ,/3 their/2 wonderful/1 has/1 been/2 taken/3 off/4 the/5 bar/6 menu/7 ./8
+bar menu||negative||Disappointingly/10 ,/9 their/8 wonderful/7 Saketini/6 has/5 been/4 taken/3 off/2 the/1 ./1
+look||negative||In/14 Short/13 The/12 Black/11 Sheep/10 distinguishes/9 itself/8 from/7 the/6 Midtown/5 pub/4 herd/3 with/2 a/1 that/1 's/2 a/3 mix/4 of/5 sports-bar/6 butch/7 and/8 ornate/9 kitsch/10 ./11
+martinis||positive||I/13 would/12 definitely/11 go/10 back/9 --/8 if/7 only/6 for/5 some/4 of/3 those/2 exotic/1 on/1 the/2 blackboard/3 ./4
+chairs||neutral||then/14 she/13 made/12 a/11 fuss/10 about/9 not/8 being/7 able/6 to/5 add/4 1/3 or/2 2/1 on/1 either/2 end/3 of/4 the/5 table/6 for/7 additional/8 people/9 ./10
+table||neutral||then/20 she/19 made/18 a/17 fuss/16 about/15 not/14 being/13 able/12 to/11 add/10 1/9 or/8 2/7 chairs/6 on/5 either/4 end/3 of/2 the/1 for/1 additional/2 people/3 ./4
+happy hour||positive||The/1 is/1 so/2 cheap/3 ,/4 but/5 that/6 does/7 not/8 reflect/9 the/10 service/11 or/12 the/13 atmosphere/14 ./15
+service||positive||The/13 happy/12 hour/11 is/10 so/9 cheap/8 ,/7 but/6 that/5 does/4 not/3 reflect/2 the/1 or/1 the/2 atmosphere/3 ./4
+atmosphere||positive||The/16 happy/15 hour/14 is/13 so/12 cheap/11 ,/10 but/9 that/8 does/7 not/6 reflect/5 the/4 service/3 or/2 the/1 ./1
+waiter||negative||After/8 waiting/7 for/6 almost/5 an/4 hour/3 ,/2 the/1 brusquely/1 told/2 us/3 he/4 'd/5 forgotten/6 to/7 give/8 the/9 kitchen/10 our/11 order/12 ./13
+kitchen||neutral||After/18 waiting/17 for/16 almost/15 an/14 hour/13 ,/12 the/11 waiter/10 brusquely/9 told/8 us/7 he/6 'd/5 forgotten/4 to/3 give/2 the/1 our/1 order/2 ./3
+waiting||negative||After/1 for/1 almost/2 an/3 hour/4 ,/5 the/6 waiter/7 brusquely/8 told/9 us/10 he/11 'd/12 forgotten/13 to/14 give/15 the/16 kitchen/17 our/18 order/19 ./20
+quaility||positive||With/22 all/21 the/20 mundane/19 or/18 mediocre/17 places/16 on/15 8th/14 avenue/13 it/12 is/11 nice/10 to/9 have/8 one/7 that/6 is/5 a/4 step/3 above/2 in/1 and/1 atmosphere/2 ./3
+atmosphere||positive||With/24 all/23 the/22 mundane/21 or/20 mediocre/19 places/18 on/17 8th/16 avenue/15 it/14 is/13 nice/12 to/11 have/10 one/9 that/8 is/7 a/6 step/5 above/4 in/3 quaility/2 and/1 ./1
+space||negative||A/14 mix/13 of/12 students/11 and/10 area/9 residents/8 crowd/7 into/6 this/5 narrow/4 ,/3 barely/2 there/1 for/1 its/2 quick/3 ,/4 tasty/5 treats/6 at/7 dirt-cheap/8 prices/9 ./10
+prices||positive||A/23 mix/22 of/21 students/20 and/19 area/18 residents/17 crowd/16 into/15 this/14 narrow/13 ,/12 barely/11 there/10 space/9 for/8 its/7 quick/6 ,/5 tasty/4 treats/3 at/2 dirt-cheap/1 ./1
+treats||positive||A/20 mix/19 of/18 students/17 and/16 area/15 residents/14 crowd/13 into/12 this/11 narrow/10 ,/9 barely/8 there/7 space/6 for/5 its/4 quick/3 ,/2 tasty/1 at/1 dirt-cheap/2 prices/3 ./4
+menu||neutral||Give/5 it/4 a/3 try/2 ,/1 is/1 typical/2 French/3 but/4 varied/5 ./6
+seats||positive||It/10 gets/9 crowded/8 at/7 lunchtime/6 but/5 there/4 are/3 lots/2 of/1 in/1 back/2 and/3 everyone/4 who/5 works/6 there/7 is/8 so/9 nice/10 ./11
+value||positive||but/3 for/2 the/1 ,/1 it/2 was/3 a/4 great/5 affordable/6 spot/7 to/8 enjoy/9 a/10 fun/11 night/12 out/13 with/14 small/15 group/16 ./17
+food||positive||the/36 negative/35 reviews/34 on/33 city/32 search/31 are/30 probably/29 from/28 jealous/27 competing/26 restaurants/25 who/24 realize/23 they/22 ca/21 n't/20 compete/19 with/18 Temple/17 's/16 entire/15 positive/14 attitude/13 about/12 the/11 proper/10 way/9 to/8 treat/7 their/6 customers/5 and/4 deliver/3 top/2 quality/1 ./1
+attitude||positive||the/23 negative/22 reviews/21 on/20 city/19 search/18 are/17 probably/16 from/15 jealous/14 competing/13 restaurants/12 who/11 realize/10 they/9 ca/8 n't/7 compete/6 with/5 Temple/4 's/3 entire/2 positive/1 about/1 the/2 proper/3 way/4 to/5 treat/6 their/7 customers/8 and/9 deliver/10 top/11 quality/12 food/13 ./14
+glass of wine||neutral||We/3 ordered/2 a/1 and/1 were/2 finished/3 eating/4 and/5 paying/6 before/7 the/8 wine/9 came/10 ./11
+flavors||neutral||It/8 was/7 good/6 ,/5 but/4 none/3 of/2 the/1 WOW/1 ./2
+place||positive||Overall/6 ,/5 this/4 is/3 a/2 nice/1 to/1 take/2 a/3 few/4 friends/5 to/6 hang/7 out/8 at/9 and/10 the/11 service/12 is/13 excellent/14 ./15
+service||positive||Overall/18 ,/17 this/16 is/15 a/14 nice/13 place/12 to/11 take/10 a/9 few/8 friends/7 to/6 hang/5 out/4 at/3 and/2 the/1 is/1 excellent/2 ./3
+Food||positive||is/1 excellent/2 quality/3 for/4 a/5 good/6 restaurant/7 price/8 ./9
+price||positive||Food/8 is/7 excellent/6 quality/5 for/4 a/3 good/2 restaurant/1 ./1
+burrito||positive||for/8 about/7 eleven/6 bucks/5 you/4 get/3 a/2 gigantic/1 (/1 or/2 tacos/3 )/4 ,/5 margarita/6 ,/7 and/8 dessert/9 ./10
+tacos||positive||for/11 about/10 eleven/9 bucks/8 you/7 get/6 a/5 gigantic/4 burrito/3 (/2 or/1 )/1 ,/2 margarita/3 ,/4 and/5 dessert/6 ./7
+margarita||neutral||for/14 about/13 eleven/12 bucks/11 you/10 get/9 a/8 gigantic/7 burrito/6 (/5 or/4 tacos/3 )/2 ,/1 ,/1 and/2 dessert/3 ./4
+dessert||neutral||for/17 about/16 eleven/15 bucks/14 you/13 get/12 a/11 gigantic/10 burrito/9 (/8 or/7 tacos/6 )/5 ,/4 margarita/3 ,/2 and/1 ./1
+space||neutral||The/1 is/1 traditional/2 in/3 feel/4 ./5
+reservations||neutral||the/17 restaurant/16 was/15 completely/14 empty/13 ,/12 but/11 she/10 gave/9 me/8 a/7 dirty/6 look/5 and/4 asked/3 ,/2 no/1 ?/1
+food||negative||the/1 was/1 mediocre/2 to/3 be/4 kind/5 -/6 the/7 interior/8 is/9 small/10 and/11 average/12 -/13 the/14 owners/15 are/16 a/17 tag-team/18 of/19 unpleasantries/20 -/21 so/22 rude/23 and/24 snotty/25 i/26 actually/27 let/28 out/29 a/30 hearty/31 guffaw/32 whilst/33 dining/34 ./35
+interior||negative||the/9 food/8 was/7 mediocre/6 to/5 be/4 kind/3 -/2 the/1 is/1 small/2 and/3 average/4 -/5 the/6 owners/7 are/8 a/9 tag-team/10 of/11 unpleasantries/12 -/13 so/14 rude/15 and/16 snotty/17 i/18 actually/19 let/20 out/21 a/22 hearty/23 guffaw/24 whilst/25 dining/26 ./27
+owners||negative||the/16 food/15 was/14 mediocre/13 to/12 be/11 kind/10 -/9 the/8 interior/7 is/6 small/5 and/4 average/3 -/2 the/1 are/1 a/2 tag-team/3 of/4 unpleasantries/5 -/6 so/7 rude/8 and/9 snotty/10 i/11 actually/12 let/13 out/14 a/15 hearty/16 guffaw/17 whilst/18 dining/19 ./20
+dining||neutral||the/35 food/34 was/33 mediocre/32 to/31 be/30 kind/29 -/28 the/27 interior/26 is/25 small/24 and/23 average/22 -/21 the/20 owners/19 are/18 a/17 tag-team/16 of/15 unpleasantries/14 -/13 so/12 rude/11 and/10 snotty/9 i/8 actually/7 let/6 out/5 a/4 hearty/3 guffaw/2 whilst/1 ./1
+service||positive||Good/1 ,/1 great/2 food/3 ,/4 good/5 value/6 ,/7 and/8 never/9 have/10 to/11 wait/12 in/13 line/14 !/15
+food||positive||Good/4 service/3 ,/2 great/1 ,/1 good/2 value/3 ,/4 and/5 never/6 have/7 to/8 wait/9 in/10 line/11 !/12
+value||positive||Good/7 service/6 ,/5 great/4 food/3 ,/2 good/1 ,/1 and/2 never/3 have/4 to/5 wait/6 in/7 line/8 !/9
+wait||positive||Good/13 service/12 ,/11 great/10 food/9 ,/8 good/7 value/6 ,/5 and/4 never/3 have/2 to/1 in/1 line/2 !/3
+Egg McMuffin sandwich||neutral||Offerings/6 like/5 hot/4 cakes/3 and/2 the/1 are/1 available/2 for/3 breakfast/4 ./5
+hot cakes||neutral||Offerings/2 like/1 and/1 the/2 Egg/3 McMuffin/4 sandwich/5 are/6 available/7 for/8 breakfast/9 ./10
+breakfast||neutral||Offerings/12 like/11 hot/10 cakes/9 and/8 the/7 Egg/6 McMuffin/5 sandwich/4 are/3 available/2 for/1 ./1
+service||neutral||I/14 have/13 been/12 going/11 to/10 this/9 restaurant/8 for/7 years/6 ,/5 in/4 the/3 past/2 the/1 was/1 average/2 and/3 the/4 food/5 inconsistant/6 ./7
+food||negative||I/19 have/18 been/17 going/16 to/15 this/14 restaurant/13 for/12 years/11 ,/10 in/9 the/8 past/7 the/6 service/5 was/4 average/3 and/2 the/1 inconsistant/1 ./2
+music||positive||The/1 was/1 fascinating/2 ,/3 but/4 left/5 room/6 for/7 conversation/8 ,/9 and/10 the/11 bartender/12 made/13 superb/14 drinks/15 ./16
+bartender||positive||The/13 music/12 was/11 fascinating/10 ,/9 but/8 left/7 room/6 for/5 conversation/4 ,/3 and/2 the/1 made/1 superb/2 drinks/3 ./4
+drinks||positive||The/16 music/15 was/14 fascinating/13 ,/12 but/11 left/10 room/9 for/8 conversation/7 ,/6 and/5 the/4 bartender/3 made/2 superb/1 ./1
+rice dishes||positive||and/1 noodle/2 dishes/3 rarely/4 exceed/5 $/6 5/7 and/8 add/9 on/10 a/11 refreshing/12 ice/13 drink/14 for/15 $/16 2/17 and/18 you/19 're/20 set/21 for/22 the/23 night/24 !/25
+noodle dishes||positive||rice/3 dishes/2 and/1 rarely/1 exceed/2 $/3 5/4 and/5 add/6 on/7 a/8 refreshing/9 ice/10 drink/11 for/12 $/13 2/14 and/15 you/16 're/17 set/18 for/19 the/20 night/21 !/22
+ice drink||positive||rice/14 dishes/13 and/12 noodle/11 dishes/10 rarely/9 exceed/8 $/7 5/6 and/5 add/4 on/3 a/2 refreshing/1 for/1 $/2 2/3 and/4 you/5 're/6 set/7 for/8 the/9 night/10 !/11
+Cuisine||negative||is/1 billed/2 as/3 asian/4 fusion/5 -/6 does/7 n't/8 meet/9 the/10 bill/11 ./12
+bill||negative||Cuisine/11 is/10 billed/9 as/8 asian/7 fusion/6 -/5 does/4 n't/3 meet/2 the/1 ./1
+asian fusion||neutral||Cuisine/4 is/3 billed/2 as/1 -/1 does/2 n't/3 meet/4 the/5 bill/6 ./7
+billed||negative||Cuisine/2 is/1 as/1 asian/2 fusion/3 -/4 does/5 n't/6 meet/7 the/8 bill/9 ./10
+dishes||positive||Creative/1 like/1 king/2 crab/3 salad/4 with/5 passion/6 fruit/7 vinaigrette/8 and/9 fettuccine/10 with/11 grilled/12 seafood/13 in/14 a/15 rosemary-orange/16 sauce/17 are/18 unexpected/19 elements/20 on/21 an/22 otherwise/23 predictable/24 bistro/25 menu/26 ./27
+king crab salad with passion fruit vinaigrette||positive||Creative/3 dishes/2 like/1 and/1 fettuccine/2 with/3 grilled/4 seafood/5 in/6 a/7 rosemary-orange/8 sauce/9 are/10 unexpected/11 elements/12 on/13 an/14 otherwise/15 predictable/16 bistro/17 menu/18 ./19
+fettuccine with grilled seafood in a rosemary-orange sauce||positive||Creative/11 dishes/10 like/9 king/8 crab/7 salad/6 with/5 passion/4 fruit/3 vinaigrette/2 and/1 are/1 unexpected/2 elements/3 on/4 an/5 otherwise/6 predictable/7 bistro/8 menu/9 ./10
+bistro menu||neutral||Creative/26 dishes/25 like/24 king/23 crab/22 salad/21 with/20 passion/19 fruit/18 vinaigrette/17 and/16 fettuccine/15 with/14 grilled/13 seafood/12 in/11 a/10 rosemary-orange/9 sauce/8 are/7 unexpected/6 elements/5 on/4 an/3 otherwise/2 predictable/1 ./1
+Dishes||positive||denoted/1 as/2 ``/3 Roy/4 's/5 Classics/6 ''/7 (/8 marked/9 on/10 the/11 menu/12 with/13 asterisks/14 )/15 are/16 tried-and-true/17 recipes/18 ,/19 such/20 as/21 macadamia-crusted/22 mahi/23 mahi/24 ,/25 or/26 subtly/27 sweet/28 honey-mustard/29 beef/30 short/31 ribs/32 ./33
+`` Roy 's Classics ''||positive||Dishes/3 denoted/2 as/1 (/1 marked/2 on/3 the/4 menu/5 with/6 asterisks/7 )/8 are/9 tried-and-true/10 recipes/11 ,/12 such/13 as/14 macadamia-crusted/15 mahi/16 mahi/17 ,/18 or/19 subtly/20 sweet/21 honey-mustard/22 beef/23 short/24 ribs/25 ./26
+menu||neutral||Dishes/12 denoted/11 as/10 ``/9 Roy/8 's/7 Classics/6 ''/5 (/4 marked/3 on/2 the/1 with/1 asterisks/2 )/3 are/4 tried-and-true/5 recipes/6 ,/7 such/8 as/9 macadamia-crusted/10 mahi/11 mahi/12 ,/13 or/14 subtly/15 sweet/16 honey-mustard/17 beef/18 short/19 ribs/20 ./21
+recipes||positive||Dishes/18 denoted/17 as/16 ``/15 Roy/14 's/13 Classics/12 ''/11 (/10 marked/9 on/8 the/7 menu/6 with/5 asterisks/4 )/3 are/2 tried-and-true/1 ,/1 such/2 as/3 macadamia-crusted/4 mahi/5 mahi/6 ,/7 or/8 subtly/9 sweet/10 honey-mustard/11 beef/12 short/13 ribs/14 ./15
+macadamia-crusted mahi mahi||positive||Dishes/22 denoted/21 as/20 ``/19 Roy/18 's/17 Classics/16 ''/15 (/14 marked/13 on/12 the/11 menu/10 with/9 asterisks/8 )/7 are/6 tried-and-true/5 recipes/4 ,/3 such/2 as/1 ,/1 or/2 subtly/3 sweet/4 honey-mustard/5 beef/6 short/7 ribs/8 ./9
+sweet honey-mustard beef short ribs||positive||Dishes/28 denoted/27 as/26 ``/25 Roy/24 's/23 Classics/22 ''/21 (/20 marked/19 on/18 the/17 menu/16 with/15 asterisks/14 )/13 are/12 tried-and-true/11 recipes/10 ,/9 such/8 as/7 macadamia-crusted/6 mahi/5 mahi/4 ,/3 or/2 subtly/1 ./1
+cold sesame noodles||positive||The/1 ,/1 which/2 are/3 a/4 freebie/5 when/6 you/7 order/8 $/9 10/10 +/11 ,/12 are/13 delectable/14 ./15
+food||negative||I/16 came/15 to/14 fresh/13 expecting/12 a/11 great/10 meal/9 ,/8 and/7 all/6 I/5 got/4 was/3 marginally/2 so-so/1 served/1 in/2 a/3 restaurant/4 that/5 was/6 just/7 so/8 freezing/9 we/10 could/11 n't/12 enjoy/13 eating/14 ./15
+meal||negative||I/7 came/6 to/5 fresh/4 expecting/3 a/2 great/1 ,/1 and/2 all/3 I/4 got/5 was/6 marginally/7 so-so/8 food/9 served/10 in/11 a/12 restaurant/13 that/14 was/15 just/16 so/17 freezing/18 we/19 could/20 n't/21 enjoy/22 eating/23 ./24
+served||neutral||I/17 came/16 to/15 fresh/14 expecting/13 a/12 great/11 meal/10 ,/9 and/8 all/7 I/6 got/5 was/4 marginally/3 so-so/2 food/1 in/1 a/2 restaurant/3 that/4 was/5 just/6 so/7 freezing/8 we/9 could/10 n't/11 enjoy/12 eating/13 ./14
+argentine chorizo appetizer||negative||The/2 lone/1 at/1 $/2 8.95/3 was/4 a/5 heavy/6 fennel/7 flavored/8 Italian/9 sausage/10 like/11 the/12 ones/13 that/14 sell/15 for/16 $/17 2.99/18 //19 lb/20 at/21 the/22 store/23 ./24
+fennel flavored Italian sausage||negative||The/11 lone/10 argentine/9 chorizo/8 appetizer/7 at/6 $/5 8.95/4 was/3 a/2 heavy/1 like/1 the/2 ones/3 that/4 sell/5 for/6 $/7 2.99/8 //9 lb/10 at/11 the/12 store/13 ./14
+dinner||positive||I/16 went/15 to/14 Swiftys/13 with/12 some/11 friends/10 of/9 the/8 family/7 and/6 we/5 had/4 a/3 very/2 nice/1 ,/1 but/2 nothing/3 amazing/4 ./5
+delivery||positive||Best/8 Chinese/7 on/6 the/5 Upper/4 East/3 ,/2 prompt/1 ,/1 good/2 value/3 ./4
+value||positive||Best/11 Chinese/10 on/9 the/8 Upper/7 East/6 ,/5 prompt/4 delivery/3 ,/2 good/1 ./1
+sandwiches||positive||Most/3 of/2 the/1 are/1 made/2 with/3 soy/4 mayonaise/5 which/6 is/7 actually/8 pretty/9 good/10 ./11
+soy mayonaise||positive||Most/7 of/6 the/5 sandwiches/4 are/3 made/2 with/1 which/1 is/2 actually/3 pretty/4 good/5 ./6
+hostess||negative||i/19 went/18 in/17 one/16 day/15 asking/14 for/13 a/12 table/11 for/10 a/9 group/8 and/7 was/6 greeted/5 by/4 a/3 very/2 rude/1 ./1
+table||neutral||i/8 went/7 in/6 one/5 day/4 asking/3 for/2 a/1 for/1 a/2 group/3 and/4 was/5 greeted/6 by/7 a/8 very/9 rude/10 hostess/11 ./12
+dinner||positive||It/13 's/12 worthwhile/11 to/10 take/9 a/8 cab/7 to/6 Chelsea/5 just/4 for/3 an/2 awesome/1 at/1 My/2 Chelsea/3 ./4
+food||positive||Not/4 only/3 is/2 the/1 authentic/1 ,/2 but/3 the/4 staff/5 here/6 are/7 practically/8 off-the-boat/9 ,/10 they/11 are/12 young/13 and/14 hip/15 and/16 know/17 what/18 they/19 are/20 doing/21 when/22 it/23 comes/24 to/25 food/26 and/27 wine/28 ./29
+staff||positive||Not/9 only/8 is/7 the/6 food/5 authentic/4 ,/3 but/2 the/1 here/1 are/2 practically/3 off-the-boat/4 ,/5 they/6 are/7 young/8 and/9 hip/10 and/11 know/12 what/13 they/14 are/15 doing/16 when/17 it/18 comes/19 to/20 food/21 and/22 wine/23 ./24
+food||positive||Not/30 only/29 is/28 the/27 food/26 authentic/25 ,/24 but/23 the/22 staff/21 here/20 are/19 practically/18 off-the-boat/17 ,/16 they/15 are/14 young/13 and/12 hip/11 and/10 know/9 what/8 they/7 are/6 doing/5 when/4 it/3 comes/2 to/1 and/1 wine/2 ./3
+wine||positive||Not/32 only/31 is/30 the/29 food/28 authentic/27 ,/26 but/25 the/24 staff/23 here/22 are/21 practically/20 off-the-boat/19 ,/18 they/17 are/16 young/15 and/14 hip/13 and/12 know/11 what/10 they/9 are/8 doing/7 when/6 it/5 comes/4 to/3 food/2 and/1 ./1
+music||positive||It/3 has/2 good/1 ,/1 nice/2 tapas/3 ,/4 an/5 interesting/6 selection/7 of/8 wines/9 (/10 primarily/11 Spanish/12 )/13 and/14 a/15 lowkey/16 hip/17 neighborhood/18 clientele/19 ./20
+tapas||positive||It/6 has/5 good/4 music/3 ,/2 nice/1 ,/1 an/2 interesting/3 selection/4 of/5 wines/6 (/7 primarily/8 Spanish/9 )/10 and/11 a/12 lowkey/13 hip/14 neighborhood/15 clientele/16 ./17
+selection of wines ( primarily Spanish )||positive||It/10 has/9 good/8 music/7 ,/6 nice/5 tapas/4 ,/3 an/2 interesting/1 and/1 a/2 lowkey/3 hip/4 neighborhood/5 clientele/6 ./7
+clientele||positive||It/22 has/21 good/20 music/19 ,/18 nice/17 tapas/16 ,/15 an/14 interesting/13 selection/12 of/11 wines/10 (/9 primarily/8 Spanish/7 )/6 and/5 a/4 lowkey/3 hip/2 neighborhood/1 ./1
+food||positive||The/1 is/1 great/2 ,/3 I/4 love/5 their/6 dumplings/7 ,/8 cold/9 sesame/10 noodles/11 ,/12 chicken/13 and/14 shrimp/15 dishs/16 ./17
+dumplings||positive||The/8 food/7 is/6 great/5 ,/4 I/3 love/2 their/1 ,/1 cold/2 sesame/3 noodles/4 ,/5 chicken/6 and/7 shrimp/8 dishs/9 ./10
+cold sesame noodles||positive||The/10 food/9 is/8 great/7 ,/6 I/5 love/4 their/3 dumplings/2 ,/1 ,/1 chicken/2 and/3 shrimp/4 dishs/5 ./6
+chicken||positive||The/14 food/13 is/12 great/11 ,/10 I/9 love/8 their/7 dumplings/6 ,/5 cold/4 sesame/3 noodles/2 ,/1 and/1 shrimp/2 dishs/3 ./4
+shrimp dishs||positive||The/16 food/15 is/14 great/13 ,/12 I/11 love/10 their/9 dumplings/8 ,/7 cold/6 sesame/5 noodles/4 ,/3 chicken/2 and/1 ./1
+food||positive||And/2 the/1 ,/1 well/2 the/3 food/4 will/5 keep/6 you/7 coming/8 back/9 ./10
+food||positive||And/6 the/5 food/4 ,/3 well/2 the/1 will/1 keep/2 you/3 coming/4 back/5 ./6
+entrees||neutral||Waiting/6 three/5 hours/4 before/3 getting/2 our/1 was/1 a/2 treat/3 as/4 well/5 ./6
+Waiting||negative||three/1 hours/2 before/3 getting/4 our/5 entrees/6 was/7 a/8 treat/9 as/10 well/11 ./12
+place||positive||It/9 's/8 the/7 conversations/6 that/5 make/4 this/3 a/2 fun/1 to/1 be/2 ./3
+duck confitte||positive||My/3 gf/2 's/1 was/1 very/2 solid/3 as/4 well/5 ,/6 although/7 i/8 have/9 little/10 base/11 of/12 reference/13 ./14
+wine list||positive||The/1 was/1 superb/2 ,/3 our/4 tapas/5 delightful/6 ,/7 and/8 the/9 quiet/10 atmosphere/11 perfect/12 for/13 good/14 conversation/15 ./16
+tapas||positive||The/7 wine/6 list/5 was/4 superb/3 ,/2 our/1 delightful/1 ,/2 and/3 the/4 quiet/5 atmosphere/6 perfect/7 for/8 good/9 conversation/10 ./11
+atmosphere||positive||The/13 wine/12 list/11 was/10 superb/9 ,/8 our/7 tapas/6 delightful/5 ,/4 and/3 the/2 quiet/1 perfect/1 for/2 good/3 conversation/4 ./5
+price||positive||You/9 can/8 eat/7 gourmet/6 food/5 at/4 a/3 fast/2 food/1 ./1
+food||positive||You/4 can/3 eat/2 gourmet/1 at/1 a/2 fast/3 food/4 price/5 ./6
+food||positive||I/14 've/13 eaten/12 at/11 all/10 three/9 locations/8 and/7 I/6 always/5 love/4 ,/3 love/2 the/1 ,/1 the/2 service/3 is/4 always/5 wonderful/6 and/7 the/8 prices/9 are/10 really/11 reasonable/12 ./13
+service||positive||I/17 've/16 eaten/15 at/14 all/13 three/12 locations/11 and/10 I/9 always/8 love/7 ,/6 love/5 the/4 food/3 ,/2 the/1 is/1 always/2 wonderful/3 and/4 the/5 prices/6 are/7 really/8 reasonable/9 ./10
+prices||positive||I/23 've/22 eaten/21 at/20 all/19 three/18 locations/17 and/16 I/15 always/14 love/13 ,/12 love/11 the/10 food/9 ,/8 the/7 service/6 is/5 always/4 wonderful/3 and/2 the/1 are/1 really/2 reasonable/3 ./4
+food||positive||Not/8 because/7 I/6 was/5 pregnant/4 ,/3 but/2 the/1 here/1 is/2 always/3 delicious/4 ./5
+meal||positive||Had/3 a/2 great/1 there/1 this/2 weekend/3 before/4 heading/5 to/6 the/7 movies/8 !/9
+food||positive||We/9 had/8 a/7 birthday/6 party/5 here/4 recently/3 and/2 the/1 and/1 service/2 was/3 amazing/4 ./5
+service||positive||We/11 had/10 a/9 birthday/8 party/7 here/6 recently/5 and/4 the/3 food/2 and/1 was/1 amazing/2 ./3
+dinner menu||positive||the/1 offers/1 a/2 variety/3 of/4 great/5 entrees/6 ,/7 including/8 fresh/9 seafood/10 and/11 huge/12 steaks/13 ,/14 there/15 's/16 also/17 a/18 couple/19 of/20 non-meat/21 alternatives/22 ./23
+entrees||positive||the/8 dinner/7 menu/6 offers/5 a/4 variety/3 of/2 great/1 ,/1 including/2 fresh/3 seafood/4 and/5 huge/6 steaks/7 ,/8 there/9 's/10 also/11 a/12 couple/13 of/14 non-meat/15 alternatives/16 ./17
+seafood||positive||the/12 dinner/11 menu/10 offers/9 a/8 variety/7 of/6 great/5 entrees/4 ,/3 including/2 fresh/1 and/1 huge/2 steaks/3 ,/4 there/5 's/6 also/7 a/8 couple/9 of/10 non-meat/11 alternatives/12 ./13
+steaks||positive||the/15 dinner/14 menu/13 offers/12 a/11 variety/10 of/9 great/8 entrees/7 ,/6 including/5 fresh/4 seafood/3 and/2 huge/1 ,/1 there/2 's/3 also/4 a/5 couple/6 of/7 non-meat/8 alternatives/9 ./10
+non-meat alternatives||neutral||the/23 dinner/22 menu/21 offers/20 a/19 variety/18 of/17 great/16 entrees/15 ,/14 including/13 fresh/12 seafood/11 and/10 huge/9 steaks/8 ,/7 there/6 's/5 also/4 a/3 couple/2 of/1 ./1
+menu||negative||This/5 place/4 has/3 the/2 strangest/1 and/1 the/2 restaurants/3 tries/4 too/5 hard/6 to/7 make/8 fancy/9 food/10 ./11
+food||negative||This/15 place/14 has/13 the/12 strangest/11 menu/10 and/9 the/8 restaurants/7 tries/6 too/5 hard/4 to/3 make/2 fancy/1 ./1
+appetizers||neutral||The/1 are/1 ok/2 ,/3 but/4 the/5 service/6 is/7 slow/8 ./9
+service||negative||The/7 appetizers/6 are/5 ok/4 ,/3 but/2 the/1 is/1 slow/2 ./3
+food||negative||the/1 -/1 not/2 worth/3 the/4 price/5 ./6
+price||negative||the/6 food/5 -/4 not/3 worth/2 the/1 ./1
+waitress||negative||What/9 can/8 you/7 say/6 about/5 a/4 place/3 where/2 the/1 brings/1 out/2 the/3 wrong/4 entree/5 ,/6 then/7 verbally/8 assaults/9 your/10 80/11 year/12 old/13 grandmother/14 and/15 gives/16 her/17 lip/18 about/19 sending/20 it/21 back/22 (/23 which/24 she/25 did/26 politely/27 ,/28 by/29 the/30 way/31 )/32 ./33
+entree||neutral||What/14 can/13 you/12 say/11 about/10 a/9 place/8 where/7 the/6 waitress/5 brings/4 out/3 the/2 wrong/1 ,/1 then/2 verbally/3 assaults/4 your/5 80/6 year/7 old/8 grandmother/9 and/10 gives/11 her/12 lip/13 about/14 sending/15 it/16 back/17 (/18 which/19 she/20 did/21 politely/22 ,/23 by/24 the/25 way/26 )/27 ./28
+prices||positive||The/1 are/1 not/2 terrible/3 ./4
+bill||negative||15/7 %/6 gratuity/5 automatically/4 added/3 to/2 the/1 ./1
+gratuity||negative||15/2 %/1 automatically/1 added/2 to/3 the/4 bill/5 ./6
+halibut cheek appetizer||neutral||The/1 came/1 with/2 a/3 generous/4 portion/5 of/6 foie/7 gras/8 ,/9 but/10 that/11 's/12 about/13 the/14 only/15 positive/16 thing/17 I/18 can/19 say/20 about/21 the/22 meal/23 ./24
+portion of foie gras||positive||The/8 halibut/7 cheek/6 appetizer/5 came/4 with/3 a/2 generous/1 ,/1 but/2 that/3 's/4 about/5 the/6 only/7 positive/8 thing/9 I/10 can/11 say/12 about/13 the/14 meal/15 ./16
+meal||negative||The/26 halibut/25 cheek/24 appetizer/23 came/22 with/21 a/20 generous/19 portion/18 of/17 foie/16 gras/15 ,/14 but/13 that/12 's/11 about/10 the/9 only/8 positive/7 thing/6 I/5 can/4 say/3 about/2 the/1 ./1
+Food||positive||is/1 excellent/2 and/3 they/4 also/5 have/6 empenadas/7 and/8 plaintains/9 which/10 are/11 good/12 for/13 an/14 afternoon/15 snack/16 ./17
+empenadas||positive||Food/7 is/6 excellent/5 and/4 they/3 also/2 have/1 and/1 plaintains/2 which/3 are/4 good/5 for/6 an/7 afternoon/8 snack/9 ./10
+plaintains||positive||Food/9 is/8 excellent/7 and/6 they/5 also/4 have/3 empenadas/2 and/1 which/1 are/2 good/3 for/4 an/5 afternoon/6 snack/7 ./8
+afternoon snack||positive||Food/15 is/14 excellent/13 and/12 they/11 also/10 have/9 empenadas/8 and/7 plaintains/6 which/5 are/4 good/3 for/2 an/1 ./1
+pasta specials||positive||Both/7 a/6 number/5 of/4 the/3 appetizer/2 and/1 were/1 amazing/2 ./3
+appetizer||positive||Both/5 a/4 number/3 of/2 the/1 and/1 pasta/2 specials/3 were/4 amazing/5 ./6
+Big Mac||positive||All-time/4 favorites/3 include/2 the/1 ,/1 Chicken/2 McNuggets/3 ,/4 Filet-O-Fish/5 sandwich/6 and/7 McDonald/8 's/9 famous/10 french/11 fries/12 ;/13 lighter/14 options/15 like/16 entree-sized/17 salads/18 are/19 also/20 available/21 ./22
+Chicken McNuggets||positive||All-time/7 favorites/6 include/5 the/4 Big/3 Mac/2 ,/1 ,/1 Filet-O-Fish/2 sandwich/3 and/4 McDonald/5 's/6 famous/7 french/8 fries/9 ;/10 lighter/11 options/12 like/13 entree-sized/14 salads/15 are/16 also/17 available/18 ./19
+Filet-O-Fish sandwich||positive||All-time/10 favorites/9 include/8 the/7 Big/6 Mac/5 ,/4 Chicken/3 McNuggets/2 ,/1 and/1 McDonald/2 's/3 famous/4 french/5 fries/6 ;/7 lighter/8 options/9 like/10 entree-sized/11 salads/12 are/13 also/14 available/15 ./16
+McDonald 's famous french fries||positive||All-time/13 favorites/12 include/11 the/10 Big/9 Mac/8 ,/7 Chicken/6 McNuggets/5 ,/4 Filet-O-Fish/3 sandwich/2 and/1 ;/1 lighter/2 options/3 like/4 entree-sized/5 salads/6 are/7 also/8 available/9 ./10
+entree-sized salads||neutral||All-time/22 favorites/21 include/20 the/19 Big/18 Mac/17 ,/16 Chicken/15 McNuggets/14 ,/13 Filet-O-Fish/12 sandwich/11 and/10 McDonald/9 's/8 famous/7 french/6 fries/5 ;/4 lighter/3 options/2 like/1 are/1 also/2 available/3 ./4
+noise||negative||Although/5 somewhat/4 loud/3 ,/2 the/1 was/1 minimally/2 intrusive/3 ./4
+pizza||positive||It/15 's/14 a/13 basic/12 pizza/11 joint/10 ,/9 not/8 much/7 to/6 look/5 at/4 ,/3 but/2 the/1 is/1 what/2 I/3 go/4 for/5 ./6
+Tables||negative||are/1 close/2 ,/3 so/4 you/5 better/6 be/7 comfortable/8 bumping/9 elbows/10 with/11 other/12 patrons/13 ./14
+lunch||neutral||Was/4 her/3 Monday/2 for/1 -/1 was/2 working/3 on/4 a/5 film/6 in/7 the/8 area/9 -/10 and/11 found/12 this/13 rare/14 jewel/15 ./16
+scene||positive||Not/12 too/11 much/10 so/9 ,/8 but/7 enough/6 that/5 there/4 's/3 a/2 great/1 ./1
+blue bar area||positive||Dug/2 the/1 too/1 ./2
+upstrairs dining area||neutral||I/19 got/18 the/17 opportunity/16 to/15 dine/14 at/13 your/12 establishment/11 again/10 a/9 few/8 weeks/7 ago/6 ,/5 I/4 was/3 in/2 your/1 ./1
+veggie burger||positive||Meat-phobes/7 are/6 in/5 luck/4 with/3 the/2 extraordinary/1 ,/1 made/2 from/3 a/4 distinctive/5 blend/6 of/7 chickpeas/8 ,/9 carrots/10 and/11 other/12 vegetables/13 and/14 spices/15 ./16
+chickpeas||positive||Meat-phobes/16 are/15 in/14 luck/13 with/12 the/11 extraordinary/10 veggie/9 burger/8 ,/7 made/6 from/5 a/4 distinctive/3 blend/2 of/1 ,/1 carrots/2 and/3 other/4 vegetables/5 and/6 spices/7 ./8
+carrots||positive||Meat-phobes/18 are/17 in/16 luck/15 with/14 the/13 extraordinary/12 veggie/11 burger/10 ,/9 made/8 from/7 a/6 distinctive/5 blend/4 of/3 chickpeas/2 ,/1 and/1 other/2 vegetables/3 and/4 spices/5 ./6
+vegetables||positive||Meat-phobes/21 are/20 in/19 luck/18 with/17 the/16 extraordinary/15 veggie/14 burger/13 ,/12 made/11 from/10 a/9 distinctive/8 blend/7 of/6 chickpeas/5 ,/4 carrots/3 and/2 other/1 and/1 spices/2 ./3
+spices||positive||Meat-phobes/23 are/22 in/21 luck/20 with/19 the/18 extraordinary/17 veggie/16 burger/15 ,/14 made/13 from/12 a/11 distinctive/10 blend/9 of/8 chickpeas/7 ,/6 carrots/5 and/4 other/3 vegetables/2 and/1 ./1
+tables||negative||At/9 peak/8 times/7 ,/6 the/5 restaurant/4 is/3 overcrowded/2 and/1 are/1 uncomfortably/2 close/3 ./4
+service||positive||The/1 was/1 on/2 point/3 -/4 what/5 else/6 you/7 would/8 expect/9 from/10 a/11 Ritz/12 ?/13
+Menus||neutral||feature/1 seasonal/2 picks/3 ,/4 like/5 sweet/6 corn-foie/7 gras/8 brulee/9 ./10
+sweet corn-foie gras brulee||neutral||Menus/6 feature/5 seasonal/4 picks/3 ,/2 like/1 ./1
+Carinthia cheese ravioli with wild mushrooms||positive||Innovations/9 are/8 just/7 as/6 assured/5 ,/4 from/3 the/2 simple/1 to/1 the/2 caviar-topped/3 sturgeon/4 ,/5 beautifully/6 matched/7 with/8 a/9 bright/10 green/11 spinach-vodka/12 sauce/13 ./14
+caviar-topped sturgeon||positive||Innovations/17 are/16 just/15 as/14 assured/13 ,/12 from/11 the/10 simple/9 Carinthia/8 cheese/7 ravioli/6 with/5 wild/4 mushrooms/3 to/2 the/1 ,/1 beautifully/2 matched/3 with/4 a/5 bright/6 green/7 spinach-vodka/8 sauce/9 ./10
+green spinach-vodka sauce||positive||Innovations/25 are/24 just/23 as/22 assured/21 ,/20 from/19 the/18 simple/17 Carinthia/16 cheese/15 ravioli/14 with/13 wild/12 mushrooms/11 to/10 the/9 caviar-topped/8 sturgeon/7 ,/6 beautifully/5 matched/4 with/3 a/2 bright/1 ./1
+burgers||positive||And/10 these/9 are/8 not/7 small/6 ,/5 wimpy/4 fast/3 food/2 type/1 -/1 these/2 are/3 real/4 ,/5 full/6 sized/7 patties/8 ./9
+patties||positive||And/18 these/17 are/16 not/15 small/14 ,/13 wimpy/12 fast/11 food/10 type/9 burgers/8 -/7 these/6 are/5 real/4 ,/3 full/2 sized/1 ./1
+lunch||neutral||There/9 restaurant/8 is/7 very/6 casual/5 ,/4 but/3 perfect/2 for/1 ,/1 and/2 their/3 delivery/4 service/5 is/6 always/7 very/8 fast/9 ./10
+delivery service||positive||There/13 restaurant/12 is/11 very/10 casual/9 ,/8 but/7 perfect/6 for/5 lunch/4 ,/3 and/2 their/1 is/1 always/2 very/3 fast/4 ./5
+quality||positive||Chinatown/4 definitely/3 has/2 better/1 with/1 cheaper/2 prices/3 ./4
+prices||positive||Chinatown/7 definitely/6 has/5 better/4 quality/3 with/2 cheaper/1 ./1
+staff person||neutral||I/7 had/6 to/5 flag/4 down/3 a/2 third/1 for/1 a/2 fork/3 .../4 so/5 now/6 it/7 's/8 goodbye/9 Little/10 RUDE/11 Pie/12 Company/13 ./14
+fork||neutral||I/11 had/10 to/9 flag/8 down/7 a/6 third/5 staff/4 person/3 for/2 a/1 .../1 so/2 now/3 it/4 's/5 goodbye/6 Little/7 RUDE/8 Pie/9 Company/10 ./11
+specials||positive||Go/3 with/2 the/1 ,/1 and/2 stay/3 away/4 from/5 the/6 salmon/7 ./8
+salmon||negative||Go/10 with/9 the/8 specials/7 ,/6 and/5 stay/4 away/3 from/2 the/1 ./1
+pastas||positive||The/1 were/1 pretty/2 good/3 ./4
+Atmosphere||negative||is/1 a/2 bore/3 ./4
+decor||positive||The/1 is/1 what/2 initially/3 got/4 me/5 in/6 the/7 door/8 ./9
+wait staff||positive||The/1 was/1 very/2 attentive/3 and/4 polite/5 ./6
+food||positive||Great/6 restaurant/5 ,/4 and/3 even/2 greater/1 !/1
+dishes||positive||The/1 are/1 remarkably/2 tasty/3 and/4 such/5 a/6 cozy/7 and/8 intimate/9 place/10 !/11
+place||positive||The/11 dishes/10 are/9 remarkably/8 tasty/7 and/6 such/5 a/4 cozy/3 and/2 intimate/1 !/1
+desserts||positive||Save/4 room/3 for/2 the/1 !/1 ;-)/2
+food||positive||I/11 love/10 the/9 simplicity/8 and/7 respect/6 which/5 was/4 given/3 to/2 the/1 ,/1 as/2 well/3 the/4 staff/5 was/6 freindly/7 and/8 knowledgable/9 ./10
+staff||positive||I/16 love/15 the/14 simplicity/13 and/12 respect/11 which/10 was/9 given/8 to/7 the/6 food/5 ,/4 as/3 well/2 the/1 was/1 freindly/2 and/3 knowledgable/4 ./5
+Service||positive||was/1 good/2 and/3 so/4 was/5 the/6 atmosphere/7 ./8
+atmosphere||positive||Service/7 was/6 good/5 and/4 so/3 was/2 the/1 ./1
+Branzini||neutral||MY/7 date/6 and/5 I/4 both/3 ordered/2 the/1 and/1 both/2 felt/3 the/4 fish/5 was/6 very/7 average/8 ./9
+fish||negative||MY/12 date/11 and/10 I/9 both/8 ordered/7 the/6 Branzini/5 and/4 both/3 felt/2 the/1 was/1 very/2 average/3 ./4
+food||positive||The/1 was/1 good/2 ,/3 the/4 service/5 prompt/6 ,/7 and/8 the/9 price/10 very/11 reasonable/12 ./13
+service||positive||The/6 food/5 was/4 good/3 ,/2 the/1 prompt/1 ,/2 and/3 the/4 price/5 very/6 reasonable/7 ./8
+price||positive||The/11 food/10 was/9 good/8 ,/7 the/6 service/5 prompt/4 ,/3 and/2 the/1 very/1 reasonable/2 ./3
+menu||positive||Wonderful/1 ,/1 warm/2 inviting/3 ambiance/4 ,/5 great/6 service/7 the/8 FOOD/9 keeps/10 me/11 coming/12 back/13 !/14
+ambiance||positive||Wonderful/5 menu/4 ,/3 warm/2 inviting/1 ,/1 great/2 service/3 the/4 FOOD/5 keeps/6 me/7 coming/8 back/9 !/10
+service||positive||Wonderful/8 menu/7 ,/6 warm/5 inviting/4 ambiance/3 ,/2 great/1 the/1 FOOD/2 keeps/3 me/4 coming/5 back/6 !/7
+FOOD||positive||Wonderful/10 menu/9 ,/8 warm/7 inviting/6 ambiance/5 ,/4 great/3 service/2 the/1 keeps/1 me/2 coming/3 back/4 !/5
+food||positive||Great/1 ,/1 good/2 wine/3 and/4 an/5 excellent/6 host/7 ./8
+wine||positive||Great/4 food/3 ,/2 good/1 and/1 an/2 excellent/3 host/4 ./5
+host||positive||Great/8 food/7 ,/6 good/5 wine/4 and/3 an/2 excellent/1 ./1
+Pizzas||positive||were/1 excellent/2 in/3 addition/4 to/5 appetizers/6 and/7 main/8 courses/9 ./10
+appetizers||positive||Pizzas/6 were/5 excellent/4 in/3 addition/2 to/1 and/1 main/2 courses/3 ./4
+main courses||positive||Pizzas/8 were/7 excellent/6 in/5 addition/4 to/3 appetizers/2 and/1 ./1
+calamari||positive||Definitely/3 try/2 the/1 ,/1 any/2 pasta/3 ,/4 or/5 even/6 the/7 Sliced/8 steak/9 entree/10 ./11
+pasta||positive||Definitely/6 try/5 the/4 calamari/3 ,/2 any/1 ,/1 or/2 even/3 the/4 Sliced/5 steak/6 entree/7 ./8
+Sliced steak entree||positive||Definitely/11 try/10 the/9 calamari/8 ,/7 any/6 pasta/5 ,/4 or/3 even/2 the/1 ./1
+caeser salad||positive||The/1 was/1 great/2 ./3
+fried calamari||positive||The/1 was/1 even/2 better/3 !/4
+atmosphere||negative||The/1 was/1 nice/2 but/3 it/4 was/5 a/6 little/7 too/8 dark/9 ./10
+food||positive||The/1 was/1 good/2 overall/3 ./4
+food||positive||The/1 was/1 outstanding/2 and/3 the/4 service/5 was/6 tops/7 ./8
+service||positive||The/6 food/5 was/4 outstanding/3 and/2 the/1 was/1 tops/2 ./3
+portions||positive||The/1 are/1 very/2 large/3 and/4 the/5 service/6 is/7 fantastic/8 !!/9
+service||positive||The/7 portions/6 are/5 very/4 large/3 and/2 the/1 is/1 fantastic/2 !!/3
+chicken milanese||positive||I/3 recomend/2 the/1 ./1
+tapas||positive||excellent/1 at/1 great/2 prices/3 ,/4 romantic/5 ,/6 small/7 but/8 not/9 overly/10 crowed/11 ,/12 excellent/13
+prices||positive||excellent/4 tapas/3 at/2 great/1 ,/1 romantic/2 ,/3 small/4 but/5 not/6 overly/7 crowed/8 ,/9 excellent/10
+service||negative||The/1 is/1 a/2 quite/3 slow/4 ,/5 but/6 friendly/7 ./8
+chocolate raspberry cake||positive||The/1 is/1 heavenly/2 -/3 not/4 too/5 sweet/6 ,/7 but/8 full/9 of/10 flavor/11 ./12
+flavor||positive||The/14 chocolate/13 raspberry/12 cake/11 is/10 heavenly/9 -/8 not/7 too/6 sweet/5 ,/4 but/3 full/2 of/1 ./1
+waiter||positive||Our/1 was/1 helpful/2 and/3 charming/4 ,/5 the/6 food/7 was/8 perfect/9 ,/10 and/11 the/12 wine/13 was/14 good/15 ,/16 too/17 ./18
+food||positive||Our/8 waiter/7 was/6 helpful/5 and/4 charming/3 ,/2 the/1 was/1 perfect/2 ,/3 and/4 the/5 wine/6 was/7 good/8 ,/9 too/10 ./11
+wine||positive||Our/14 waiter/13 was/12 helpful/11 and/10 charming/9 ,/8 the/7 food/6 was/5 perfect/4 ,/3 and/2 the/1 was/1 good/2 ,/3 too/4 ./5
+MEAL||positive||I/6 HAVE/5 NEVER/4 HAD/3 A/2 BAD/1 (/1 OR/2 BAD/3 SERVICE/4 )/5 @/6 PIGALLE/7 ./8
+SERVICE||positive||I/10 HAVE/9 NEVER/8 HAD/7 A/6 BAD/5 MEAL/4 (/3 OR/2 BAD/1 )/1 @/2 PIGALLE/3 ./4
+hot dogs||positive||Best/1 in/1 the/2 tri-state/3 area/4 ./5
+service||positive||The/1 was/1 very/2 attentive/3 and/4 very/5 generous/6 ./7
+food||positive||We/5 had/4 tons/3 of/2 great/1 ,/1 wine/2 ,/3 and/4 desserts/5 ./6
+wine||positive||We/7 had/6 tons/5 of/4 great/3 food/2 ,/1 ,/1 and/2 desserts/3 ./4
+desserts||positive||We/10 had/9 tons/8 of/7 great/6 food/5 ,/4 wine/3 ,/2 and/1 ./1
+dining experience||positive||Really/2 Lovely/1 in/1 the/2 midst/3 of/4 buzzing/5 midtown/6 area/7 ./8
+food||negative||The/1 really/1 is/2 n't/3 very/4 good/5 and/6 the/7 service/8 is/9 terrible/10 ./11
+service||negative||The/9 food/8 really/7 is/6 n't/5 very/4 good/3 and/2 the/1 is/1 terrible/2 ./3
+escargot||positive||Not/7 only/6 do/5 they/4 have/3 the/2 best/1 in/1 town/2 ,/3 they/4 always/5 try/6 to/7 accomodate/8 our/9 toddler/10 ./11
+menu||positive||Between/14 my/13 guest/12 and/11 I/10 ,/9 we/8 sampled/7 at/6 least/5 80/4 %/3 of/2 the/1 ,/1 and/2 they/3 were/4 all/5 hits/6 ./7
+Deco||positive||The/1 and/1 ambiance/2 was/3 really/4 romantic/5 ./6
+ambiance||positive||The/3 Deco/2 and/1 was/1 really/2 romantic/3 ./4
+french food||positive||Just/7 go/6 in/5 and/4 sample/3 the/2 greatest/1 west/1 of/2 Daniel/3 ./4
+Indian food||positive||For/6 someone/5 who/4 used/3 to/2 hate/1 ,/1 Baluchi/2 's/3 has/4 changed/5 my/6 mid/7 ./8
+curry||positive||Finally/2 a/1 that/1 I/2 can/3 eat/4 ,/5 enjoy/6 and/7 not/8 suffer/9 from/10 gastritis/11 from/12 3/13 hours/14 later/15 ./16
+poori||positive||All/4 are/3 GREAT/2 -/1 ,/1 naan/2 ,/3 paratha/4 all/5 FRESH/6 ./7
+naan||positive||All/6 are/5 GREAT/4 -/3 poori/2 ,/1 ,/1 paratha/2 all/3 FRESH/4 ./5
+paratha||positive||All/8 are/7 GREAT/6 -/5 poori/4 ,/3 naan/2 ,/1 all/1 FRESH/2 ./3
+homemade breads||positive||Try/2 the/1 ./1
+sushi||positive||This/4 place/3 has/2 beautiful/1 ,/1 and/2 it/3 's/4 delicious/5 CHEAP/6 ./7
+Korean dishes||positive||It/6 also/5 has/4 lots/3 of/2 other/1 that/1 are/2 affordable/3 and/4 just/5 as/6 yummy/7 ./8
+prix fixe menu||neutral||I/9 went/8 for/7 restaurant/6 week/5 and/4 ordered/3 off/2 the/1
+waiter||positive||Not/4 only/3 was/2 the/1 efficient/1 and/2 courteous/3 ,/4 but/5 also/6 extremely/7 helpful/8 ./9
+place||positive||This/1 is/1 classy/2 ,/3 chic/4 ,/5 the/6 service/7 is/8 warm/9 and/10 hospitable/11 ,/12 and/13 the/14 food/15 is/16 outstanding/17 ./18
+service||positive||This/8 place/7 is/6 classy/5 ,/4 chic/3 ,/2 the/1 is/1 warm/2 and/3 hospitable/4 ,/5 and/6 the/7 food/8 is/9 outstanding/10 ./11
+food||positive||This/16 place/15 is/14 classy/13 ,/12 chic/11 ,/10 the/9 service/8 is/7 warm/6 and/5 hospitable/4 ,/3 and/2 the/1 is/1 outstanding/2 ./3
+burgers||positive||Great/1 ,/1 grilled/2 cheeses/3 and/4 french/5 fries/6 ./7
+grilled cheeses||positive||Great/3 burgers/2 ,/1 and/1 french/2 fries/3 ./4
+french fries||positive||Great/6 burgers/5 ,/4 grilled/3 cheeses/2 and/1 ./1
+Yellowfin Tuna||positive||The/1 and/1 Calf/2 's/3 liver/4 are/5 my/6 favorites/7 !/8
+Calf 's liver||positive||The/4 Yellowfin/3 Tuna/2 and/1 are/1 my/2 favorites/3 !/4
+Sushi||positive||so/1 fresh/2 that/3 it/4 crunches/5 in/6 your/7 mouth/8 ./9
+bill||negative||But/13 make/12 sure/11 you/10 have/9 enough/8 room/7 on/6 your/5 credit/4 card/3 as/2 the/1 will/1 leave/2 a/3 big/4 dent/5 in/6 your/7 wallet/8 ./9
+steak||neutral||They/22 bring/21 a/20 sauce/19 cart/18 up/17 to/16 your/15 table/14 and/13 offer/12 you/11 up/10 to/9 7/8 or/7 8/6 choices/5 of/4 sauces/3 for/2 your/1 (/1 I/2 tried/3 them/4 ALL/5 )/6 ./7
+choices of sauces||positive||They/17 bring/16 a/15 sauce/14 cart/13 up/12 to/11 your/10 table/9 and/8 offer/7 you/6 up/5 to/4 7/3 or/2 8/1 for/1 your/2 steak/3 (/4 I/5 tried/6 them/7 ALL/8 )/9 ./10
+sauce cart||neutral||They/3 bring/2 a/1 up/1 to/2 your/3 table/4 and/5 offer/6 you/7 up/8 to/9 7/10 or/11 8/12 choices/13 of/14 sauces/15 for/16 your/17 steak/18 (/19 I/20 tried/21 them/22 ALL/23 )/24 ./25
+table||neutral||They/8 bring/7 a/6 sauce/5 cart/4 up/3 to/2 your/1 and/1 offer/2 you/3 up/4 to/5 7/6 or/7 8/8 choices/9 of/10 sauces/11 for/12 your/13 steak/14 (/15 I/16 tried/17 them/18 ALL/19 )/20 ./21
+sushi||positive||Not/4 only/3 was/2 the/1 fresh/1 ,/2 they/3 also/4 served/5 other/6 entrees/7 allowed/8 each/9 guest/10 something/11 to/12 choose/13 from/14 and/15 we/16 all/17 left/18 happy/19 (/20 try/21 the/22 duck/23 !/24
+duck||positive||Not/27 only/26 was/25 the/24 sushi/23 fresh/22 ,/21 they/20 also/19 served/18 other/17 entrees/16 allowed/15 each/14 guest/13 something/12 to/11 choose/10 from/9 and/8 we/7 all/6 left/5 happy/4 (/3 try/2 the/1 !/1
+entrees||neutral||Not/11 only/10 was/9 the/8 sushi/7 fresh/6 ,/5 they/4 also/3 served/2 other/1 allowed/1 each/2 guest/3 something/4 to/5 choose/6 from/7 and/8 we/9 all/10 left/11 happy/12 (/13 try/14 the/15 duck/16 !/17
+variety||positive||good/1 but/1 nothing/2 surprising/3 ./4
+utensils||neutral||After/14 I/13 paid/12 for/11 my/10 purchase/9 ,/8 I/7 noticed/6 they/5 had/4 not/3 given/2 me/1 so/1 I/2 could/3 eat/4 my/5 pie/6 ./7
+pie||neutral||After/20 I/19 paid/18 for/17 my/16 purchase/15 ,/14 I/13 noticed/12 they/11 had/10 not/9 given/8 me/7 utensils/6 so/5 I/4 could/3 eat/2 my/1 ./1
+thin crust||negative||Likewise/5 if/4 you/3 like/2 really/1 or/1 really/2 big/3 slices/4 then/5 Nick/6 and/7 Joe/8 's/9 may/10 not/11 be/12 your/13 favorite/14 ./15
+slices||negative||Likewise/10 if/9 you/8 like/7 really/6 thin/5 crust/4 or/3 really/2 big/1 then/1 Nick/2 and/3 Joe/4 's/5 may/6 not/7 be/8 your/9 favorite/10 ./11
+green beans||neutral||No/1 ,/1 no/2 egg/3 ,/4 no/5 anchovy/6 dressing/7 ,/8 no/9 nicoise/10 olives/11 ,/12 no/13 red/14 onion/15 ./16
+egg||neutral||No/5 green/4 beans/3 ,/2 no/1 ,/1 no/2 anchovy/3 dressing/4 ,/5 no/6 nicoise/7 olives/8 ,/9 no/10 red/11 onion/12 ./13
+anchovy dressing||neutral||No/8 green/7 beans/6 ,/5 no/4 egg/3 ,/2 no/1 ,/1 no/2 nicoise/3 olives/4 ,/5 no/6 red/7 onion/8 ./9
+nicoise olives||neutral||No/12 green/11 beans/10 ,/9 no/8 egg/7 ,/6 no/5 anchovy/4 dressing/3 ,/2 no/1 ,/1 no/2 red/3 onion/4 ./5
+red onion||neutral||No/16 green/15 beans/14 ,/13 no/12 egg/11 ,/10 no/9 anchovy/8 dressing/7 ,/6 no/5 nicoise/4 olives/3 ,/2 no/1 ./1
+meal||neutral||Build/2 a/1 with/1 side/2 orders/3 like/4 Amazin/5 '/6 Greens/7 salads/8 ,/9 Buffalo/10 Chicken/11 Kickers/12 and/13 Cinna/14 Stix/15 ./16
+Amazin ' Greens salads||neutral||Build/7 a/6 meal/5 with/4 side/3 orders/2 like/1 ,/1 Buffalo/2 Chicken/3 Kickers/4 and/5 Cinna/6 Stix/7 ./8
+Buffalo Chicken Kickers||neutral||Build/12 a/11 meal/10 with/9 side/8 orders/7 like/6 Amazin/5 '/4 Greens/3 salads/2 ,/1 and/1 Cinna/2 Stix/3 ./4
+Cinna Stix||neutral||Build/16 a/15 meal/14 with/13 side/12 orders/11 like/10 Amazin/9 '/8 Greens/7 salads/6 ,/5 Buffalo/4 Chicken/3 Kickers/2 and/1 ./1
+side orders||neutral||Build/4 a/3 meal/2 with/1 like/1 Amazin/2 '/3 Greens/4 salads/5 ,/6 Buffalo/7 Chicken/8 Kickers/9 and/10 Cinna/11 Stix/12 ./13
+fries||neutral||Thick/1 ,/1 meaty/2 chili/3 and/4 stuffed/5 baked/6 potatoes/7 round/8 out/9 a/10 menu/11 that/12 includes/13 a/14 cool/15 ,/16 ultra-thick/17 chocolate/18 Frosty/19 ./20
+meaty chili||neutral||Thick/3 fries/2 ,/1 and/1 stuffed/2 baked/3 potatoes/4 round/5 out/6 a/7 menu/8 that/9 includes/10 a/11 cool/12 ,/13 ultra-thick/14 chocolate/15 Frosty/16 ./17
+stuffed baked potatoes||neutral||Thick/6 fries/5 ,/4 meaty/3 chili/2 and/1 round/1 out/2 a/3 menu/4 that/5 includes/6 a/7 cool/8 ,/9 ultra-thick/10 chocolate/11 Frosty/12 ./13
+menu||neutral||Thick/12 fries/11 ,/10 meaty/9 chili/8 and/7 stuffed/6 baked/5 potatoes/4 round/3 out/2 a/1 that/1 includes/2 a/3 cool/4 ,/5 ultra-thick/6 chocolate/7 Frosty/8 ./9
+chocolate Frosty||positive||Thick/19 fries/18 ,/17 meaty/16 chili/15 and/14 stuffed/13 baked/12 potatoes/11 round/10 out/9 a/8 menu/7 that/6 includes/5 a/4 cool/3 ,/2 ultra-thick/1 ./1
+waiter||neutral||I/6 always/5 find/4 myself/3 asking/2 the/1 to/1 make/2 something/3 bland/4 and/5 different/6 than/7 what/8 is/9 on/10 the/11 menu/12 ./13
+menu||neutral||I/18 always/17 find/16 myself/15 asking/14 the/13 waiter/12 to/11 make/10 something/9 bland/8 and/7 different/6 than/5 what/4 is/3 on/2 the/1 ./1
+cake||negative||Good/9 cake/8 BUT/7 :/6 it/5 was/4 not/3 the/2 best/1 i/1 've/2 ever/3 had/4 ,/5 and/6 definately/7 not/8 worth/9 standing/10 outside/11 on/12 the/13 sidewalk/14 being/15 herded/16 like/17 cattle/18 by/19 indifferent/20 and/21 overworked/22 employees/23 ./24
+employees||negative||Good/32 cake/31 BUT/30 :/29 it/28 was/27 not/26 the/25 best/24 cake/23 i/22 've/21 ever/20 had/19 ,/18 and/17 definately/16 not/15 worth/14 standing/13 outside/12 on/11 the/10 sidewalk/9 being/8 herded/7 like/6 cattle/5 by/4 indifferent/3 and/2 overworked/1 ./1
+cake||negative||Good/1 BUT/1 :/2 it/3 was/4 not/5 the/6 best/7 cake/8 i/9 've/10 ever/11 had/12 ,/13 and/14 definately/15 not/16 worth/17 standing/18 outside/19 on/20 the/21 sidewalk/22 being/23 herded/24 like/25 cattle/26 by/27 indifferent/28 and/29 overworked/30 employees/31 ./32
+Cherry Marscapone||neutral||The/7 closest/6 that/5 I/4 got/3 was/2 the/1 ,/1 but/2 they/3 were/4 out/5 of/6 it/7 that/8 day/9 ./10
+roti canai appetizer||positive||The/10 homage/9 to/8 India/7 is/6 most/5 evident/4 in/3 the/2 delectable/1 ,/1 a/2 fried/3 pancake/4 served/5 with/6 pungent/7 curry/8 dipping/9 sauce/10 ,/11 while/12 the/13 mango/14 chicken/15 offers/16 a/17 surprisingly/18 sophisticated/19 ,/20 fresh/21 take/22 on/23 sweet-and-sour/24 ./25
+mango chicken||positive||The/26 homage/25 to/24 India/23 is/22 most/21 evident/20 in/19 the/18 delectable/17 roti/16 canai/15 appetizer/14 ,/13 a/12 fried/11 pancake/10 served/9 with/8 pungent/7 curry/6 dipping/5 sauce/4 ,/3 while/2 the/1 offers/1 a/2 surprisingly/3 sophisticated/4 ,/5 fresh/6 take/7 on/8 sweet-and-sour/9 ./10
+fried pancake served with pungent curry dipping sauce||positive||The/15 homage/14 to/13 India/12 is/11 most/10 evident/9 in/8 the/7 delectable/6 roti/5 canai/4 appetizer/3 ,/2 a/1 ,/1 while/2 the/3 mango/4 chicken/5 offers/6 a/7 surprisingly/8 sophisticated/9 ,/10 fresh/11 take/12 on/13 sweet-and-sour/14 ./15
+outside||negative||It/8 does/7 n't/6 look/5 like/4 much/3 on/2 the/1 ,/1 but/2 the/3 minute/4 you/5 walk/6 inside/7 ,/8 it/9 's/10 a/11 whole/12 other/13 atmosphere/14 ./15
+atmosphere||positive||It/22 does/21 n't/20 look/19 like/18 much/17 on/16 the/15 outside/14 ,/13 but/12 the/11 minute/10 you/9 walk/8 inside/7 ,/6 it/5 's/4 a/3 whole/2 other/1 ./1
+ground chickpea soup||negative||The/1 we/1 sampled/2 as/3 a/4 starter/5 tasted/6 somewhat/7 thin/8 ./9
+starter||neutral||The/8 ground/7 chickpea/6 soup/5 we/4 sampled/3 as/2 a/1 tasted/1 somewhat/2 thin/3 ./4
+sushi||negative||We/5 requested/4 they/3 re-slice/2 the/1 ,/1 and/2 it/3 was/4 returned/5 to/6 us/7 in/8 small/9 cheese-like/10 cubes/11 ./12
+service||negative||The/1 ,/1 however/2 ,/3 is/4 a/5 peg/6 or/7 two/8 below/9 the/10 quality/11 of/12 food/13 (/14 horrible/15 bartenders/16 )/17 ,/18 and/19 the/20 clientele/21 ,/22 for/23 the/24 most/25 part/26 ,/27 are/28 rowdy/29 ,/30 loud-mouthed/31 commuters/32 (/33 this/34 could/35 explain/36 the/37 bad/38 attitudes/39 from/40 the/41 staff/42 )/43 getting/44 loaded/45 for/46 an/47 AC/DC/48 concert/49 or/50 a/51 Knicks/52 game/53 ./54
+quality of food||positive||The/12 service/11 ,/10 however/9 ,/8 is/7 a/6 peg/5 or/4 two/3 below/2 the/1 (/1 horrible/2 bartenders/3 )/4 ,/5 and/6 the/7 clientele/8 ,/9 for/10 the/11 most/12 part/13 ,/14 are/15 rowdy/16 ,/17 loud-mouthed/18 commuters/19 (/20 this/21 could/22 explain/23 the/24 bad/25 attitudes/26 from/27 the/28 staff/29 )/30 getting/31 loaded/32 for/33 an/34 AC/DC/35 concert/36 or/37 a/38 Knicks/39 game/40 ./41
+bartenders||negative||The/17 service/16 ,/15 however/14 ,/13 is/12 a/11 peg/10 or/9 two/8 below/7 the/6 quality/5 of/4 food/3 (/2 horrible/1 )/1 ,/2 and/3 the/4 clientele/5 ,/6 for/7 the/8 most/9 part/10 ,/11 are/12 rowdy/13 ,/14 loud-mouthed/15 commuters/16 (/17 this/18 could/19 explain/20 the/21 bad/22 attitudes/23 from/24 the/25 staff/26 )/27 getting/28 loaded/29 for/30 an/31 AC/DC/32 concert/33 or/34 a/35 Knicks/36 game/37 ./38
+clientele||negative||The/22 service/21 ,/20 however/19 ,/18 is/17 a/16 peg/15 or/14 two/13 below/12 the/11 quality/10 of/9 food/8 (/7 horrible/6 bartenders/5 )/4 ,/3 and/2 the/1 ,/1 for/2 the/3 most/4 part/5 ,/6 are/7 rowdy/8 ,/9 loud-mouthed/10 commuters/11 (/12 this/13 could/14 explain/15 the/16 bad/17 attitudes/18 from/19 the/20 staff/21 )/22 getting/23 loaded/24 for/25 an/26 AC/DC/27 concert/28 or/29 a/30 Knicks/31 game/32 ./33
+staff||negative||The/43 service/42 ,/41 however/40 ,/39 is/38 a/37 peg/36 or/35 two/34 below/33 the/32 quality/31 of/30 food/29 (/28 horrible/27 bartenders/26 )/25 ,/24 and/23 the/22 clientele/21 ,/20 for/19 the/18 most/17 part/16 ,/15 are/14 rowdy/13 ,/12 loud-mouthed/11 commuters/10 (/9 this/8 could/7 explain/6 the/5 bad/4 attitudes/3 from/2 the/1 )/1 getting/2 loaded/3 for/4 an/5 AC/DC/6 concert/7 or/8 a/9 Knicks/10 game/11 ./12
+meal||positive||If/13 you/12 're/11 in/10 the/9 neighborhood/8 ,/7 definitely/6 stop/5 by/4 for/3 a/2 great/1 ./1
+desserts||neutral||Unfortunately/15 ,/14 with/13 our/12 show/11 tickets/10 ,/9 we/8 did/7 n't/6 have/5 time/4 to/3 sample/2 any/1 ./1
+tables||negative||Make/2 more/1 -/1 perhaps/2 a/3 rooftop/4 bar/5 ?/6
+rooftop bar||neutral||Make/6 more/5 tables/4 -/3 perhaps/2 a/1 ?/1
+decoration||positive||The/1 was/1 feeling/2 like/3 we/4 was/5 on/6 the/7 Cairo/8 ,/9 actually/10 the/11 street/12 is/13 part/14 of/15 that/16 adventure/17 ./18
+ambience||positive||Although/6 small/5 ,/4 it/3 has/2 beautiful/1 ,/1 excellent/2 food/3 (/4 the/5 catfish/6 is/7 delicious/8 -/9 if/10 ya/11 do/12 n't/13 mind/14 it/15 a/16 lil/17 salty/18 )/19 and/20 attentive/21 service/22 ./23
+food||positive||Although/9 small/8 ,/7 it/6 has/5 beautiful/4 ambience/3 ,/2 excellent/1 (/1 the/2 catfish/3 is/4 delicious/5 -/6 if/7 ya/8 do/9 n't/10 mind/11 it/12 a/13 lil/14 salty/15 )/16 and/17 attentive/18 service/19 ./20
+catfish||positive||Although/12 small/11 ,/10 it/9 has/8 beautiful/7 ambience/6 ,/5 excellent/4 food/3 (/2 the/1 is/1 delicious/2 -/3 if/4 ya/5 do/6 n't/7 mind/8 it/9 a/10 lil/11 salty/12 )/13 and/14 attentive/15 service/16 ./17
+service||positive||Although/28 small/27 ,/26 it/25 has/24 beautiful/23 ambience/22 ,/21 excellent/20 food/19 (/18 the/17 catfish/16 is/15 delicious/14 -/13 if/12 ya/11 do/10 n't/9 mind/8 it/7 a/6 lil/5 salty/4 )/3 and/2 attentive/1 ./1
+food||neutral||I/6 did/5 n't/4 go/3 there/2 for/1 so/1 I/2 ca/3 n't/4 comment/5 ./6
+brisket||positive||Stick/9 to/8 the/7 items/6 the/5 place/4 does/3 best/2 ,/1 ,/1 ribs/2 ,/3 wings/4 ,/5 cajun/6 shrimp/7 is/8 good/9 ,/10 not/11 great/12 ./13
+ribs||positive||Stick/11 to/10 the/9 items/8 the/7 place/6 does/5 best/4 ,/3 brisket/2 ,/1 ,/1 wings/2 ,/3 cajun/4 shrimp/5 is/6 good/7 ,/8 not/9 great/10 ./11
+wings||positive||Stick/13 to/12 the/11 items/10 the/9 place/8 does/7 best/6 ,/5 brisket/4 ,/3 ribs/2 ,/1 ,/1 cajun/2 shrimp/3 is/4 good/5 ,/6 not/7 great/8 ./9
+cajun shrimp||neutral||Stick/15 to/14 the/13 items/12 the/11 place/10 does/9 best/8 ,/7 brisket/6 ,/5 ribs/4 ,/3 wings/2 ,/1 is/1 good/2 ,/3 not/4 great/5 ./6
+atmosphere||positive||Hip/12 boutiques/11 and/10 bars/9 on/8 Ludlow/7 add/6 to/5 the/4 artsy/3 ,/2 laid-back/1 at/1 this/2 Israeli-style/3 takeout/4 and/5 eat-in/6 burger/7 joint/8 ./9
+counter||neutral||Young/6 neighborhood/5 trendies/4 graze/3 at/2 the/1 during/1 the/2 day/3 ,/4 while/5 chic/6 ,/7 art-house/8 drinkers/9 with/10 heavy/11 doses/12 of/13 the/14 munchies/15 pile/16 in/17 late/18 at/19 night/20 ./21
+bottle of wine||neutral||Bring/5 your/4 date/3 and/2 a/1 !/1
+menu||positive||My/6 Chelsea/5 's/4 impressive/3 and/2 creative/1 includes/1 modern/2 ,/3 Westernized/4 Japanese/5 dishes/6 such/7 as/8 Foie/9 Gras/10 Unagi/11 Napolean/12 ,/13 Jap/14 style/15 hamburger/16 steak/17 ,/18 spicy/19 cod/20 roe/21 spaghetti/22 ,/23 black/24 cod/25 with/26 miso/27 base/28 ,/29 and/30 rack/31 of/32 lamb/33 in/34 black/35 truffle/36 sauce/37 ,/38 to/39 name/40 a/41 few/42 ./43
+Japanese dishes||neutral||My/11 Chelsea/10 's/9 impressive/8 and/7 creative/6 menu/5 includes/4 modern/3 ,/2 Westernized/1 such/1 as/2 Foie/3 Gras/4 Unagi/5 Napolean/6 ,/7 Jap/8 style/9 hamburger/10 steak/11 ,/12 spicy/13 cod/14 roe/15 spaghetti/16 ,/17 black/18 cod/19 with/20 miso/21 base/22 ,/23 and/24 rack/25 of/26 lamb/27 in/28 black/29 truffle/30 sauce/31 ,/32 to/33 name/34 a/35 few/36 ./37
+Foie Gras Unagi Napolean||neutral||My/15 Chelsea/14 's/13 impressive/12 and/11 creative/10 menu/9 includes/8 modern/7 ,/6 Westernized/5 Japanese/4 dishes/3 such/2 as/1 ,/1 Jap/2 style/3 hamburger/4 steak/5 ,/6 spicy/7 cod/8 roe/9 spaghetti/10 ,/11 black/12 cod/13 with/14 miso/15 base/16 ,/17 and/18 rack/19 of/20 lamb/21 in/22 black/23 truffle/24 sauce/25 ,/26 to/27 name/28 a/29 few/30 ./31
+Jap style hamburger steak||neutral||My/20 Chelsea/19 's/18 impressive/17 and/16 creative/15 menu/14 includes/13 modern/12 ,/11 Westernized/10 Japanese/9 dishes/8 such/7 as/6 Foie/5 Gras/4 Unagi/3 Napolean/2 ,/1 ,/1 spicy/2 cod/3 roe/4 spaghetti/5 ,/6 black/7 cod/8 with/9 miso/10 base/11 ,/12 and/13 rack/14 of/15 lamb/16 in/17 black/18 truffle/19 sauce/20 ,/21 to/22 name/23 a/24 few/25 ./26
+spicy cod roe spaghetti||neutral||My/25 Chelsea/24 's/23 impressive/22 and/21 creative/20 menu/19 includes/18 modern/17 ,/16 Westernized/15 Japanese/14 dishes/13 such/12 as/11 Foie/10 Gras/9 Unagi/8 Napolean/7 ,/6 Jap/5 style/4 hamburger/3 steak/2 ,/1 ,/1 black/2 cod/3 with/4 miso/5 base/6 ,/7 and/8 rack/9 of/10 lamb/11 in/12 black/13 truffle/14 sauce/15 ,/16 to/17 name/18 a/19 few/20 ./21
+black cod with miso base||neutral||My/30 Chelsea/29 's/28 impressive/27 and/26 creative/25 menu/24 includes/23 modern/22 ,/21 Westernized/20 Japanese/19 dishes/18 such/17 as/16 Foie/15 Gras/14 Unagi/13 Napolean/12 ,/11 Jap/10 style/9 hamburger/8 steak/7 ,/6 spicy/5 cod/4 roe/3 spaghetti/2 ,/1 ,/1 and/2 rack/3 of/4 lamb/5 in/6 black/7 truffle/8 sauce/9 ,/10 to/11 name/12 a/13 few/14 ./15
+rack of lamb in black truffle sauce||neutral||My/37 Chelsea/36 's/35 impressive/34 and/33 creative/32 menu/31 includes/30 modern/29 ,/28 Westernized/27 Japanese/26 dishes/25 such/24 as/23 Foie/22 Gras/21 Unagi/20 Napolean/19 ,/18 Jap/17 style/16 hamburger/15 steak/14 ,/13 spicy/12 cod/11 roe/10 spaghetti/9 ,/8 black/7 cod/6 with/5 miso/4 base/3 ,/2 and/1 ,/1 to/2 name/3 a/4 few/5 ./6
+food||positive||His/1 is/1 excellent/2 (/3 and/4 not/5 expensive/6 by/7 NYC/8 standards/9 -/10 no/11 entrees/12 over/13 $/14 30/15 ,/16 most/17 appetizers/18 $/19 12/20 to/21 14/22 )/23 ./24
+appetizers||positive||His/19 food/18 is/17 excellent/16 (/15 and/14 not/13 expensive/12 by/11 NYC/10 standards/9 -/8 no/7 entrees/6 over/5 $/4 30/3 ,/2 most/1 $/1 12/2 to/3 14/4 )/5 ./6
+entrees||positive||His/13 food/12 is/11 excellent/10 (/9 and/8 not/7 expensive/6 by/5 NYC/4 standards/3 -/2 no/1 over/1 $/2 30/3 ,/4 most/5 appetizers/6 $/7 12/8 to/9 14/10 )/11 ./12
+food||positive||The/1 is/1 consistant/2 and/3 good/4 but/5 how/6 it/7 got/8 name/9 Best/10 Diner/11 In/12 Manhattan/13 is/14 beyond/15 me/16 ./17
+pasta primavera||positive||The/1 was/1 outstanding/2 as/3 well/4 ,/5 lots/6 of/7 fresh/8 veggies/9 ./10
+fresh veggies||positive||The/10 pasta/9 primavera/8 was/7 outstanding/6 as/5 well/4 ,/3 lots/2 of/1 ./1
+sushi||positive||do/6 n't/5 get/4 me/3 wrong/2 -/1 was/1 good/2 ,/3 just/4 not/5 fantastic/6 ./7
+flan||positive||Being/10 Puerto/9 Rican/8 I/7 know/6 a/5 thing/4 or/3 two/2 about/1 and/1 this/2 place/3 serves/4 one/5 of/6 the/7 best/8 (/9 I/10 hope/11 Mom/12 does/13 n't/14 read/15 this/16 !/17 )/18 ./19
+pizza||positive||Been/23 to/22 the/21 one/20 in/19 Brooklyn/18 for/17 over/16 25/15 years/14 ,/13 now/12 I/11 dont/10 have/9 to/8 go/7 over/6 the/5 bridge/4 for/3 the/2 best/1 .../1 Hanx/2
+dinner||neutral||Had/1 here/1 on/2 a/3 Friday/4 and/5 the/6 food/7 was/8 great/9 ./10
+food||positive||Had/8 dinner/7 here/6 on/5 a/4 Friday/3 and/2 the/1 was/1 great/2 ./3
+wine||positive||We/19 recently/18 spent/17 New/16 Year/15 's/14 Eve/13 at/12 the/11 restaurant/10 ,/9 and/8 had/7 a/6 great/5 experience/4 ,/3 from/2 the/1 to/1 the/2 dessert/3 menu/4 ./5
+dessert menu||positive||We/22 recently/21 spent/20 New/19 Year/18 's/17 Eve/16 at/15 the/14 restaurant/13 ,/12 and/11 had/10 a/9 great/8 experience/7 ,/6 from/5 the/4 wine/3 to/2 the/1 ./1
+place||positive||Highly/29 recommended/28 .../27 As/26 stated/25 ,/24 I/23 have/22 n't/21 dined/20 */19 in/18 */17 the/16 restaurant/15 but/14 stopped/13 by/12 there/11 to/10 pick/9 up/8 takeout/7 and/6 it/5 seems/4 a/3 very/2 relaxing/1 ;/1 also/2 ,/3 the/4 bar/5 looks/6 nice/7 ./8
+bar||positive||Highly/34 recommended/33 .../32 As/31 stated/30 ,/29 I/28 have/27 n't/26 dined/25 */24 in/23 */22 the/21 restaurant/20 but/19 stopped/18 by/17 there/16 to/15 pick/14 up/13 takeout/12 and/11 it/10 seems/9 a/8 very/7 relaxing/6 place/5 ;/4 also/3 ,/2 the/1 looks/1 nice/2 ./3
+takeout||neutral||Highly/22 recommended/21 .../20 As/19 stated/18 ,/17 I/16 have/15 n't/14 dined/13 */12 in/11 */10 the/9 restaurant/8 but/7 stopped/6 by/5 there/4 to/3 pick/2 up/1 and/1 it/2 seems/3 a/4 very/5 relaxing/6 place/7 ;/8 also/9 ,/10 the/11 bar/12 looks/13 nice/14 ./15
+ambiance||positive||The/1 was/1 fine/2 ,/3 a/4 little/5 loud/6 but/7 still/8 nice/9 and/10 romantic/11 ./12
+cocktail hour||positive||but/11 ,/10 the/9 filet/8 mignon/7 was/6 not/5 very/4 good/3 at/2 all/1 includes/1 free/2 appetizers/3 (/4 nice/5 non-sushi/6 selection/7 )/8 ./9
+filet mignon||negative||but/3 ,/2 the/1 was/1 not/2 very/3 good/4 at/5 all/6 cocktail/7 hour/8 includes/9 free/10 appetizers/11 (/12 nice/13 non-sushi/14 selection/15 )/16 ./17
+non-sushi selection||positive||but/18 ,/17 the/16 filet/15 mignon/14 was/13 not/12 very/11 good/10 at/9 all/8 cocktail/7 hour/6 includes/5 free/4 appetizers/3 (/2 nice/1 )/1 ./2
+appetizers||positive||but/15 ,/14 the/13 filet/12 mignon/11 was/10 not/9 very/8 good/7 at/6 all/5 cocktail/4 hour/3 includes/2 free/1 (/1 nice/2 non-sushi/3 selection/4 )/5 ./6
+courses||neutral||It/10 took/9 about/8 2/7 hours/6 to/5 be/4 served/3 our/2 2/1 ./1
+served||negative||It/7 took/6 about/5 2/4 hours/3 to/2 be/1 our/1 2/2 courses/3 ./4
+place||neutral||Who/5 said/4 go/3 when/2 the/1 is/1 quiet/2 during/3 the/4 day/5 ?/6
+size||negative||Can/11 be/10 a/9 bit/8 busy/7 around/6 peak/5 times/4 because/3 of/2 the/1 ./1
+chicken tacos||positive||I/25 was/24 on/23 jury/22 duty/21 ,/20 rode/19 my/18 bike/17 up/16 Centre/15 Street/14 on/13 my/12 lunch/11 break/10 and/9 came/8 across/7 this/6 great/5 little/4 place/3 with/2 awesome/1 and/1 Hibiscus/2 lemonade/3 ./4
+Hibiscus lemonade||positive||I/28 was/27 on/26 jury/25 duty/24 ,/23 rode/22 my/21 bike/20 up/19 Centre/18 Street/17 on/16 my/15 lunch/14 break/13 and/12 came/11 across/10 this/9 great/8 little/7 place/6 with/5 awesome/4 chicken/3 tacos/2 and/1 ./1
+place||positive||I/22 was/21 on/20 jury/19 duty/18 ,/17 rode/16 my/15 bike/14 up/13 Centre/12 Street/11 on/10 my/9 lunch/8 break/7 and/6 came/5 across/4 this/3 great/2 little/1 with/1 awesome/2 chicken/3 tacos/4 and/5 Hibiscus/6 lemonade/7 ./8
+place||positive||good/1 to/1 hang/2 out/3 during/4 the/5 day/6 after/7 shopping/8 or/9 to/10 grab/11 a/12 simple/13 soup/14 or/15 classic/16 french/17 dish/18 over/19 a/20 glass/21 of/22 wine/23 ./24
+soup||neutral||good/15 place/14 to/13 hang/12 out/11 during/10 the/9 day/8 after/7 shopping/6 or/5 to/4 grab/3 a/2 simple/1 or/1 classic/2 french/3 dish/4 over/5 a/6 glass/7 of/8 wine/9 ./10
+french dish||neutral||good/18 place/17 to/16 hang/15 out/14 during/13 the/12 day/11 after/10 shopping/9 or/8 to/7 grab/6 a/5 simple/4 soup/3 or/2 classic/1 over/1 a/2 glass/3 of/4 wine/5 ./6
+glass of wine||neutral||good/22 place/21 to/20 hang/19 out/18 during/17 the/16 day/15 after/14 shopping/13 or/12 to/11 grab/10 a/9 simple/8 soup/7 or/6 classic/5 french/4 dish/3 over/2 a/1 ./1
+place||positive||Very/8 nice/7 touch/6 that/5 very/4 much/3 fits/2 the/1 ./1
+casual drink||positive||However/18 ,/17 there/16 is/15 just/14 something/13 so/12 great/11 about/10 being/9 outdoors/8 ,/7 in/6 great/5 landscaping/4 ,/3 enjoying/2 a/1 that/1 makes/2 going/3 to/4 this/5 place/6 worthwhile/7 ./8
+outdoors||positive||However/10 ,/9 there/8 is/7 just/6 something/5 so/4 great/3 about/2 being/1 ,/1 in/2 great/3 landscaping/4 ,/5 enjoying/6 a/7 casual/8 drink/9 that/10 makes/11 going/12 to/13 this/14 place/15 worthwhile/16 ./17
+place||positive||However/25 ,/24 there/23 is/22 just/21 something/20 so/19 great/18 about/17 being/16 outdoors/15 ,/14 in/13 great/12 landscaping/11 ,/10 enjoying/9 a/8 casual/7 drink/6 that/5 makes/4 going/3 to/2 this/1 worthwhile/1 ./2
+dance floor||neutral||We/9 were/8 seated/7 promptly/6 in/5 close/4 proximity/3 to/2 the/1 ./1
+pre-show meal||neutral||If/6 you/5 are/4 here/3 as/2 a/1 ,/1 hop/2 in/3 a/4 cab/5 and/6 take/7 the/8 extra/9 10/10 minutes/11 to/12 go/13 to/14 the/15 uptown/16 location/17 ./18
+fried foods||negative||The/3 comments/2 about/1 is/1 correct/2 (/3 below/4 )/5 but/6 the/7 other/8 dishes/9 ,/10 including/11 the/12 lamb/13 entree/14 and/15 many/16 of/17 the/18 salads/19 (/20 avocado/21 shrimp/22 )/23 were/24 quite/25 good/26 ./27
+dishes||positive||The/13 comments/12 about/11 fried/10 foods/9 is/8 correct/7 (/6 below/5 )/4 but/3 the/2 other/1 ,/1 including/2 the/3 lamb/4 entree/5 and/6 many/7 of/8 the/9 salads/10 (/11 avocado/12 shrimp/13 )/14 were/15 quite/16 good/17 ./18
+lamb entree||positive||The/17 comments/16 about/15 fried/14 foods/13 is/12 correct/11 (/10 below/9 )/8 but/7 the/6 other/5 dishes/4 ,/3 including/2 the/1 and/1 many/2 of/3 the/4 salads/5 (/6 avocado/7 shrimp/8 )/9 were/10 quite/11 good/12 ./13
+salads ( avocado shrimp )||positive||The/23 comments/22 about/21 fried/20 foods/19 is/18 correct/17 (/16 below/15 )/14 but/13 the/12 other/11 dishes/10 ,/9 including/8 the/7 lamb/6 entree/5 and/4 many/3 of/2 the/1 were/1 quite/2 good/3 ./4
+service||negative||Slow/1 ,/1 but/2 when/3 you/4 're/5 hanging/6 around/7 with/8 groups/9 of/10 10/11 or/12 20/13 ,/14 who/15 really/16 notices/17 ?/18
+dabs of real mozzarella||neutral||The/9 sauce/8 is/7 excellent/6 (/5 very/4 fresh/3 )/2 with/1 ./1
+sauce||positive||The/1 is/1 excellent/2 (/3 very/4 fresh/5 )/6 with/7 dabs/8 of/9 real/10 mozzarella/11 ./12
+drinks||negative||Do/6 n't/5 ever/4 bother/3 -/2 the/1 were/1 awful/2 ,/3 but/4 it/5 was/6 the/7 people/8 who/9 work/10 there/11 that/12 really/13 made/14 this/15 the/16 worst/17 experience/18 at/19 dining/20 ./21
+people||negative||Do/14 n't/13 ever/12 bother/11 -/10 the/9 drinks/8 were/7 awful/6 ,/5 but/4 it/3 was/2 the/1 who/1 work/2 there/3 that/4 really/5 made/6 this/7 the/8 worst/9 experience/10 at/11 dining/12 ./13
+dining||negative||Do/26 n't/25 ever/24 bother/23 -/22 the/21 drinks/20 were/19 awful/18 ,/17 but/16 it/15 was/14 the/13 people/12 who/11 work/10 there/9 that/8 really/7 made/6 this/5 the/4 worst/3 experience/2 at/1 ./1
+room||negative||The/1 is/1 a/2 little/3 plain/4 ,/5 but/6 it/7 's/8 difficult/9 to/10 make/11 such/12 a/13 small/14 place/15 exciting/16 and/17 I/18 would/19 not/20 suggest/21 that/22 as/23 a/24 reason/25 not/26 to/27 go/28 ./29
+place||negative||The/16 room/15 is/14 a/13 little/12 plain/11 ,/10 but/9 it/8 's/7 difficult/6 to/5 make/4 such/3 a/2 small/1 exciting/1 and/2 I/3 would/4 not/5 suggest/6 that/7 as/8 a/9 reason/10 not/11 to/12 go/13 ./14
+Prices||positive||even/1 outside/2 of/3 restaurant/4 week/5 were/6 great/7 ./8
+space||positive||A/12 small/11 ,/10 outdoor/9 eating/8 area/7 makes/6 for/5 a/4 private/3 ,/2 comfortable/1 to/1 study/2 alone/3 or/4 meet/5 up/6 with/7 friends/8 ./9
+outdoor eating area||positive||A/3 small/2 ,/1 makes/1 for/2 a/3 private/4 ,/5 comfortable/6 space/7 to/8 study/9 alone/10 or/11 meet/12 up/13 with/14 friends/15 ./16
+-LSB- female -RSB- servers||positive||And/3 all/2 the/1 are/1 cute/2 too/3 ,/4 which/5 is/6 always/7 nice/8 ./9
+dessert||positive||The/2 best/1 ,/1 a/2 chocolate/3 and/4 peanut/5 butter/6 tart/7 ,/8 is/9 n't/10 particularly/11 Hawaiian/12 ,/13 but/14 it/15 's/16 a/17 small/18 world/19 when/20 it/21 comes/22 to/23 sweets/24 ./25
+chocolate and peanut butter tart||positive||The/5 best/4 dessert/3 ,/2 a/1 ,/1 is/2 n't/3 particularly/4 Hawaiian/5 ,/6 but/7 it/8 's/9 a/10 small/11 world/12 when/13 it/14 comes/15 to/16 sweets/17 ./18
+sweets||neutral||The/26 best/25 dessert/24 ,/23 a/22 chocolate/21 and/20 peanut/19 butter/18 tart/17 ,/16 is/15 n't/14 particularly/13 Hawaiian/12 ,/11 but/10 it/9 's/8 a/7 small/6 world/5 when/4 it/3 comes/2 to/1 ./1
+appetizer||neutral||for/2 an/1 ,/1 their/2 calamari/3 is/4 a/5 winner/6 ./7
+calamari||positive||for/5 an/4 appetizer/3 ,/2 their/1 is/1 a/2 winner/3 ./4
+service||positive||Satay/11 is/10 one/9 of/8 those/7 favorite/6 haunts/5 on/4 Washington/3 where/2 the/1 and/1 food/2 is/3 always/4 on/5 the/6 money/7 ./8
+food||positive||Satay/13 is/12 one/11 of/10 those/9 favorite/8 haunts/7 on/6 Washington/5 where/4 the/3 service/2 and/1 is/1 always/2 on/3 the/4 money/5 ./6
+dinner||neutral||After/1 I/1 heard/2 music/3 playing/4 and/5 discovered/6 that/7 there/8 is/9 a/10 lounge/11 downstairs/12 ./13
+music||neutral||After/4 dinner/3 I/2 heard/1 playing/1 and/2 discovered/3 that/4 there/5 is/6 a/7 lounge/8 downstairs/9 ./10
+lounge||neutral||After/12 dinner/11 I/10 heard/9 music/8 playing/7 and/6 discovered/5 that/4 there/3 is/2 a/1 downstairs/1 ./2
+room||positive||The/1 is/1 a/2 gorgeous/3 ,/4 bi-level/5 space/6 and/7 the/8 long/9 bar/10 perfect/11 for/12 a/13 drink/14 ./15
+bi-level space||positive||The/6 room/5 is/4 a/3 gorgeous/2 ,/1 and/1 the/2 long/3 bar/4 perfect/5 for/6 a/7 drink/8 ./9
+long bar||positive||The/10 room/9 is/8 a/7 gorgeous/6 ,/5 bi-level/4 space/3 and/2 the/1 perfect/1 for/2 a/3 drink/4 ./5
+drink||neutral||The/15 room/14 is/13 a/12 gorgeous/11 ,/10 bi-level/9 space/8 and/7 the/6 long/5 bar/4 perfect/3 for/2 a/1 ./1
+appetizer selection||negative||Two/4 complaints/3 -/2 their/1 stinks/1 ,/2 it/3 would/4 be/5 nice/6 to/7 get/8 some/9 mozzarella/10 sticks/11 on/12 the/13 menu/14 ./15
+mozzarella sticks||neutral||Two/15 complaints/14 -/13 their/12 appetizer/11 selection/10 stinks/9 ,/8 it/7 would/6 be/5 nice/4 to/3 get/2 some/1 on/1 the/2 menu/3 ./4
+menu||negative||Two/19 complaints/18 -/17 their/16 appetizer/15 selection/14 stinks/13 ,/12 it/11 would/10 be/9 nice/8 to/7 get/6 some/5 mozzarella/4 sticks/3 on/2 the/1 ./1
+waitstaff||positive||I/10 was/9 especially/8 impressed/7 during/6 the/5 bday/4 party/3 when/2 the/1 went/1 above/2 and/3 beyond/4 in/5 helping/6 me/7 decorate/8 and/9 bring/10 out/11 a/12 bday/13 cake/14 as/15 well/16 as/17 offering/18 prompt/19 and/20 friendly/21 service/22 to/23 a/24 15/25 person/26 party/27 ./28
+service||positive||I/32 was/31 especially/30 impressed/29 during/28 the/27 bday/26 party/25 when/24 the/23 waitstaff/22 went/21 above/20 and/19 beyond/18 in/17 helping/16 me/15 decorate/14 and/13 bring/12 out/11 a/10 bday/9 cake/8 as/7 well/6 as/5 offering/4 prompt/3 and/2 friendly/1 to/1 a/2 15/3 person/4 party/5 ./6
+chicken and falafel platters||neutral||The/1 were/1 nondescript/2 combinations/3 with/4 fresh/5 leaf/6 salad/7 ./8
+fresh leaf salad||neutral||The/9 chicken/8 and/7 falafel/6 platters/5 were/4 nondescript/3 combinations/2 with/1 ./1
+atmosphere||positive||The/1 takes/1 you/2 to/3 that/4 place/5 ,/6 the/7 place/8 many/9 dream/10 of/11 ./12
+waiters||negative||several/7 times/6 and/5 put/4 up/3 with/2 the/1 '/1 bad/2 manners/3 ,/4 knowing/5 that/6 their/7 job/8 is/9 n't/10 easy/11 ./12
+service||negative||The/1 is/1 great/2 (/3 maybe/4 even/5 borderline/6 nagging/7 but/8 at/9 least/10 you/11 get/12 attention/13 )/14 ,/15 the/16 desserts/17 are/18 excellent/19 and/20 the/21 coffee/22 is/23 so/24 very/25 good/26 .../27
+desserts||positive||The/18 service/17 is/16 great/15 (/14 maybe/13 even/12 borderline/11 nagging/10 but/9 at/8 least/7 you/6 get/5 attention/4 )/3 ,/2 the/1 are/1 excellent/2 and/3 the/4 coffee/5 is/6 so/7 very/8 good/9 .../10
+coffee||positive||The/23 service/22 is/21 great/20 (/19 maybe/18 even/17 borderline/16 nagging/15 but/14 at/13 least/12 you/11 get/10 attention/9 )/8 ,/7 the/6 desserts/5 are/4 excellent/3 and/2 the/1 is/1 so/2 very/3 good/4 .../5
+served||neutral||They/2 are/1 on/1 Focacchia/2 bread/3 and/4 are/5 to/6 die/7 for/8 ./9
+Focacchia bread||neutral||They/4 are/3 served/2 on/1 and/1 are/2 to/3 die/4 for/5 ./6
+smoothies||negative||While/2 the/1 are/1 a/2 little/3 big/4 for/5 me/6 ,/7 the/8 fresh/9 juices/10 are/11 the/12 best/13 I/14 have/15 ever/16 had/17 !/18
+fresh juices||positive||While/11 the/10 smoothies/9 are/8 a/7 little/6 big/5 for/4 me/3 ,/2 the/1 are/1 the/2 best/3 I/4 have/5 ever/6 had/7 !/8
+food||negative||The/1 is/1 just/2 OKAY/3 ,/4 and/5 it/6 's/7 almost/8 not/9 worth/10 going/11 unless/12 you/13 're/14 getting/15 the/16 pialla/17 ,/18 which/19 is/20 the/21 only/22 dish/23 that/24 's/25 really/26 good/27 ./28
+pialla||positive||The/18 food/17 is/16 just/15 OKAY/14 ,/13 and/12 it/11 's/10 almost/9 not/8 worth/7 going/6 unless/5 you/4 're/3 getting/2 the/1 ,/1 which/2 is/3 the/4 only/5 dish/6 that/7 's/8 really/9 good/10 ./11
+dish||positive||The/24 food/23 is/22 just/21 OKAY/20 ,/19 and/18 it/17 's/16 almost/15 not/14 worth/13 going/12 unless/11 you/10 're/9 getting/8 the/7 pialla/6 ,/5 which/4 is/3 the/2 only/1 that/1 's/2 really/3 good/4 ./5
+guac||negative||The/1 is/1 fresh/2 ,/3 yet/4 lacking/5 flavor/6 ,/7 we/8 like/9 to/10 add/11 our/12 fresh/13 salsa/14 into/15 it/16 ./17
+fresh salsa||neutral||The/14 guac/13 is/12 fresh/11 ,/10 yet/9 lacking/8 flavor/7 ,/6 we/5 like/4 to/3 add/2 our/1 into/1 it/2 ./3
+flavor||negative||The/7 guac/6 is/5 fresh/4 ,/3 yet/2 lacking/1 ,/1 we/2 like/3 to/4 add/5 our/6 fresh/7 salsa/8 into/9 it/10 ./11
+prices||negative||The/25 new/24 menu/23 has/22 a/21 few/20 creative/19 items/18 ,/17 they/16 were/15 smart/14 enough/13 to/12 keep/11 some/10 of/9 the/8 old/7 favorites/6 (/5 but/4 they/3 raised/2 the/1 )/1 ,/2 the/3 staff/4 is/5 friendly/6 most/7 of/8 the/9 time/10 ,/11 but/12 I/13 must/14 agree/15 with/16 the/17 person/18 that/19 wrote/20 about/21 their/22 favorite/23 words/24 :/25 No/26 ,/27 ca/28 n't/29 ,/30 sorry/31 .../32 ,/33 boy/34 ,/35 they/36 wo/37 n't/38 bend/39 the/40 rules/41 for/42 anyone/43 ./44
+staff||negative||The/29 new/28 menu/27 has/26 a/25 few/24 creative/23 items/22 ,/21 they/20 were/19 smart/18 enough/17 to/16 keep/15 some/14 of/13 the/12 old/11 favorites/10 (/9 but/8 they/7 raised/6 the/5 prices/4 )/3 ,/2 the/1 is/1 friendly/2 most/3 of/4 the/5 time/6 ,/7 but/8 I/9 must/10 agree/11 with/12 the/13 person/14 that/15 wrote/16 about/17 their/18 favorite/19 words/20 :/21 No/22 ,/23 ca/24 n't/25 ,/26 sorry/27 .../28 ,/29 boy/30 ,/31 they/32 wo/33 n't/34 bend/35 the/36 rules/37 for/38 anyone/39 ./40
+new menu||positive||The/1 has/1 a/2 few/3 creative/4 items/5 ,/6 they/7 were/8 smart/9 enough/10 to/11 keep/12 some/13 of/14 the/15 old/16 favorites/17 (/18 but/19 they/20 raised/21 the/22 prices/23 )/24 ,/25 the/26 staff/27 is/28 friendly/29 most/30 of/31 the/32 time/33 ,/34 but/35 I/36 must/37 agree/38 with/39 the/40 person/41 that/42 wrote/43 about/44 their/45 favorite/46 words/47 :/48 No/49 ,/50 ca/51 n't/52 ,/53 sorry/54 .../55 ,/56 boy/57 ,/58 they/59 wo/60 n't/61 bend/62 the/63 rules/64 for/65 anyone/66 ./67
+lunch||neutral||It/5 '/4 only/3 open/2 for/1 but/1 the/2 food/3 is/4 so/5 good/6 !/7
+food||positive||It/8 '/7 only/6 open/5 for/4 lunch/3 but/2 the/1 is/1 so/2 good/3 !/4
+seafood||positive||If/3 you/2 like/1 and/or/1 Greek/2 food/3 you/4 will/5 love/6 this/7 place/8 though/9 it/10 is/11 not/12 limited/13 to/14 just/15 these/16 things/17 ./18
+Greek food||positive||If/5 you/4 like/3 seafood/2 and/or/1 you/1 will/2 love/3 this/4 place/5 though/6 it/7 is/8 not/9 limited/10 to/11 just/12 these/13 things/14 ./15
+menu||neutral||''/2 The/1 includes/1 pub/2 fare/3 --/4 burgers/5 ,/6 steaks/7 and/8 shepherds/9 pie/10 --/11 and/12 even/13 a/14 portabella/15 lasagna/16 for/17 those/18 black/19 sheep/20 known/21 as/22 ``/23 vegetarians/24 ./25
+burgers||neutral||''/7 The/6 menu/5 includes/4 pub/3 fare/2 --/1 ,/1 steaks/2 and/3 shepherds/4 pie/5 --/6 and/7 even/8 a/9 portabella/10 lasagna/11 for/12 those/13 black/14 sheep/15 known/16 as/17 ``/18 vegetarians/19 ./20
+steaks||neutral||''/9 The/8 menu/7 includes/6 pub/5 fare/4 --/3 burgers/2 ,/1 and/1 shepherds/2 pie/3 --/4 and/5 even/6 a/7 portabella/8 lasagna/9 for/10 those/11 black/12 sheep/13 known/14 as/15 ``/16 vegetarians/17 ./18
+shepherds pie||neutral||''/11 The/10 menu/9 includes/8 pub/7 fare/6 --/5 burgers/4 ,/3 steaks/2 and/1 --/1 and/2 even/3 a/4 portabella/5 lasagna/6 for/7 those/8 black/9 sheep/10 known/11 as/12 ``/13 vegetarians/14 ./15
+portabella lasagna||neutral||''/17 The/16 menu/15 includes/14 pub/13 fare/12 --/11 burgers/10 ,/9 steaks/8 and/7 shepherds/6 pie/5 --/4 and/3 even/2 a/1 for/1 those/2 black/3 sheep/4 known/5 as/6 ``/7 vegetarians/8 ./9
+pub fare||neutral||''/4 The/3 menu/2 includes/1 --/1 burgers/2 ,/3 steaks/4 and/5 shepherds/6 pie/7 --/8 and/9 even/10 a/11 portabella/12 lasagna/13 for/14 those/15 black/16 sheep/17 known/18 as/19 ``/20 vegetarians/21 ./22
+food||neutral||How/6 can/5 they/4 survive/3 serving/2 mediocre/1 at/1 exorbitant/2 prices/3 ?!/4
+prices||negative||How/9 can/8 they/7 survive/6 serving/5 mediocre/4 food/3 at/2 exorbitant/1 ?!/1
+service||negative||The/6 food/5 was/4 mediocre/3 and/2 the/1 was/1 severely/2 slow/3 ./4
+food||neutral||The/1 was/1 mediocre/2 and/3 the/4 service/5 was/6 severely/7 slow/8 ./9
+food||neutral||i/10 have/9 eaten/8 here/7 on/6 a/5 different/4 occasion/3 -/2 the/1 is/1 mediocre/2 for/3 the/4 prices/5 ./6
+prices||negative||i/15 have/14 eaten/13 here/12 on/11 a/10 different/9 occasion/8 -/7 the/6 food/5 is/4 mediocre/3 for/2 the/1 ./1
+menu||positive||I/15 'm/14 looking/13 forward/12 to/11 going/10 back/9 soon/8 and/7 eventually/6 trying/5 most/4 everything/3 on/2 the/1 !/1
+menu||neutral||I/23 just/22 had/21 my/20 first/19 visit/18 to/17 this/16 place/15 and/14 ca/13 n't/12 wait/11 to/10 go/9 back/8 and/7 slowly/6 work/5 my/4 way/3 through/2 the/1 ./1
+waiter||negative||I/20 asked/19 repeatedly/18 what/17 the/16 status/15 of/14 the/13 meal/12 was/11 and/10 was/9 pretty/8 much/7 grunted/6 at/5 by/4 the/3 unbelievably/2 rude/1 ./1
+meal||neutral||I/8 asked/7 repeatedly/6 what/5 the/4 status/3 of/2 the/1 was/1 and/2 was/3 pretty/4 much/5 grunted/6 at/7 by/8 the/9 unbelievably/10 rude/11 waiter/12 ./13
+brunch||neutral||I/5 stopped/4 by/3 for/2 some/1 today/1 and/2 had/3 the/4 vegan/5 cranberry/6 pancakes/7 and/8 some/9 rice/10 milk/11 ./12
+vegan cranberry pancakes||neutral||I/10 stopped/9 by/8 for/7 some/6 brunch/5 today/4 and/3 had/2 the/1 and/1 some/2 rice/3 milk/4 ./5
+rice milk||neutral||I/15 stopped/14 by/13 for/12 some/11 brunch/10 today/9 and/8 had/7 the/6 vegan/5 cranberry/4 pancakes/3 and/2 some/1 ./1
+bartender||positive||Sweet/2 Irish/1 is/1 always/2 happy/3 and/4 able/5 to/6 bring/7 a/8 smile/9 to/10 my/11 friends/12 a/13 my/14 face/15 ./16
+service||negative||Its/29 good/28 to/27 go/26 there/25 for/24 drinks/23 if/22 you/21 do/20 n't/19 want/18 to/17 get/16 drunk/15 because/14 you/13 'll/12 be/11 lucky/10 if/9 you/8 can/7 get/6 one/5 drink/4 an/3 hour/2 the/1 is/1 so/2 bad/3 ./4
+drink||neutral||Its/25 good/24 to/23 go/22 there/21 for/20 drinks/19 if/18 you/17 do/16 n't/15 want/14 to/13 get/12 drunk/11 because/10 you/9 'll/8 be/7 lucky/6 if/5 you/4 can/3 get/2 one/1 an/1 hour/2 the/3 service/4 is/5 so/6 bad/7 ./8
+drinks||neutral||Its/6 good/5 to/4 go/3 there/2 for/1 if/1 you/2 do/3 n't/4 want/5 to/6 get/7 drunk/8 because/9 you/10 'll/11 be/12 lucky/13 if/14 you/15 can/16 get/17 one/18 drink/19 an/20 hour/21 the/22 service/23 is/24 so/25 bad/26 ./27
+owner||negative||Anyway/3 ,/2 the/1 was/1 fake/2 ./3
+Owner||positive||is/1 pleasant/2 and/3 entertaining/4 ./5
+food||negative||I/8 have/7 never/6 in/5 my/4 life/3 sent/2 back/1 before/1 ,/2 but/3 I/4 simply/5 had/6 to/7 ,/8 and/9 the/10 waiter/11 argued/12 with/13 me/14 over/15 this/16 ./17
+waiter||negative||I/19 have/18 never/17 in/16 my/15 life/14 sent/13 back/12 food/11 before/10 ,/9 but/8 I/7 simply/6 had/5 to/4 ,/3 and/2 the/1 argued/1 with/2 me/3 over/4 this/5 ./6
+food||negative||Although/14 the/13 restaurant/12 itself/11 is/10 nice/9 ,/8 I/7 prefer/6 not/5 to/4 go/3 for/2 the/1 ./1
+Creamy appetizers||positive||--/1 taramasalata/2 ,/3 eggplant/4 salad/5 ,/6 and/7 Greek/8 yogurt/9 (/10 with/11 cuccumber/12 ,/13 dill/14 ,/15 and/16 garlic/17 )/18 taste/19 excellent/20 when/21 on/22 warm/23 pitas/24 ./25
+warm pitas||neutral||Creamy/24 appetizers/23 --/22 taramasalata/21 ,/20 eggplant/19 salad/18 ,/17 and/16 Greek/15 yogurt/14 (/13 with/12 cuccumber/11 ,/10 dill/9 ,/8 and/7 garlic/6 )/5 taste/4 excellent/3 when/2 on/1 ./1
+taramasalata||positive||Creamy/3 appetizers/2 --/1 ,/1 eggplant/2 salad/3 ,/4 and/5 Greek/6 yogurt/7 (/8 with/9 cuccumber/10 ,/11 dill/12 ,/13 and/14 garlic/15 )/16 taste/17 excellent/18 when/19 on/20 warm/21 pitas/22 ./23
+eggplant salad||positive||Creamy/5 appetizers/4 --/3 taramasalata/2 ,/1 ,/1 and/2 Greek/3 yogurt/4 (/5 with/6 cuccumber/7 ,/8 dill/9 ,/10 and/11 garlic/12 )/13 taste/14 excellent/15 when/16 on/17 warm/18 pitas/19 ./20
+Greek yogurt ( with cuccumber , dill , and garlic )||positive||Creamy/9 appetizers/8 --/7 taramasalata/6 ,/5 eggplant/4 salad/3 ,/2 and/1 taste/1 excellent/2 when/3 on/4 warm/5 pitas/6 ./7

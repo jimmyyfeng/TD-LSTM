@@ -122,7 +122,9 @@ class LSTM(object):
         prob = self.bi_dynamic_lstm(inputs_fw, inputs_bw)
 
         with tf.name_scope('loss'):
-            cost = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(prob, self.y))
+            reg_loss = tf.get_collection(tf.GraphKeys.REGULARIZATION_LOSSES)
+            cost = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(prob, self.y)) + sum(reg_loss)
+
 
         with tf.name_scope('train'):
             global_step = tf.Variable(0, name="tr_global_step", trainable=False)
@@ -131,11 +133,11 @@ class LSTM(object):
         with tf.name_scope('predict'):
             correct_pred = tf.equal(tf.argmax(prob, 1), tf.argmax(self.y, 1))
             accuracy = tf.reduce_sum(tf.cast(correct_pred, tf.int32))
-            # accuracy = tf.reduce_mean(tf.cast(correct_pred, tf.float32))
+            acc_ = tf.reduce_mean(tf.cast(correct_pred, tf.float32))
 
         with tf.Session() as sess:
             summary_loss = tf.scalar_summary('loss', cost)
-            summary_acc = tf.scalar_summary('acc', accuracy)
+            summary_acc = tf.scalar_summary('acc', acc_)
             train_summary_op = tf.merge_summary([summary_loss, summary_acc])
             validate_summary_op = tf.merge_summary([summary_loss, summary_acc])
             test_summary_op = tf.merge_summary([summary_loss, summary_acc])
@@ -167,7 +169,7 @@ class LSTM(object):
                 for train, _ in self.get_batch_data(tr_x, tr_sen_len, tr_x_bw, tr_sen_len_bw, tr_y, self.batch_size, 1.0):
                     _, step, summary = sess.run([optimizer, global_step, train_summary_op], feed_dict=train)
                     train_summary_writer.add_summary(summary, step)
-                acc, loss, cnt = 0., 0., 0
+                acc, loss, cnt, summary  = 0., 0., 0, None
                 for test, num in self.get_batch_data(te_x, te_sen_len, te_x_bw, te_sen_len_bw, te_y, 2000, 1.0):
                     _loss, _acc, summary = sess.run([cost, accuracy, test_summary_op], feed_dict=test)
                     acc += _acc
@@ -177,7 +179,6 @@ class LSTM(object):
                 print acc
                 test_summary_writer.add_summary(summary, step)
                 print 'Iter {}: mini-batch loss={:.6f}, test acc={:.6f}'.format(step, loss / cnt, acc / cnt)
-                test_summary_writer.add_summary(summary, step)
                 if acc / cnt > max_acc:
                     max_acc = acc / cnt
             print 'Optimization Finished! Max acc={}'.format(max_acc)

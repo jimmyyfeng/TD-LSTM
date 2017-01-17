@@ -7,11 +7,12 @@
 import numpy as np
 
 
-def batch_index(length, batch_size, n_iter=100):
+def batch_index(length, batch_size, n_iter=100, is_shuffle=True):
     index = range(length)
     for j in xrange(n_iter):
-        np.random.shuffle(index)
-        for i in xrange(int(length / batch_size) + 1 if length % batch_size else 0):
+        if is_shuffle:
+            np.random.shuffle(index)
+        for i in xrange(int(length / batch_size) + (1 if length % batch_size else 0)):
             yield index[i * batch_size:(i + 1) * batch_size]
 
 
@@ -23,7 +24,7 @@ def load_word_id_mapping(word_id_file, encoding='utf8'):
     """
     word_to_id = dict()
     for line in open(word_id_file):
-        line = line.decode(encoding, 'ignore').split()
+        line = line.decode(encoding, 'ignore').lower().split()
         word_to_id[line[0]] = int(line[1])
     print '\nload word-id mapping done!\n'
     return word_to_id
@@ -50,10 +51,49 @@ def load_w2v(w2v_file, embedding_dim, is_skip=False):
     w2v = np.row_stack((w2v, np.sum(w2v, axis=0) / cnt))
     print np.shape(w2v)
     word_dict['$t$'] = (cnt + 1)
+    # w2v -= np.mean(w2v, axis=0)
+    # w2v /= np.std(w2v, axis=0)
+    print word_dict['$t$'], len(w2v)
     return word_dict, w2v
 
 
+def load_word_embedding(word_id_file, w2v_file, embedding_dim, is_skip=False):
+    word_to_id = load_word_id_mapping(word_id_file)
+    word_dict, w2v = load_w2v(w2v_file, embedding_dim, is_skip)
+    cnt = len(w2v)
+    for k in word_to_id.keys():
+        if k not in word_dict:
+            word_dict[k] = cnt
+            w2v = np.row_stack((w2v, np.random.uniform(-0.01, 0.01, (embedding_dim,))))
+            cnt += 1
+    print len(word_dict), len(w2v)
+    return word_dict, w2v
+
+
+def load_aspect2id(input_file, word_id_mapping, w2v, embedding_dim):
+    aspect2id = dict()
+    a2v = list()
+    a2v.append([0.] * embedding_dim)
+    cnt = 0
+    for line in open(input_file):
+        line = line.lower().split()
+        cnt += 1
+        aspect2id[' '.join(line[:-1])] = cnt
+        tmp = []
+        for word in line:
+            if word in word_id_mapping:
+                tmp.append(w2v[word_id_mapping[word]])
+        if tmp:
+            a2v.append(np.sum(tmp, axis=0) / len(tmp))
+        else:
+            a2v.append(np.random.uniform(-0.01, 0.01, (embedding_dim,)))
+    print len(aspect2id), len(a2v)
+    return aspect2id, np.asarray(a2v, dtype=np.float32)
+
+
 def change_y_to_onehot(y):
+    from collections import Counter
+    print Counter(y)
     class_set = set(y)
     n_class = len(class_set)
     y_onehot_mapping = dict(zip(class_set, range(n_class)))
@@ -125,19 +165,11 @@ def extract_aspect_to_id(input_file, aspect2id_file):
     lines = open(input_file).readlines()
     targets = set()
     for i in xrange(0, len(lines), 3):
-        target = lines[i + 1].lower().strip()
-        targets.add(target)
+        target = lines[i + 1].lower().split()
+        targets.add(' '.join(target))
     aspect2id = list(zip(targets, range(1, len(lines) + 1)))
     for k, v in aspect2id:
         dest_fp.write(k + ' ' + str(v) + '\n')
-
-
-def load_aspect2id(input_file):
-    aspect2id = dict()
-    for line in open(input_file):
-        line = line.lower().split()
-        aspect2id[' '.join(line[:-1])] = int(line[-1])
-    return aspect2id
 
 
 def load_inputs_twitter_at(input_file, word_id_file, aspect_id_file, sentence_len, type_='', encoding='utf8'):
@@ -156,17 +188,30 @@ def load_inputs_twitter_at(input_file, word_id_file, aspect_id_file, sentence_le
     aspect_words = []
     lines = open(input_file).readlines()
     for i in xrange(0, len(lines), 3):
-        aspect_word = ' '.join(lines[i + 1].decode(encoding).lower().split()[:-1])
+        aspect_word = ' '.join(lines[i + 1].lower().split())
         aspect_words.append(aspect_to_id.get(aspect_word, 0))
 
         y.append(lines[i + 2].split()[0])
 
         words = lines[i].decode(encoding).lower().split()
-        ids = list(map(lambda word: word_to_id.get(word, 0), words))
+        ids = []
+        for word in words:
+            if word in word_to_id:
+                ids.append(word_to_id[word])
+        # ids = list(map(lambda word: word_to_id.get(word, 0), words))
         sen_len.append(len(ids))
-        x.append(ids + [0] * (sentence_len - len(words)))
-
+        x.append(ids + [0] * (sentence_len - len(ids)))
+    cnt = 0
+    for item in aspect_words:
+        if item > 0:
+            cnt += 1
+    print 'cnt=', cnt
     y = change_y_to_onehot(y)
-    return np.asarray(x), np.asarray(sen_len), np.asarray(aspect_words), np.asarray(y)
+    for item in x:
+        if len(item) != sentence_len:
+            print 'aaaaa=', len(item)
+    x = np.asarray(x, dtype=np.int32)
+
+    return x, np.asarray(sen_len), np.asarray(aspect_words), np.asarray(y)
 
 
