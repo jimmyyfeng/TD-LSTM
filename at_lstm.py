@@ -28,7 +28,7 @@ tf.app.flags.DEFINE_string('test_file_path', 'data/restaurant/rest_2014_lstm_tes
 tf.app.flags.DEFINE_string('embedding_file_path', 'data/restaurant/rest_2014_word_embedding_300_new.txt', 'embedding file')
 tf.app.flags.DEFINE_string('word_id_file_path', 'data/restaurant/word_id_new.txt', 'word-id mapping file')
 tf.app.flags.DEFINE_string('aspect_id_file_path', 'data/restaurant/aspect_id_new.txt', 'word-id mapping file')
-tf.app.flags.DEFINE_string('method', 'AE', 'model type: AE, AT or AEAT')
+tf.app.flags.DEFINE_string('method', 'AT', 'model type: AE, AT or AEAT')
 tf.app.flags.DEFINE_string('t', 'last', 'model type: ')
 
 
@@ -136,9 +136,9 @@ class LSTM(object):
         if out_type == 'last':
             outputs_fw, outputs_bw = outputs
             outputs_bw = tf.reverse_sequence(outputs_bw, tf.cast(length, tf.int64), seq_dim=1)
-            outputs = tf.concat(2, [outputs_fw, outputs_bw])
+            outputs = tf.concat([outputs_fw, outputs_bw], 2)
         else:
-            outputs = tf.concat(2, outputs)  # batch_size * max_len * 2n_hidden
+            outputs = tf.concat(outputs, 2)  # batch_size * max_len * 2n_hidden
         batch_size = tf.shape(outputs)[0]
         if out_type == 'last':
             index = tf.range(0, batch_size) * max_len + (length - 1)
@@ -152,11 +152,11 @@ class LSTM(object):
         :params: self.x, self.seq_len, self.weights['softmax_lstm'], self.biases['sof
         :return: non-norm prediction values
         """
-        print 'I am AE.'
+        print('I am AE.')
         batch_size = tf.shape(inputs)[0]
         target = tf.reshape(target, [-1, 1, self.embedding_dim])
         target = tf.ones([batch_size, self.max_sentence_len, self.embedding_dim], dtype=tf.float32) * target
-        inputs = tf.concat(2, [inputs, target])
+        inputs = tf.concat([inputs, target], 2)
         inputs = tf.nn.dropout(inputs, keep_prob=self.keep_prob1)
 
         cell = tf.nn.rnn_cell.LSTMCell
@@ -165,22 +165,22 @@ class LSTM(object):
         return LSTM.softmax_layer(outputs, self.weights['softmax'], self.biases['softmax'], self.keep_prob2)
 
     def AT(self, inputs, target, type_=''):
-        print 'I am AT.'
+        print('I am AT.')
         batch_size = tf.shape(inputs)[0]
         target = tf.reshape(target, [-1, 1, self.embedding_dim])
         target = tf.ones([batch_size, self.max_sentence_len, self.embedding_dim], dtype=tf.float32) * target
-        in_t = tf.concat(2, [inputs, target])
+        in_t = tf.concat([inputs, target], 2)
         in_t = tf.nn.dropout(in_t, keep_prob=self.keep_prob1)
         cell = tf.nn.rnn_cell.LSTMCell
         hiddens = self.dynamic_rnn(cell, in_t, self.sen_len, self.max_sentence_len, 'AT', 'all')
 
-        h_t = tf.reshape(tf.concat(2, [hiddens, target]), [-1, self.n_hidden + self.embedding_dim])
+        h_t = tf.reshape(tf.concat([hiddens, target], 2), [-1, self.n_hidden + self.embedding_dim])
 
         M = tf.matmul(tf.tanh(tf.matmul(h_t, self.W)), self.w)
         alpha = LSTM.softmax(tf.reshape(M, [-1, 1, self.max_sentence_len]), self.sen_len, self.max_sentence_len)
         self.alpha = tf.reshape(alpha, [-1, self.max_sentence_len])
 
-        r = tf.reshape(tf.batch_matmul(alpha, hiddens), [-1, self.n_hidden])
+        r = tf.reshape(tf.matmul(alpha, hiddens), [-1, self.n_hidden])
         index = tf.range(0, batch_size) * self.max_sentence_len + (self.sen_len - 1)
         hn = tf.gather(tf.reshape(hiddens, [-1, self.n_hidden]), index)  # batch_size * n_hidden
 
@@ -255,21 +255,21 @@ class LSTM(object):
                 FLAGS.n_hidden,
                 FLAGS.n_class
             )
-            summary_loss = tf.scalar_summary('loss' + title, cost)
-            summary_acc = tf.scalar_summary('acc' + title, _acc)
-            train_summary_op = tf.merge_summary([summary_loss, summary_acc])
-            validate_summary_op = tf.merge_summary([summary_loss, summary_acc])
-            test_summary_op = tf.merge_summary([summary_loss, summary_acc])
+            summary_loss = tf.summary.scalar('loss' + title, cost)
+            summary_acc = tf.summary.scalar('acc' + title, _acc)
+            train_summary_op =  tf.summary.merge([summary_loss, summary_acc])
+            validate_summary_op =  tf.summary.merge([summary_loss, summary_acc])
+            test_summary_op =  tf.summary.merge([summary_loss, summary_acc])
             import time
             timestamp = str(int(time.time()))
             _dir = 'logs/' + str(timestamp) + '_' + title
-            train_summary_writer = tf.train.SummaryWriter(_dir + '/train', sess.graph)
-            test_summary_writer = tf.train.SummaryWriter(_dir + '/test', sess.graph)
-            validate_summary_writer = tf.train.SummaryWriter(_dir + '/validate', sess.graph)
+            train_summary_writer = tf.summary.FileWriter(_dir + '/train', sess.graph)
+            test_summary_writer = tf.summary.FileWriter(_dir + '/test', sess.graph)
+            validate_summary_writer = tf.summary.FileWriter(_dir + '/validate', sess.graph)
 
             saver = tf.train.Saver(write_version=tf.train.SaverDef.V2)
 
-            init = tf.initialize_all_variables()
+            init = tf.global_variables_initializer()
             sess.run(init)
 
             # saver.restore(sess, 'models/logs/1481529975__r0.005_b2000_l0.05self.softmax/-1072')
@@ -297,7 +297,7 @@ class LSTM(object):
             max_acc = 0.
             max_alpha = None
             max_ty, max_py = None, None
-            for i in xrange(self.n_iter):
+            for i in range(self.n_iter):
                 for train, _ in self.get_batch_data(tr_x, tr_sen_len, tr_y, tr_target_word, self.batch_size, FLAGS.keep_prob1, FLAGS.keep_prob2):
                     _, step, summary = sess.run([optimizer, global_step, train_summary_op], feed_dict=train)
                     train_summary_writer.add_summary(summary, step)
@@ -320,28 +320,28 @@ class LSTM(object):
                         alpha = alpha
                         ty = ty
                         py = py
-                print 'all samples={}, correct prediction={}'.format(cnt, acc)
+                print('all samples={}, correct prediction={}'.format(cnt, acc))
                 test_summary_writer.add_summary(summary, step)
                 saver.save(sess, save_dir, global_step=step)
-                print 'Iter {}: mini-batch loss={:.6f}, test acc={:.6f}'.format(i, loss / cnt, acc / cnt)
+                print('Iter {}: mini-batch loss={:.6f}, test acc={:.6f}'.format(i, loss / cnt, acc / cnt))
                 if acc / cnt > max_acc:
                     max_acc = acc / cnt
                     max_alpha = alpha
                     max_ty = ty
                     max_py = py
 
-            print 'Optimization Finished! Max acc={}'.format(max_acc)
+            print('Optimization Finished! Max acc={}'.format(max_acc))
             fp = open('weight.txt', 'w')
             for y1, y2, ws in zip(max_ty, max_py, max_alpha):
                 fp.write(str(y1) + ' ' + str(y2) + ' ' + ' '.join([str(w) for w in ws]) + '\n')
 
-            print 'Learning_rate={}, iter_num={}, batch_size={}, hidden_num={}, l2={}'.format(
+            print('Learning_rate={}, iter_num={}, batch_size={}, hidden_num={}, l2={}'.format(
                 self.learning_rate,
                 self.n_iter,
                 self.batch_size,
                 self.n_hidden,
                 self.l2_reg
-            )
+            ))
 
     def get_batch_data(self, x, sen_len, y, target_words, batch_size, keep_prob1, keep_prob2, is_shuffle=True):
         for index in batch_index(len(y), batch_size, 1, is_shuffle):
