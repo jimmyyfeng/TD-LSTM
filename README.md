@@ -1,6 +1,12 @@
 # NNCM
 Attention-based Neural Network Classification Models. Implemented by tensorflow.
 
+## Install
+Requires Python3 (Tested on Python3.6) and Tensorflow (tested on 1.3)
+
+Pip install:
+pip3 install -r requirements.txt
+
 
 ## 1. Effective LSTMs for Target-Dependent Sentiment Classification with Long Short Term Memory
 
@@ -42,6 +48,3 @@ Conference on Empirical Methods in Natural Language Processing (EMNLP 2016, full
     ├── td_lstm.py        Paper 1
     ├── at_lstm.py        Paper 2
     ├── utils.py
-
-
-

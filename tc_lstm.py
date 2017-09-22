@@ -20,11 +20,11 @@ tf.app.flags.DEFINE_float('l2_reg', 0.001, 'l2 regularization')
 tf.app.flags.DEFINE_integer('display_step', 4, 'number of test display step')
 tf.app.flags.DEFINE_integer('n_iter', 10, 'number of train iter')
 
-tf.app.flags.DEFINE_string('train_file_path', 'data/train.raw', 'training file')
-tf.app.flags.DEFINE_string('validate_file_path', 'data/validate.raw', 'validating file')
-tf.app.flags.DEFINE_string('test_file_path', 'data/test.raw', 'testing file')
-tf.app.flags.DEFINE_string('embedding_file_path', 'data/twitter_word_embedding_partial_100.txt', 'embedding file')
-tf.app.flags.DEFINE_string('word_id_file_path', 'data/word_id.txt', 'word-id mapping file')
+tf.app.flags.DEFINE_string('train_file_path', 'data/twitter/train.raw', 'training file')
+tf.app.flags.DEFINE_string('validate_file_path', 'data/twitter/validate.raw', 'validating file')
+tf.app.flags.DEFINE_string('test_file_path', 'data/twitter/test.raw', 'testing file')
+tf.app.flags.DEFINE_string('embedding_file_path', 'data/twitter/twitter_word_embedding_partial_100.txt', 'embedding file')
+tf.app.flags.DEFINE_string('word_id_file_path', 'data/twitter/word_id.txt', 'word-id mapping file')
 tf.app.flags.DEFINE_string('type', 'TC', 'model type: ''(default), TD or TC')
 
 
@@ -114,7 +114,7 @@ class LSTM(object):
             index = tf.range(0, batch_size) * self.max_sentence_len + (self.sen_len_bw - 1)
             output_bw = tf.gather(tf.reshape(outputs_bw, [-1, self.n_hidden]), index)  # batch_size * n_hidden
 
-        output = tf.concat(1, [output_fw, output_bw])  # batch_size * 2n_hidden
+        output = tf.concat([output_fw, output_bw], 1)  # batch_size * 2n_hidden
         predict = tf.matmul(output, self.weights['softmax_bi_lstm']) + self.biases['softmax_bi_lstm']
         return predict
 
@@ -124,12 +124,12 @@ class LSTM(object):
         target = tf.reduce_mean(tf.nn.embedding_lookup(self.word_embedding, self.target_words), 1, keep_dims=True)
         batch_size = tf.shape(inputs_bw)[0]
         target = tf.zeros([batch_size, self.max_sentence_len, self.embedding_dim]) + target
-        inputs_fw = tf.concat(2, [inputs_fw, target])
-        inputs_bw = tf.concat(2, [inputs_bw, target])
+        inputs_fw = tf.concat([inputs_fw, target], 2)
+        inputs_bw = tf.concat([inputs_bw, target], 2)
         prob = self.bi_dynamic_lstm(inputs_fw, inputs_bw)
 
         with tf.name_scope('loss'):
-            cost = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(prob, self.y))
+            cost = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(logits=prob, labels=self.y))
 
         with tf.name_scope('train'):
             global_step = tf.Variable(0, name="tr_global_step", trainable=False)
@@ -141,17 +141,17 @@ class LSTM(object):
             _acc = tf.reduce_mean(tf.cast(correct_pred, tf.float32))
 
         with tf.Session() as sess:
-            summary_loss = tf.scalar_summary('loss', cost)
-            summary_acc = tf.scalar_summary('acc', _acc)
-            train_summary_op = tf.merge_summary([summary_loss, summary_acc])
-            validate_summary_op = tf.merge_summary([summary_loss, summary_acc])
-            test_summary_op = tf.merge_summary([summary_loss, summary_acc])
+            summary_loss = tf.summary.scalar('loss', cost)
+            summary_acc = tf.summary.scalar('acc', _acc)
+            train_summary_op = tf.summary.merge([summary_loss, summary_acc])
+            validate_summary_op = tf.summary.merge([summary_loss, summary_acc])
+            test_summary_op = tf.summary.merge([summary_loss, summary_acc])
             import time
             timestamp = str(int(time.time()))
             _dir = 'logs/' + str(timestamp) + '_' + self.type_ + '_r' + str(self.learning_rate) + '_b' + str(self.batch_size) + '_l' + str(self.l2_reg)
-            train_summary_writer = tf.train.SummaryWriter(_dir + '/train', sess.graph)
-            test_summary_writer = tf.train.SummaryWriter(_dir + '/test', sess.graph)
-            validate_summary_writer = tf.train.SummaryWriter(_dir + '/validate', sess.graph)
+            train_summary_writer = tf.summary.FileWriter(_dir + '/train', sess.graph)
+            test_summary_writer = tf.summary.FileWriter(_dir + '/test', sess.graph)
+            validate_summary_writer = tf.summary.FileWriter(_dir + '/validate', sess.graph)
 
             tr_x, tr_sen_len, tr_x_bw, tr_sen_len_bw, tr_y, tr_target_word = load_inputs_twitter(
                 FLAGS.train_file_path,
@@ -166,11 +166,11 @@ class LSTM(object):
                 self.type_
             )
 
-            init = tf.initialize_all_variables()
+            init = tf.global_variables_initializer()
             sess.run(init)
 
             max_acc = 0.
-            for i in xrange(self.n_iter):
+            for i in range(self.n_iter):
                 for train, _ in self.get_batch_data(tr_x, tr_sen_len, tr_x_bw, tr_sen_len_bw, tr_y, tr_target_word, self.batch_size, 0.5):
                     _, step, summary = sess.run([optimizer, global_step, train_summary_op], feed_dict=train)
                     train_summary_writer.add_summary(summary, step)
@@ -180,22 +180,22 @@ class LSTM(object):
                     acc += _acc
                     loss += _loss * num
                     cnt += num
-                print cnt
-                print acc
+                print(cnt)
+                print(acc)
                 test_summary_writer.add_summary(summary, step)
-                print 'Iter {}: mini-batch loss={:.6f}, test acc={:.6f}'.format(step, loss / cnt, acc / cnt)
+                print('Iter {}: mini-batch loss={:.6f}, test acc={:.6f}'.format(step, loss / cnt, acc / cnt))
                 test_summary_writer.add_summary(summary, step)
                 if acc / cnt > max_acc:
                     max_acc = acc / cnt
-            print 'Optimization Finished! Max acc={}'.format(max_acc)
+            print('Optimization Finished! Max acc={}'.format(max_acc))
 
-            print 'Learning_rate={}, iter_num={}, batch_size={}, hidden_num={}, l2={}'.format(
+            print('Learning_rate={}, iter_num={}, batch_size={}, hidden_num={}, l2={}'.format(
                 self.learning_rate,
                 self.n_iter,
                 self.batch_size,
                 self.n_hidden,
                 self.l2_reg
-            )
+            ))
 
     def get_batch_data(self, x, sen_len, x_bw, sen_len_bw, y, target_words, batch_size, keep_prob):
         for index in batch_index(len(y), batch_size, 1):
